@@ -1,0 +1,717 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+	color: #333; /* Standard-Schwarz/Dunkelgrau */
+}
+
+/* Wenn der Hintergrund schwarz ist, ändere die Textfarbe */
+body.dark-background {
+    background-color: black;
+    color: #F5F5DC; /* Beige oder Hellgrau */
+}
+
+header {
+    margin-bottom: 0;
+}
+
+.header-background {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.header-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    z-index: 10;
+}
+
+header img {
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+nav {
+    background-color: #333; /* #999999 */
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 0; /* Ensure the navigation is right under the header */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+	font-size: 15px; /* Setze eine spezielle Schriftgröße für das Menü */
+}
+
+nav a:hover {
+    color: #ff6600;
+}
+
+.main-header {
+    position: relative;
+    width: 100%;
+    height: 200px; /* Adjust this value as needed */
+	/*background-image: url('/images/header/banner.jpg')*/
+    background: url('/images/header/banner.jpg') no-repeat center center;
+    background-size: cover; /* Ensure the image covers the area */
+    margin: 0; /* Remove margin to position it at the top */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.main-header h1 {
+    margin: 0;
+    color: #fff;
+    font-size: 2.5rem;
+}
+
+.main-header img {
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+main {
+    padding: 20px;
+    background: #fff;
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer a {
+    color: #ff6600;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #fff;
+}
+
+footer img {
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    width: 20px;
+    height: auto;
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+footer img:hover {
+    transform: scale(1.1); /* Vergrößert das Icon leicht beim Hover */
+    filter: invert(1);
+}
+
+.hero {
+    background-color: #ff6600;
+    color: #fff;
+    text-align: center;
+    padding: 40px 20px;
+    margin-bottom: 20px;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin: 10px 0 0;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
+
+.feature {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+    flex: 1;
+}
+
+.feature img {
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+.feature h2 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+.feature p {
+    font-size: 1rem;
+}
+
+.feature a {
+    color: #ff6600;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.feature a:hover {
+    text-decoration: underline;
+}
+
+.cta {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 40px 20px;
+    margin-top: 20px;
+}
+
+.cta h2 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.cta p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.cta .button {
+    display: inline-block;
+    background-color: #ff6600;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.cta .button:hover {
+    background-color: #e65c00;
+}
+
+.filters {
+    margin-bottom: 20px;
+}
+
+.filters a {
+    text-decoration: none;
+    color: #ff6600; /* Orange Farbe für Links */
+    margin-right: 15px;
+}
+
+.filters a:hover {
+    text-decoration: underline;
+}
+
+.tag {
+    background-color: #e6e6e6;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-right: 5px;
+    font-size: 0.9em;
+}
+	
+/* Erhöht die Breite des Hauptinhalts und zentriert ihn */
+.main-content {
+    width: 60%; /* Breite auf 90% des Viewports einstellen */
+    max-width: 1200px; /* Maximalbreite für große Bildschirme */
+    margin: 0 auto; /* Zentriert den Inhalt horizontal */
+}
+
+/* Anpassung für die Breite der einzelnen Blogartikel */
+.single-page {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.social-icons img {
+    width: 24px; /* Setze die Breite der Icons */
+    height: auto; /* Automatische Höhe, um die Proportionen zu erhalten */
+    margin: 0 10px; /* Abstand zwischen den Icons */
+}
+
+audio {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Globale Link-Stile */
+a {
+    color: #b34700; /* Orange für Links */
+    text-decoration: none; /* Entferne die Unterstreichung */
+    /* font-size: 19px; /* Standard-Schriftgröße */ 
+}
+
+a:hover {
+    color: #ff6600; /* Dunklere Farbe bei Hover */
+    text-decoration: underline; /* Unterstreichung bei Hover */
+}
+
+.blog-content a {
+    font-size: 16px; /* Kleinere Schriftgröße für Blog-Links */
+}
+
+.blog-title {
+    margin: 0;
+    font-size: 0.7rem; /* Kleinere Schriftgröße für die Überschrift */ 
+}
+
+.tag-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.tag-item {
+    display: inline-block;
+    background-color: #e6e6e6;
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 4px;
+}
+
+.tag-item a {
+    text-decoration: none;
+    color: #333;
+}
+
+.tag-post-title {
+    font-size: 1.1rem; /* Aktuelle Schriftgröße */
+    margin: 5px 0;
+}
+
+.tag-list p {
+    border: 1px solid #e6e6e6;   /* Leichter grauer Rahmen */
+    padding: 5px;                /* Innenabstand */
+    border-radius: 4px;          /* Abgerundete Ecken */
+    background-color: #f9f9f9;   /* Optional: hellgrauer Hintergrund */
+    display: inline-block;       /* Tags kompakt zusammenhalten */
+    font-size: 0.9rem;           /* Schriftgröße anpassen */
+}
+
+.news-list a {
+    font-size: 16px; /* Kleinere Schriftgröße für Links in News */
+}
+
+.guide-list a {
+    font-size: 16px; /* Kleinere Schriftgröße für Links in Guides */
+}
+
+.tools-list a {
+    font-size: 16px; /* Kleinere Schriftgröße für Links in Guides */
+}
+
+.tag-posts {
+    list-style: none; /* Entfernt die Standard-Punkte der Liste */
+    padding: 0; /* Entfernt den Innenabstand */
+    margin: 0; /* Entfernt den Außenabstand */
+}
+
+.tag-post-item {
+    padding: 15px 0; /* Innenabstand oben und unten für die Listenelemente */
+    border-bottom: 1px solid #ddd; /* Trennlinie zwischen den Artikeln */
+}
+
+.tag-post-item:last-child {
+    border-bottom: none; /* Entfernt die Trennlinie nach dem letzten Artikel */
+}
+
+.blog-summary-box {
+    background-color: #f9f9f9; /* Sehr heller Hintergrund */
+    border-left: 4px solid #5a7d9a; /* Farbliche Linie links */
+    padding: 10px;
+    font-size: 1rem; /* Standardgröße */
+    color: #5a7d9a !important; /* Dunklere Farbe für besseren Kontrast, mit !important */
+    font-style: italic; /* Kursiv für die Schrift */
+}
+
+.blog-list {
+    margin-bottom: 20px; /* Abstand zwischen der Blogliste und anderen Elementen */
+}
+
+.blog-list h1 {
+    font-size: 1.5rem; /* Schriftgröße für die Hauptüberschrift der Blogliste */
+    margin-bottom: 15px; /* Abstand unter der Überschrift */
+}
+
+.blog-list ul {
+    list-style-type: none; /* Entfernt die standardmäßigen Aufzählungspunkte */
+    padding: 0; /* Entfernt das Padding */
+}
+
+.blog-list li {
+    padding: 15px; /* Innenabstand für jedes Listenelement */
+    border: 1px solid #ddd; /* Leichter Rahmen um die Listenelemente */
+    margin-bottom: 10px; /* Abstand zwischen den Listenelementen */
+    background-color: #fff; /* Hintergrundfarbe für die Listenelemente */
+}
+
+.blog-list li h2 {
+    font-size: 1.0rem; /* Schriftgröße für die Überschrift jedes Blogartikels */
+    margin: 0; /* Entfernt Standardmargin */
+}
+
+.blog-summary {
+    font-style: italic; /* Kursiv für die Zusammenfassung */
+    color: #5a7d9a; /* Farbe für die Zusammenfassung */
+}
+
+.news-list,
+.tools-list,
+.guide-list {
+    margin-bottom: 20px; /* Abstand zwischen den Listen und anderen Elementen */
+}
+
+.news-list h1,
+.tools-list h1,
+.guide-list h1 {
+    font-size: 1.5rem; /* Schriftgröße für die Hauptüberschrift der Listen */
+    margin-bottom: 15px; /* Abstand unter der Überschrift */
+}
+
+.news-list ul,
+.tools-list ul,
+.guide-list ul {
+    list-style-type: none; /* Entfernt die standardmäßigen Aufzählungspunkte */
+    padding: 0; /* Entfernt das Padding */
+}
+
+.news-list li,
+.tools-list li,
+.guide-list li {
+    padding: 15px; /* Innenabstand für jedes Listenelement */
+    border: 1px solid #ddd; /* Leichter Rahmen um die Listenelemente */
+    margin-bottom: 10px; /* Abstand zwischen den Listenelementen */
+    background-color: #fff; /* Hintergrundfarbe für die Listenelemente */
+}
+
+.news-list li h2,
+.tools-list li h2,
+.guide-list li h2 {
+    font-size: 1.5rem; /* Schriftgröße für die Überschrift jedes Artikels */
+    margin: 0; /* Entfernt Standardmargin */
+}
+
+.news-summary,
+.tools-summary,
+.guide-summary {
+    font-style: italic; /* Kursiv für die Zusammenfassung */
+    color: #5a7d9a; /* Farbe für die Zusammenfassung */
+}
+
+.article-single {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.article-header h1 {
+    font-size: 2.4em;
+    margin-bottom: 10px;
+}
+
+.article-meta {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.article-content {
+    font-size: 1.2em;
+    line-height: 1.8;
+}
+
+.article-tags ul {
+    list-style: none;
+    padding: 0;
+}
+
+.article-tags li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.article-navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+/* Box-ähnliche Struktur für die Sidebar-Abschnitte */
+.sidebar-section.box {
+    background-color: #f9f9f9; /* Helle Hintergrundfarbe für den Boxen-Effekt */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px; /* Abgerundete Ecken */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Leichter Schatten */
+    border: 1px solid #ddd; /* Leichter Rand */
+}
+
+/* Titel innerhalb der Boxen */
+.sidebar-section h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #b34700; /* Akzentfarbe für die Titel */
+}
+
+/* Liste innerhalb der Boxen */
+.sidebar-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar-section ul li {
+    margin-bottom: 10px;
+}
+
+/* Links und Datum für Blog-Artikel oder News */
+.sidebar-section ul li a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+}
+
+.sidebar-section ul li a:hover {
+    color: #b34700; /* Hover-Effekt für die Links */
+}
+
+.sidebar-section ul li .date {
+    display: block;
+    color: #777;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+/* Abstand zwischen den Boxen */
+.sidebar-section + .sidebar-section {
+    margin-top: 20px;
+}
+
+/* Hover-Effekt für die Boxen */
+.sidebar-section.box:hover {
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); /* Verstärkter Schatten beim Hover */
+    transform: translateY(-3px); /* Leichtes "Anheben" beim Hover */
+}
+
+.container {
+    display: flex; /* Flexbox für eine einfache Anordnung */
+    width: 100%;
+    margin: 0; /* Kein Margin, um den Rahmen am Rand zu halten */
+}
+
+.main-content {
+    flex: 1; /* Der Inhalt nimmt den verfügbaren Platz ein */
+    padding-right: 20px; /* Abstand zwischen dem Inhalt und der Sidebar */
+}
+
+.sidebar {
+    width: 300px; /* Feste Breite für die Sidebar */
+    flex-shrink: 0; /* Verhindert, dass die Sidebar kleiner wird */
+    background-color: #ffffff; /* Optional: Hintergrundfarbe für die Sidebar */
+	padding: 10px; /* Etwas Innenabstand für die Sidebar */
+}
+
+/* Abstand zwischen den Boxen in der Sidebar */
+.sidebar > div {
+    margin-bottom: 20px; /* Abstand zwischen den Boxen */
+    padding: 10px; /* Innenabstand für die Boxen */
+    background-color: #f9f9f9; /* Hintergrundfarbe für die Boxen */
+    border: 1px solid #ccc; /* Rahmen für die Boxen */
+    border-radius: 5px; /* Runde Ecken für die Boxen */
+    font-size: 12px !important; /* Kleinere Schriftgröße, mit !important */
+    line-height: 1.5 !important; /* Zeilenabstand, mit !important */
+}
+
+.sidebar > div h2 {
+    font-size: 14px !important; /* Überschrift etwas größer, mit !important */
+}
+
+.main-content {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.sidebar-box {
+    background-color: #f4f4f4;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.sidebar-box h3 {
+    margin-top: 0;
+	font-size: 16px;  /* Schriftgröße für die h3-Überschrift */
+}
+
+.sidebar-box ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar-box ul li {
+    margin-bottom: 10px;
+}
+
+.sidebar-box a {
+    font-size: 14px; /* Schriftgröße für die Links */
+    /* color: inherit; /* Erbt die Textfarbe der Sidebar-Box */
+	color: #b34700 !important; /* Setze die gewünschte Linkfarbe (blau in diesem Beispiel) */
+    text-decoration: none; /* Entfernt die Unterstreichung des Links */
+}
+
+.sidebar-box a:hover {
+    text-decoration: underline; /* Unterstreichung beim Hover */
+	color: #ff6600 !important; /* Ändere die Farbe beim Hover (dunkleres Blau) */
+	}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+h1 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #355070; /* Kräftiges Dunkelblau für klare Hervorhebung */
+}
+
+h3 {
+    color: #527a9a; /* Dezenter Blauton, der gut zwischen h2 und h4 vermittelt */
+}
+
+h4 {
+    color: #7a9eac; /* Heller, leicht gräulicher Blauton */
+}
+
+h3 {
+    margin-top: 50px;  /* Abstand nach oben vergrößern */
+    margin-bottom: 20px; /* Abstand nach unten vergrößern */
+}
+
+h4 {
+    margin-top: 10px;  /* Abstand nach oben vergrößern */
+    margin-bottom: 20px; /* Abstand nach unten vergrößern */
+}
+
+h3::after, h4::after {
+    content: "";
+    display: block;
+    /* width: 100%;*/
+    height: 1px;
+    background-color: #e0e0e0; /* dezentes Grau */
+    /*margin-top: 5px; /* Abstand zur Linie */
+}
+
+h3::after {
+    width: 100%;
+}
+
+h4::after {
+    width: 50%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 8px; /* Einheitlicher Abstand für alle Überschriften */
+}
+
+/* Container für Sidebar und Artikelliste */
+.news-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+/* Hauptbereich der Artikelliste */
+.news-list {
+    flex: 1;
+    order: 0; /* Standardmäßig links */
+}
+
+/* Sidebar auf der rechten Seite */
+.tag-sidebar {
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 70px;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    order: 1;
+}
+
+.tag-sidebar h3 {
+    margin-top: 0;
+    margin-bottom: 10px; /* Falls du einen kleinen Abstand zum Inhalt darunter möchtest */
+}
+
+/* Anpassen der Tags in der Sidebar */
+.tag-sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.tag-sidebar li {
+    margin-bottom: 5px;
+}
+
+.tag-sidebar a {
+    text-decoration: none;
+    color: #007acc;
+}
+
+.tag-sidebar a:hover {
+    text-decoration: underline;
+}
+
+/* Container, der das Bild enthält */
+figure {
+  display: flex;
+  justify-content: center; /* Zentriert das Bild horizontal */
+  align-items: center;     /* Zentriert das Bild vertikal (falls gewünscht) */
+  margin: 0 auto;          /* Zentriert das Element innerhalb seines Containers */
+}
+
+/* Optional: Bildgröße anpassen */
+.responsive-image {
+  max-width: 100%; /* Stellt sicher, dass das Bild bei Bedarf skaliert */
+  height: auto;    /* Erhält das Seitenverhältnis des Bildes */
+}
