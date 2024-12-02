@@ -715,3 +715,20 @@ figure {
   max-width: 100%; /* Stellt sicher, dass das Bild bei Bedarf skaliert */
   height: auto;    /* Erhält das Seitenverhältnis des Bildes */
 }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}

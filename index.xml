@@ -6,8 +6,15 @@
     <description>Recent content in Willkommen bei athome-it on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 29 Nov 2024 12:39:22 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 10:39:56 +0200</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Änderung von Manifest V2 auf V3 für Chrome – Gründe und Auswirkungen</title>
+      <link>/blog/2024-12-02-google-und-manifest-v3-auswirkungen/</link>
+      <pubDate>Mon, 02 Dec 2024 10:39:56 +0200</pubDate>
+      <guid>/blog/2024-12-02-google-und-manifest-v3-auswirkungen/</guid>
+      <description>In den letzten Jahren hat Google signifikante Änderungen an den Erweiterungsrichtlinien für seinen Chrome-Browser vorgenommen. Eines der größten Updates ist der Übergang von Manifest V2 auf Manifest V3.</description>
+    </item>
     <item>
       <title>Plattform athome-it startet</title>
       <link>/news/2024-11-29-plattform-athome-it-startet/</link>

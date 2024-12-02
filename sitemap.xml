@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/athome-it/</loc>
-    <lastmod>2024-11-29T12:39:22+02:00</lastmod>
+    <loc>/blog/2024-12-02-google-und-manifest-v3-auswirkungen/</loc>
+    <lastmod>2024-12-02T10:39:56+02:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2024-12-02T10:39:56+02:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
+    <lastmod>2024-12-02T10:39:56+02:00</lastmod>
+  </url><url>
+    <loc>/tags/chrome/</loc>
+    <lastmod>2024-12-02T10:39:56+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2024-12-02T10:39:56+02:00</lastmod>
+  </url><url>
+    <loc>/tags/manifest/</loc>
+    <lastmod>2024-12-02T10:39:56+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-12-02T10:39:56+02:00</lastmod>
+  </url><url>
+    <loc>/tags/tracking/</loc>
+    <lastmod>2024-12-02T10:39:56+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-12-02T10:39:56+02:00</lastmod>
+  </url><url>
+    <loc>/tags/athome-it/</loc>
     <lastmod>2024-11-29T12:39:22+02:00</lastmod>
   </url><url>
     <loc>/tags/news/</loc>
@@ -19,14 +43,6 @@
   </url><url>
     <loc>/news/2024-11-29-plattform-athome-it-startet/</loc>
     <lastmod>2024-11-29T12:39:22+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-11-29T12:39:22+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-11-29T12:39:22+02:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
   </url><url>
     <loc>/dataprotection/</loc>
   </url><url>
