@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guides on athome-it</title>
-    <link>/guides/</link>
-    <description>Recent content in Guides on athome-it</description>
+    <title>Tipps on athome-it</title>
+    <link>/tags/tipps/</link>
+    <description>Recent content in Tipps on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Mon, 02 Dec 2024 15:09:04 +0200</lastBuildDate>
-    <atom:link href="/guides/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/tipps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manifest Version beim Surfen erkennen</title>
       <link>/guides/2024-12-02-manifest-version-erkennen/</link>
