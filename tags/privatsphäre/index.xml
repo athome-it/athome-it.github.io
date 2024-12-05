@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on athome-it</title>
-    <link>/blog/</link>
-    <description>Recent content in Blogs on athome-it</description>
+    <title>Privatsphäre on athome-it</title>
+    <link>/tags/privatsph%C3%A4re/</link>
+    <description>Recent content in Privatsphäre on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Thu, 05 Dec 2024 12:49:09 +0200</lastBuildDate>
-    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/privatsph%C3%A4re/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ist Google Chrome nach der Umstellung auf Manifest V3 noch zu enpfehlen?</title>
       <link>/blog/2024-12-05-ist-chrome-noch-zu-enpfehlen/</link>
       <pubDate>Thu, 05 Dec 2024 12:49:09 +0200</pubDate>
       <guid>/blog/2024-12-05-ist-chrome-noch-zu-enpfehlen/</guid>
       <description>Unter den aktuellen Umständen, insbesondere mit der Einführung von &lt;strong&gt;Manifest V3&lt;/strong&gt; in Google Chrome, ist es schwierig, Google Chrome als datenschutzfreundlichen Browser zu empfehlen. Die neuen Änderungen durch Manifest V3 schränken den Funktionsumfang von vielen wichtigen Erweiterungen ein, die den Schutz vor Tracking, Werbung und Überwachung bieten. Hier sind die wichtigsten Gründe, warum Google Chrome unter diesen Umständen weniger empfehlenswert ist:</description>
-    </item>
-    <item>
-      <title>Änderung von Manifest V2 auf V3 für Chrome – Gründe und Auswirkungen</title>
-      <link>/blog/2024-12-02-google-und-manifest-v3-auswirkungen/</link>
-      <pubDate>Mon, 02 Dec 2024 10:39:56 +0200</pubDate>
-      <guid>/blog/2024-12-02-google-und-manifest-v3-auswirkungen/</guid>
-      <description>In den letzten Jahren hat Google signifikante Änderungen an den Erweiterungsrichtlinien für seinen Chrome-Browser vorgenommen. Eines der größten Updates ist der Übergang von Manifest V2 auf Manifest V3.</description>
     </item>
   </channel>
 </rss>
