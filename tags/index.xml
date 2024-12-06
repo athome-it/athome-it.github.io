@@ -6,8 +6,29 @@
     <description>Recent content in Tags on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Dec 2024 12:49:09 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 12:11:01 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chrome</title>
+      <link>/tags/chrome/</link>
+      <pubDate>Fri, 06 Dec 2024 12:11:01 +0200</pubDate>
+      <guid>/tags/chrome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manifest</title>
+      <link>/tags/manifest/</link>
+      <pubDate>Fri, 06 Dec 2024 12:11:01 +0200</pubDate>
+      <guid>/tags/manifest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tracking</title>
+      <link>/tags/tracking/</link>
+      <pubDate>Fri, 06 Dec 2024 12:11:01 +0200</pubDate>
+      <guid>/tags/tracking/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Browser</title>
       <link>/tags/browser/</link>
@@ -16,31 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>Chrome</title>
-      <link>/tags/chrome/</link>
-      <pubDate>Thu, 05 Dec 2024 12:49:09 +0200</pubDate>
-      <guid>/tags/chrome/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Manifest</title>
-      <link>/tags/manifest/</link>
-      <pubDate>Thu, 05 Dec 2024 12:49:09 +0200</pubDate>
-      <guid>/tags/manifest/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Privatsphäre</title>
       <link>/tags/privatsph%C3%A4re/</link>
       <pubDate>Thu, 05 Dec 2024 12:49:09 +0200</pubDate>
       <guid>/tags/privatsph%C3%A4re/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tracking</title>
-      <link>/tags/tracking/</link>
-      <pubDate>Thu, 05 Dec 2024 12:49:09 +0200</pubDate>
-      <guid>/tags/tracking/</guid>
       <description></description>
     </item>
     <item>

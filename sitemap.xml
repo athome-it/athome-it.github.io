@@ -2,43 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2024-12-06T12:11:01+02:00</lastmod>
+  </url><url>
+    <loc>/tags/chrome/</loc>
+    <lastmod>2024-12-06T12:11:01+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2024-12-06T12:11:01+02:00</lastmod>
+  </url><url>
+    <loc>/guides/</loc>
+    <lastmod>2024-12-06T12:11:01+02:00</lastmod>
+  </url><url>
+    <loc>/tags/manifest/</loc>
+    <lastmod>2024-12-06T12:11:01+02:00</lastmod>
+  </url><url>
+    <loc>/guides/2024-12-06-schutz-gegen-tracking-und-werbung-manifest-v3/</loc>
+    <lastmod>2024-12-06T12:11:01+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-12-06T12:11:01+02:00</lastmod>
+  </url><url>
+    <loc>/tags/tracking/</loc>
+    <lastmod>2024-12-06T12:11:01+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-12-06T12:11:01+02:00</lastmod>
+  </url><url>
     <loc>/blog/</loc>
     <lastmod>2024-12-05T12:49:09+02:00</lastmod>
   </url><url>
     <loc>/tags/browser/</loc>
     <lastmod>2024-12-05T12:49:09+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2024-12-05T12:49:09+02:00</lastmod>
-  </url><url>
-    <loc>/tags/chrome/</loc>
-    <lastmod>2024-12-05T12:49:09+02:00</lastmod>
-  </url><url>
-    <loc>/categories/datenschutz/</loc>
-    <lastmod>2024-12-05T12:49:09+02:00</lastmod>
-  </url><url>
     <loc>/blog/2024-12-05-ist-chrome-noch-zu-enpfehlen/</loc>
-    <lastmod>2024-12-05T12:49:09+02:00</lastmod>
-  </url><url>
-    <loc>/tags/manifest/</loc>
     <lastmod>2024-12-05T12:49:09+02:00</lastmod>
   </url><url>
     <loc>/tags/privatsph%C3%A4re/</loc>
     <lastmod>2024-12-05T12:49:09+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-12-05T12:49:09+02:00</lastmod>
-  </url><url>
-    <loc>/tags/tracking/</loc>
-    <lastmod>2024-12-05T12:49:09+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-12-05T12:49:09+02:00</lastmod>
-  </url><url>
     <loc>/categories/guides/</loc>
-    <lastmod>2024-12-02T15:09:04+02:00</lastmod>
-  </url><url>
-    <loc>/guides/</loc>
     <lastmod>2024-12-02T15:09:04+02:00</lastmod>
   </url><url>
     <loc>/guides/2024-12-02-manifest-version-erkennen/</loc>

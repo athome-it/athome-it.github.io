@@ -6,8 +6,15 @@
     <description>Recent content in Tracking on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Dec 2024 12:49:09 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 12:11:01 +0200</lastBuildDate>
     <atom:link href="/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schutz gegen Tracking und Werbung trotz Manifest V3</title>
+      <link>/guides/2024-12-06-schutz-gegen-tracking-und-werbung-manifest-v3/</link>
+      <pubDate>Fri, 06 Dec 2024 12:11:01 +0200</pubDate>
+      <guid>/guides/2024-12-06-schutz-gegen-tracking-und-werbung-manifest-v3/</guid>
+      <description>Mit den Änderungen durch Manifest V3 stehen Nutzer vor neuen Herausforderungen, wenn es darum geht, sich gegen Tracking und Werbung zu schützen.</description>
+    </item>
     <item>
       <title>Ist Google Chrome nach der Umstellung auf Manifest V3 noch zu enpfehlen?</title>
       <link>/blog/2024-12-05-ist-chrome-noch-zu-enpfehlen/</link>
