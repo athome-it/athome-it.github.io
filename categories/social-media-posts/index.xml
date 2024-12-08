@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on athome-it</title>
-    <link>/news/</link>
-    <description>Recent content in News on athome-it</description>
+    <title>Social-Media-Posts on athome-it</title>
+    <link>/categories/social-media-posts/</link>
+    <description>Recent content in Social-Media-Posts on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sun, 08 Dec 2024 08:11:01 +0000</lastBuildDate>
-    <atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/social-media-posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social Media Posts der KW 49, 2024</title>
       <link>/news/2024-12-08-kw49-weekly-posts/</link>
       <pubDate>Sun, 08 Dec 2024 08:11:01 +0000</pubDate>
       <guid>/news/2024-12-08-kw49-weekly-posts/</guid>
       <description>Weekly Social Media Posts - KW 49, 2024</description>
-    </item>
-    <item>
-      <title>Plattform athome-it startet</title>
-      <link>/news/2024-11-29-plattform-athome-it-startet/</link>
-      <pubDate>Fri, 29 Nov 2024 12:39:22 +0200</pubDate>
-      <guid>/news/2024-11-29-plattform-athome-it-startet/</guid>
-      <description>Plattform athome-it startet</description>
     </item>
   </channel>
 </rss>
