@@ -6,8 +6,15 @@
     <description>Recent content in Tracking on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 06 Dec 2024 12:11:01 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 16:07:55 +0200</lastBuildDate>
     <atom:link href="/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tracking im Alltag: Was dein Smartphone über dich verrät</title>
+      <link>/guides/2024-12-12-smartphone-tracking/</link>
+      <pubDate>Thu, 12 Dec 2024 16:07:55 +0200</pubDate>
+      <guid>/guides/2024-12-12-smartphone-tracking/</guid>
+      <description>Wusstest du, dass dein Smartphone fast alles über deinen Alltag verrät? Standortdaten, Suchverläufe, Fitnessdaten – all das wird gesammelt, oft ohne dass du es bewusst erlaubst. Doch was steckt dahinter?</description>
+    </item>
     <item>
       <title>Schutz gegen Tracking und Werbung trotz Manifest V3</title>
       <link>/guides/2024-12-06-schutz-gegen-tracking-und-werbung-manifest-v3/</link>

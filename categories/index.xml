@@ -6,8 +6,15 @@
     <description>Recent content in Categories on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 08 Dec 2024 08:11:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 16:07:55 +0200</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guides</title>
+      <link>/categories/guides/</link>
+      <pubDate>Thu, 12 Dec 2024 16:07:55 +0200</pubDate>
+      <guid>/categories/guides/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Social-Media-Posts</title>
       <link>/categories/social-media-posts/</link>
@@ -20,13 +27,6 @@
       <link>/categories/datenschutz/</link>
       <pubDate>Fri, 06 Dec 2024 16:25:09 +0200</pubDate>
       <guid>/categories/datenschutz/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guides</title>
-      <link>/categories/guides/</link>
-      <pubDate>Mon, 02 Dec 2024 15:09:04 +0200</pubDate>
-      <guid>/categories/guides/</guid>
       <description></description>
     </item>
     <item>
