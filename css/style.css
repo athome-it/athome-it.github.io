@@ -720,9 +720,9 @@ figcaption {
   margin-top: 0.5rem;
 }
 
-@media (max-width: 768px) {
-  figure {
-    padding: none;       /* Fügt seitliche Abstände hinzu */
+@media screen and (max-width: 768px) {
+  .sidebar {
+    display: none;  /* Sidebar ausblenden */
   }
 
 /* Optional: Bildgröße anpassen */
