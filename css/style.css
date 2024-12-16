@@ -705,16 +705,35 @@ h1, h2, h3, h4, h5, h6 {
 /* Container, der das Bild enthält */
 figure {
   display: flex;
+  flex-direction: column;  /* Stellt sicher, dass das Bild und der Text untereinander gestapelt werden */
   justify-content: center; /* Zentriert das Bild horizontal */
-  align-items: center;     /* Zentriert das Bild vertikal (falls gewünscht) */
-  margin: 0 auto;          /* Zentriert das Element innerhalb seines Containers */
+  align-items: center;     /* Zentriert Inhalte horizontal */
+  margin: 0 auto;          /* Zentriert die gesamte Figure */
+  max-width: 100%;         /* Verhindert Überbreite auf kleineren Bildschirmen */
+  text-align: center;      /* Zentriert den Text innerhalb der Figure */
+  overflow: hidden;
 }
+
+figcaption {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  figure {
+    padding: none;       /* Fügt seitliche Abstände hinzu */
+  }
 
 /* Optional: Bildgröße anpassen */
 .responsive-image {
   max-width: 100%; /* Stellt sicher, dass das Bild bei Bedarf skaliert */
   height: auto;    /* Erhält das Seitenverhältnis des Bildes */
+  object-fit: contain;      /* Skaliert das Bild, sodass der gesamte Inhalt sichtbar bleibt */
+  display: block;           /* Verhindert Lücken unterhalb von Bildern */
+  margin: 0 auto;           /* Bild zentrieren */
 }
+
 table {
   border-collapse: collapse;
   width: 100%;
