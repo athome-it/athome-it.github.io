@@ -666,6 +666,11 @@ h1, h2, h3, h4, h5, h6 {
     order: 0; /* Standardmäßig links */
 }
 
+/* Standard: Sidebar wird angezeigt */
+.sidebar, .tag-sidebar {
+  display: block;
+}
+
 /* Sidebar auf der rechten Seite */
 .tag-sidebar {
     width: 200px;
@@ -721,13 +726,18 @@ figcaption {
   margin-top: 0.5rem;
 }
 
+/* Auf mobilen Geräten (maximale Breite 768px): Sidebar ausblenden */
 @media screen and (max-width: 768px) {
-  .tag-sidebar {
+  .sidebar, /* Sidebar auf der Homepage */
+  .tag-sidebar { /* Sidebar auf den Listen-Seiten */
     display: none; /* Sidebar ausblenden */
   }
 
-  .news-list, .blog-list, .guides-list {
-    width: 100%; /* Volle Breite auf kleinen Geräten */
+  /* Hauptinhalt auf die volle Breite erweitern */
+  .news-list, 
+  .blog-list, 
+  .guides-list {
+    width: 100%;
   }
 }
 
