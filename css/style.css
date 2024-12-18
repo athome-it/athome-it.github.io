@@ -676,6 +676,7 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     order: 1;
+	display: block; /* Standardmäßig anzeigen */
 }
 
 .tag-sidebar h3 {
@@ -721,9 +722,14 @@ figcaption {
 }
 
 @media screen and (max-width: 768px) {
-  .sidebar {
-    display: none;  /* Sidebar ausblenden */
+  .tag-sidebar {
+    display: none; /* Sidebar ausblenden */
   }
+
+  .news-list, .blog-list, .guides-list {
+    width: 100%; /* Volle Breite auf kleinen Geräten */
+  }
+}
 
 /* Optional: Bildgröße anpassen */
 .responsive-image {
