@@ -729,8 +729,10 @@ figcaption {
 /* Auf mobilen Geräten (maximale Breite 768px) */
 @media (max-width: 768px) {
     nav ul {
+        display: flex;
         flex-direction: column; /* Stapelt die Navigation vertikal */
         align-items: center;    /* Zentriert die Navigation */
+        padding: 0;
     }
 
     nav ul li {
@@ -752,11 +754,13 @@ figcaption {
     }
 }
 
-/* Auf größeren Bildschirmgrößen (ab 769px) */
+/* Auf größeren Geräten (ab 769px, wie Tablets und größere Bildschirmgrößen) */
 @media (min-width: 769px) {
     nav ul {
+        display: flex;
         flex-direction: row; /* Setzt die Navigation wieder nebeneinander */
-        justify-content: space-around; /* Verteilt die Links gleichmäßig */
+        justify-content: space-between; /* Links gleichmäßig verteilen */
+        align-items: center; /* Vertikale Zentrierung */
     }
 
     nav ul li {
@@ -767,14 +771,14 @@ figcaption {
         padding: 20px; /* Mehr Padding für größere Bildschirme */
     }
 
-    /* Sidebar wieder anzeigen, falls sie ausgeblendet wurde */
+    /* Sidebar wieder anzeigen */
     .sidebar, .tag-sidebar {
         display: block;
     }
 
     /* Hauptinhalt kann wieder standardmäßig angezeigt werden */
     .news-list, .blog-list, .guides-list {
-        width: auto; /* Setzt die Breite zurück */
+        width: auto;
     }
 }
 
