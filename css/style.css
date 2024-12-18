@@ -726,7 +726,7 @@ figcaption {
   margin-top: 0.5rem;
 }
 
-/* Media Query um das Layout der Navigation bei kleineren Bildschirmgrößen zu ändern:*/
+/* Auf mobilen Geräten (maximale Breite 768px) */
 @media (max-width: 768px) {
     nav ul {
         flex-direction: column; /* Stapelt die Navigation vertikal */
@@ -740,23 +740,43 @@ figcaption {
     nav {
         padding: 10px; /* Weniger Padding für mobile Ansicht */
     }
+
+    /* Sidebar ausblenden */
+    .sidebar, .tag-sidebar {
+        display: none;
+    }
+
+    /* Hauptinhalt auf die volle Breite erweitern */
+    .news-list, .blog-list, .guides-list {
+        width: 100%;
+    }
 }
 
-/* Auf mobilen Geräten (maximale Breite 768px): Sidebar ausblenden */
-@media screen and (max-width: 768px) {
-  .sidebar, /* Sidebar auf der Homepage */
-  .tag-sidebar { /* Sidebar auf den Listen-Seiten */
-    display: none; /* Sidebar ausblenden */
-  }
+/* Auf größeren Bildschirmgrößen (ab 769px) */
+@media (min-width: 769px) {
+    nav ul {
+        flex-direction: row; /* Setzt die Navigation wieder nebeneinander */
+        justify-content: space-around; /* Verteilt die Links gleichmäßig */
+    }
 
-  /* Hauptinhalt auf die volle Breite erweitern */
-  .news-list, 
-  .blog-list, 
-  .guides-list {
-    width: 100%;
-  }
+    nav ul li {
+        margin: 0 15px; /* Abstand zwischen den einzelnen Links */
+    }
+
+    nav {
+        padding: 20px; /* Mehr Padding für größere Bildschirme */
+    }
+
+    /* Sidebar wieder anzeigen, falls sie ausgeblendet wurde */
+    .sidebar, .tag-sidebar {
+        display: block;
+    }
+
+    /* Hauptinhalt kann wieder standardmäßig angezeigt werden */
+    .news-list, .blog-list, .guides-list {
+        width: auto; /* Setzt die Breite zurück */
+    }
 }
-
 
 /* Optional: Bildgröße anpassen */
 .responsive-image {
