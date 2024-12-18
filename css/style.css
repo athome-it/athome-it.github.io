@@ -726,9 +726,8 @@ figcaption {
   margin-top: 0.5rem;
 }
 
-/* Auf mobilen Geräten (maximale Breite 768px) */
+/* Media Query um das Layout der Navigation bei kleineren Bildschirmgrößen zu ändern:*/
 @media (max-width: 768px) {
-    /* Navigation */
     nav ul {
         flex-direction: column; /* Stapelt die Navigation vertikal */
         align-items: center;    /* Zentriert die Navigation */
@@ -741,20 +740,23 @@ figcaption {
     nav {
         padding: 10px; /* Weniger Padding für mobile Ansicht */
     }
-
-    /* Sidebar ausblenden */
-    .sidebar, /* Sidebar auf der Homepage */
-    .tag-sidebar { /* Sidebar auf den Listen-Seiten */
-        display: none; /* Sidebar ausblenden */
-    }
-
-    /* Hauptinhalt auf die volle Breite erweitern */
-    .news-list, 
-    .blog-list, 
-    .guides-list {
-        width: 100%;
-    }
 }
+
+/* Auf mobilen Geräten (maximale Breite 768px): Sidebar ausblenden */
+@media screen and (max-width: 768px) {
+  .sidebar, /* Sidebar auf der Homepage */
+  .tag-sidebar { /* Sidebar auf den Listen-Seiten */
+    display: none; /* Sidebar ausblenden */
+  }
+
+  /* Hauptinhalt auf die volle Breite erweitern */
+  .news-list, 
+  .blog-list, 
+  .guides-list {
+    width: 100%;
+  }
+}
+
 
 /* Optional: Bildgröße anpassen */
 .responsive-image {
