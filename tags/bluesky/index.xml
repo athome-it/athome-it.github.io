@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bluesky on athome-it</title>
+    <link>/tags/bluesky/</link>
+    <description>Recent content in Bluesky on athome-it</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 16 Dec 2024 15:53:04 +0200</lastBuildDate>
+    <atom:link href="/tags/bluesky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anleitung zur Eröffnung eines Accounts bei Bluesky</title>
+      <link>/guides/2024-12-16-anleitung-eroeffnung-eines-accounts-bei-bluesky/</link>
+      <pubDate>Mon, 16 Dec 2024 15:53:04 +0200</pubDate>
+      <guid>/guides/2024-12-16-anleitung-eroeffnung-eines-accounts-bei-bluesky/</guid>
+      <description>Anleitung zur Eröffnung eines Accounts bei Bluesky</description>
+    </item>
+    <item>
+      <title>Mastodon und Bluesky lohnenswerte Alternativen zu Twitter</title>
+      <link>/blog/2024-12-16-mastodon-bluesky-alternativen-zu-twitter/</link>
+      <pubDate>Mon, 16 Dec 2024 15:05:22 +0200</pubDate>
+      <guid>/blog/2024-12-16-mastodon-bluesky-alternativen-zu-twitter/</guid>
+      <description>Mastodon und Bluesky – lohnenswerte Alternativen zu Twitter seit der Übernahme durch Elon Musk&amp;quot;</description>
+    </item>
+  </channel>
+</rss>

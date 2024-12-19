@@ -6,20 +6,34 @@
     <description>Recent content in Tags on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Dec 2024 08:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 15:59:56 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastodon</title>
+      <link>/tags/mastodon/</link>
+      <pubDate>Mon, 16 Dec 2024 15:59:56 +0200</pubDate>
+      <guid>/tags/mastodon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microblogging</title>
+      <link>/tags/microblogging/</link>
+      <pubDate>Mon, 16 Dec 2024 15:59:56 +0200</pubDate>
+      <guid>/tags/microblogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bluesky</title>
+      <link>/tags/bluesky/</link>
+      <pubDate>Mon, 16 Dec 2024 15:53:04 +0200</pubDate>
+      <guid>/tags/bluesky/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Social-Media-Posts</title>
       <link>/tags/social-media-posts/</link>
       <pubDate>Sun, 15 Dec 2024 08:03:19 +0000</pubDate>
       <guid>/tags/social-media-posts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mastodon</title>
-      <link>/tags/mastodon/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/mastodon/</guid>
       <description></description>
     </item>
     <item>
