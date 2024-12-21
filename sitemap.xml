@@ -2,16 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2024-12-21T08:49:34+00:00</lastmod>
+  </url><url>
+    <loc>/news/</loc>
+    <lastmod>2024-12-21T08:49:34+00:00</lastmod>
+  </url><url>
+    <loc>/news/2024-12-21-kw51-weekly-posts/</loc>
+    <lastmod>2024-12-21T08:49:34+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-posts/</loc>
+    <lastmod>2024-12-21T08:49:34+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-posts/</loc>
+    <lastmod>2024-12-21T08:49:34+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-12-21T08:49:34+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-12-21T08:49:34+00:00</lastmod>
+  </url><url>
+    <loc>/tags/bluesky/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mastodon/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/2024-12-21-kw51-weekly-shared-bluesky-posts/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/2024-12-21-kw51-weekly-shared-mastodon-posts/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-shared-posts/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-shared-posts/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/guides/2024-12-16-anleitung-eroeffnung-eines-accounts-bei-mastodon/</loc>
     <lastmod>2024-12-16T15:59:56+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2024-12-16T15:59:56+02:00</lastmod>
-  </url><url>
     <loc>/guides/</loc>
-    <lastmod>2024-12-16T15:59:56+02:00</lastmod>
-  </url><url>
-    <loc>/tags/mastodon/</loc>
     <lastmod>2024-12-16T15:59:56+02:00</lastmod>
   </url><url>
     <loc>/tags/microblogging/</loc>
@@ -20,16 +53,7 @@
     <loc>/categories/microblogging/</loc>
     <lastmod>2024-12-16T15:59:56+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-12-16T15:59:56+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-12-16T15:59:56+02:00</lastmod>
-  </url><url>
     <loc>/guides/2024-12-16-anleitung-eroeffnung-eines-accounts-bei-bluesky/</loc>
-    <lastmod>2024-12-16T15:53:04+02:00</lastmod>
-  </url><url>
-    <loc>/tags/bluesky/</loc>
     <lastmod>2024-12-16T15:53:04+02:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
@@ -38,25 +62,10 @@
     <loc>/blog/2024-12-16-mastodon-bluesky-alternativen-zu-twitter/</loc>
     <lastmod>2024-12-16T15:05:22+02:00</lastmod>
   </url><url>
-    <loc>/news/</loc>
-    <lastmod>2024-12-15T08:03:19+00:00</lastmod>
-  </url><url>
     <loc>/news/2024-12-15-kw50-weekly-posts/</loc>
     <lastmod>2024-12-15T08:03:19+00:00</lastmod>
   </url><url>
-    <loc>/tags/social-media-posts/</loc>
-    <lastmod>2024-12-15T08:03:19+00:00</lastmod>
-  </url><url>
-    <loc>/categories/social-media-posts/</loc>
-    <lastmod>2024-12-15T08:03:19+00:00</lastmod>
-  </url><url>
     <loc>/news/2024-12-15-kw50-weekly-shared-mastodon-posts/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/social-media-shared-posts/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/social-media-shared-posts/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/datenschutz/</loc>
