@@ -249,9 +249,11 @@ footer img:hover {
 	
 /* Erhöht die Breite des Hauptinhalts und zentriert ihn */
 .main-content {
-    width: 60%; /* Breite auf 90% des Viewports einstellen */
+    width: 90%; /* Breite auf 90% des Viewports einstellen */
     max-width: 1200px; /* Maximalbreite für große Bildschirme */
     margin: 0 auto; /* Zentriert den Inhalt horizontal */
+    flex: 1; /* Der Inhalt nimmt den verfügbaren Platz ein */
+    padding-right: 20px; /* Abstand zwischen dem Inhalt und der Sidebar */
 }
 
 /* Anpassung für die Breite der einzelnen Blogartikel */
@@ -538,11 +540,6 @@ a:hover {
     margin: 0; /* Kein Margin, um den Rahmen am Rand zu halten */
 }
 
-.main-content {
-    flex: 1; /* Der Inhalt nimmt den verfügbaren Platz ein */
-    padding-right: 20px; /* Abstand zwischen dem Inhalt und der Sidebar */
-}
-
 .sidebar {
     width: 300px; /* Feste Breite für die Sidebar */
     flex-shrink: 0; /* Verhindert, dass die Sidebar kleiner wird */
@@ -563,11 +560,6 @@ a:hover {
 
 .sidebar > div h2 {
     font-size: 14px !important; /* Überschrift etwas größer, mit !important */
-}
-
-.main-content {
-    flex: 1;
-    padding-right: 20px;
 }
 
 .sidebar-box {
@@ -807,4 +799,9 @@ th, td {
 
 th {
   background-color: #f2f2f2;
+}
+
+.main-content img {
+    width: 100%; /* Bild passt sich der Breite des Rahmens an */
+    height: auto; /* Höhe bleibt proportional */
 }
