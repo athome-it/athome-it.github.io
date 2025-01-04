@@ -6,8 +6,15 @@
     <description>Recent content in Datenschutz on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 06 Dec 2024 16:25:09 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 09:56:06 +0200</lastBuildDate>
     <atom:link href="/categories/datenschutz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ist Google Chrome nach der Umstellung auf Manifest V3 noch zu enpfehlen?</title>
+      <link>/blog/2025-01-04-ist-chrome-noch-zu-enpfehlen/</link>
+      <pubDate>Sat, 04 Jan 2025 09:56:06 +0200</pubDate>
+      <guid>/blog/2025-01-04-ist-chrome-noch-zu-enpfehlen/</guid>
+      <description>Unter den aktuellen Umständen, insbesondere mit der Einführung von &lt;strong&gt;Manifest V3&lt;/strong&gt; in Google Chrome, ist es schwierig, Google Chrome als datenschutzfreundlichen Browser zu empfehlen. Die neuen Änderungen durch Manifest V3 schränken den Funktionsumfang von vielen wichtigen Erweiterungen ein, die den Schutz vor Tracking, Werbung und Überwachung bieten. Hier sind die wichtigsten Gründe, warum Google Chrome unter diesen Umständen weniger empfehlenswert ist:</description>
+    </item>
     <item>
       <title>Social Media: Was du über Datenweitergabe wissen solltest</title>
       <link>/blog/2024-12-06-datenweitergabe-wissen/</link>
@@ -21,13 +28,6 @@
       <pubDate>Fri, 06 Dec 2024 12:11:01 +0200</pubDate>
       <guid>/guides/2024-12-06-schutz-gegen-tracking-und-werbung-manifest-v3/</guid>
       <description>Mit den Änderungen durch Manifest V3 stehen Nutzer vor neuen Herausforderungen, wenn es darum geht, sich gegen Tracking und Werbung zu schützen.</description>
-    </item>
-    <item>
-      <title>Ist Google Chrome nach der Umstellung auf Manifest V3 noch zu enpfehlen?</title>
-      <link>/blog/2024-12-05-ist-chrome-noch-zu-enpfehlen/</link>
-      <pubDate>Thu, 05 Dec 2024 12:49:09 +0200</pubDate>
-      <guid>/blog/2024-12-05-ist-chrome-noch-zu-enpfehlen/</guid>
-      <description>Unter den aktuellen Umständen, insbesondere mit der Einführung von &lt;strong&gt;Manifest V3&lt;/strong&gt; in Google Chrome, ist es schwierig, Google Chrome als datenschutzfreundlichen Browser zu empfehlen. Die neuen Änderungen durch Manifest V3 schränken den Funktionsumfang von vielen wichtigen Erweiterungen ein, die den Schutz vor Tracking, Werbung und Überwachung bieten. Hier sind die wichtigsten Gründe, warum Google Chrome unter diesen Umständen weniger empfehlenswert ist:</description>
     </item>
     <item>
       <title>Änderung von Manifest V2 auf V3 für Chrome – Gründe und Auswirkungen</title>

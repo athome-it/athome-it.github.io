@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Categories</title>
+    <title>Kontakt</title>
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
@@ -41,36 +41,26 @@
     
     <main class="main-content">
         
-<section class="content">
-    <h1>Categories</h1>
-    <ul>
-        
-        <li>
-            <a href="../categories/datenschutz/">Datenschutz</a>
-        </li>
-        
-        <li>
-            <a href="../categories/social-media-posts/">Social-Media-Posts</a>
-        </li>
-        
-        <li>
-            <a href="../categories/social-media-shared-posts/">Social-Media-Shared-Posts</a>
-        </li>
-        
-        <li>
-            <a href="../categories/microblogging/">Microblogging</a>
-        </li>
-        
-        <li>
-            <a href="../categories/guides/">Guides</a>
-        </li>
-        
-        <li>
-            <a href="../categories/news/">News</a>
-        </li>
-        
-    </ul>
-</section>
+<article class="single-page">
+    <header>
+        <h1>Kontakt</h1>
+    </header>
+
+    <div class="page-content">
+        <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" style="max-width: 600px; margin: 0 auto; padding: 1em; background: #f9f9f9; border-radius: 5px;">
+  <label for="name" style="display: block; margin-bottom: 0.5em; font-weight: bold;">Name:</label>
+  <input type="text" id="name" name="name" required style="width: 100%; padding: 0.5em; margin-bottom: 1em; border: 1px solid #ccc; border-radius: 4px;">
+<p><label for="email" style="display: block; margin-bottom: 0.5em; font-weight: bold;">Email:</label>
+<input type="email" id="email" name="_replyto" required style="width: 100%; padding: 0.5em; margin-bottom: 1em; border: 1px solid #ccc; border-radius: 4px;"></p>
+<p><label for="message" style="display: block; margin-bottom: 0.5em; font-weight: bold;">Nachricht:</label></p>
+  <textarea id="message" name="message" rows="4" required style="width: 100%; padding: 0.5em; margin-bottom: 1em; border: 1px solid #ccc; border-radius: 4px;"></textarea>
+<p><button type="submit" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Senden</button></p>
+</form>
+
+    </div>
+
+    
+</article>
 
     </main>
 
