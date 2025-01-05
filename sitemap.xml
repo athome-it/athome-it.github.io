@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2025-01-05T08:32:48+00:00</lastmod>
+  </url><url>
+    <loc>/news/</loc>
+    <lastmod>2025-01-05T08:32:48+00:00</lastmod>
+  </url><url>
+    <loc>/news/2025-01-05-kw1-weekly-posts/</loc>
+    <lastmod>2025-01-05T08:32:48+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-posts/</loc>
+    <lastmod>2025-01-05T08:32:48+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-posts/</loc>
+    <lastmod>2025-01-05T08:32:48+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-01-05T08:32:48+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-01-05T08:32:48+00:00</lastmod>
+  </url><url>
     <loc>/blog/</loc>
     <lastmod>2025-01-04T09:56:06+02:00</lastmod>
   </url><url>
     <loc>/tags/browser/</loc>
-    <lastmod>2025-01-04T09:56:06+02:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
     <lastmod>2025-01-04T09:56:06+02:00</lastmod>
   </url><url>
     <loc>/tags/chrome/</loc>
@@ -26,25 +44,10 @@
     <loc>/tags/privatsph%C3%A4re/</loc>
     <lastmod>2025-01-04T09:56:06+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-01-04T09:56:06+02:00</lastmod>
-  </url><url>
     <loc>/tags/tracking/</loc>
     <lastmod>2025-01-04T09:56:06+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-01-04T09:56:06+02:00</lastmod>
-  </url><url>
-    <loc>/news/</loc>
-    <lastmod>2024-12-21T08:49:34+00:00</lastmod>
-  </url><url>
     <loc>/news/2024-12-21-kw51-weekly-posts/</loc>
-    <lastmod>2024-12-21T08:49:34+00:00</lastmod>
-  </url><url>
-    <loc>/tags/social-media-posts/</loc>
-    <lastmod>2024-12-21T08:49:34+00:00</lastmod>
-  </url><url>
-    <loc>/categories/social-media-posts/</loc>
     <lastmod>2024-12-21T08:49:34+00:00</lastmod>
   </url><url>
     <loc>/tags/bluesky/</loc>
