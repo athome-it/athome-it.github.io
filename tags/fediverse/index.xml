@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fediverse on athome-it</title>
+    <link>/tags/fediverse/</link>
+    <description>Recent content in Fediverse on athome-it</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 01 Feb 2025 17:15:47 +0200</lastBuildDate>
+    <atom:link href="/tags/fediverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pixelfed: Was steckt hinter der datenschutzfreundlichen Instagram-Alternative?</title>
+      <link>/blog/2025-02-01-was-ist-pixelfed/</link>
+      <pubDate>Sat, 01 Feb 2025 17:15:47 +0200</pubDate>
+      <guid>/blog/2025-02-01-was-ist-pixelfed/</guid>
+      <description>Instagram, TikTok und andere große Plattformen stehen oft wegen Datenschutzproblemen, Werbung und Tracking in der Kritik. Viele Nutzer suchen deshalb nach Alternativen, die den Fokus auf Privatsphäre und Werbefreiheit legen.</description>
+    </item>
+  </channel>
+</rss>
