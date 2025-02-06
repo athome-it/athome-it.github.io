@@ -6,8 +6,15 @@
     <description>Recent content in Willkommen bei athome-it on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 02 Feb 2025 08:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 10:38:13 +0200</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Künstliche Intelligenz und Datenschutz: Was passiert mit unseren Daten?</title>
+      <link>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</link>
+      <pubDate>Thu, 06 Feb 2025 10:38:13 +0200</pubDate>
+      <guid>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</guid>
+      <description>Künstliche Intelligenz (KI) ist aus unserem Alltag nicht mehr wegzudenken. Sie hilft uns, schneller zu arbeiten, bessere Entscheidungen zu treffen und unsere Wünsche zu antizipieren. Von personalisierten Filmempfehlungen bis hin zu Sprachassistenten wie Alexa oder Siri – KI erleichtert unser Leben. Aber sie hat auch einen Preis: unsere Daten.</description>
+    </item>
     <item>
       <title>Social Media Posts der KW 5, 2025</title>
       <link>/news/2025-02-02-kw5-weekly-posts/</link>
@@ -49,13 +56,6 @@
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/news/2025-01-26-kw4-weekly-shared-mastodon-posts/</guid>
       <description>Weekly Shared Mastodon Posts - KW 4, 2025</description>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz und Datenschutz: Was passiert mit unseren Daten?</title>
-      <link>/blog/2025-01-21-kuenstliche-intelligenz-und-datenschutz/</link>
-      <pubDate>Tue, 21 Jan 2025 10:08:38 +0200</pubDate>
-      <guid>/blog/2025-01-21-kuenstliche-intelligenz-und-datenschutz/</guid>
-      <description>Künstliche Intelligenz (KI) ist aus unserem Alltag nicht mehr wegzudenken. Sie hilft uns, schneller zu arbeiten, bessere Entscheidungen zu treffen und unsere Wünsche zu antizipieren. Von personalisierten Filmempfehlungen bis hin zu Sprachassistenten wie Alexa oder Siri – KI erleichtert unser Leben. Aber sie hat auch einen Preis: unsere Daten.</description>
     </item>
     <item>
       <title>Tracking im Alltag: Was dein Smartphone über dich verrät</title>
