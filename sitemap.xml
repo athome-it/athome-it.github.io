@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2025-02-11T11:00:40+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-02-11T11:00:40+02:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2025-02-09T08:12:05+00:00</lastmod>
   </url><url>
@@ -18,9 +24,6 @@
     <lastmod>2025-02-09T08:12:05+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2025-02-09T08:12:05+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2025-02-09T08:12:05+00:00</lastmod>
   </url><url>
     <loc>/tags/bluesky/</loc>
@@ -40,9 +43,6 @@
   </url><url>
     <loc>/categories/social-media-shared-posts/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-02-06T10:38:13+02:00</lastmod>
   </url><url>
     <loc>/tags/datenschutz/</loc>
     <lastmod>2025-02-06T10:38:13+02:00</lastmod>
