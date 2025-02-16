@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2025-02-11T11:00:40+02:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
+    <lastmod>2025-02-16T08:23:24+00:00</lastmod>
+  </url><url>
+    <loc>/news/</loc>
+    <lastmod>2025-02-16T08:23:24+00:00</lastmod>
+  </url><url>
+    <loc>/news/2025-02-16-kw7-weekly-posts/</loc>
+    <lastmod>2025-02-16T08:23:24+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-posts/</loc>
+    <lastmod>2025-02-16T08:23:24+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-posts/</loc>
+    <lastmod>2025-02-16T08:23:24+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-02-16T08:23:24+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-02-16T08:23:24+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mastodon/</loc>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/2025-02-16-kw7-weekly-shared-mastodon-posts/</loc>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-shared-posts/</loc>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-shared-posts/</loc>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
     <lastmod>2025-02-11T11:00:40+02:00</lastmod>
   </url><url>
     <loc>/tags/datenschutz/</loc>
@@ -17,46 +47,22 @@
     <loc>/tags/smartphone/</loc>
     <lastmod>2025-02-11T11:00:40+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-02-11T11:00:40+02:00</lastmod>
-  </url><url>
     <loc>/tags/tracking/</loc>
     <lastmod>2025-02-11T11:00:40+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-02-11-smartphone-tracking-im-alltag/</loc>
     <lastmod>2025-02-11T11:00:40+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-02-11T11:00:40+02:00</lastmod>
-  </url><url>
-    <loc>/news/</loc>
-    <lastmod>2025-02-09T08:12:05+00:00</lastmod>
-  </url><url>
     <loc>/news/2025-02-09-kw6-weekly-posts/</loc>
     <lastmod>2025-02-09T08:12:05+00:00</lastmod>
   </url><url>
-    <loc>/tags/social-media-posts/</loc>
-    <lastmod>2025-02-09T08:12:05+00:00</lastmod>
-  </url><url>
-    <loc>/categories/social-media-posts/</loc>
-    <lastmod>2025-02-09T08:12:05+00:00</lastmod>
-  </url><url>
     <loc>/tags/bluesky/</loc>
-    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/mastodon/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/news/2025-02-09-kw6-weekly-shared-bluesky-posts/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/news/2025-02-09-kw6-weekly-shared-mastodon-posts/</loc>
-    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/social-media-shared-posts/</loc>
-    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/social-media-shared-posts/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/ki/</loc>
