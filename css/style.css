@@ -725,6 +725,14 @@ figcaption {
         flex-direction: column; /* Stapelt die Navigation vertikal */
         align-items: center;    /* Zentriert die Navigation */
         padding: 0;
+        margin: 0;
+        background-color: #333;
+        width: 100%;
+        /* Menü standardmäßig ausblenden */
+        position: absolute;
+        top: 60px; /* Menü öffnet direkt unter dem Hamburger-Symbol */
+        left: 0;
+        z-index: 1000; /* Menü sollte über anderen Inhalten erscheinen */
     }
 
     nav ul li {
@@ -733,6 +741,7 @@ figcaption {
 
     nav {
         padding: 10px; /* Weniger Padding für mobile Ansicht */
+        position: relative;
     }
 
     /* Sidebar ausblenden */
@@ -744,9 +753,28 @@ figcaption {
     .news-list, .blog-list, .guides-list {
         width: 100%;
     }
+
+    /* Hamburger-Symbol einblenden */
+    .menu-toggle {
+        display: block; /* Symbol sichtbar machen */
+        cursor: pointer;
+        font-size: 24px;
+        padding: 10px;
+        background-color: #333;
+        color: white;
+        border: none;
+        text-align: center;
+        width: 50px;
+        z-index: 1001; /* Sicherstellen, dass das Symbol über dem Menü liegt */
+    }
+
+    /* Das Menü wird nur angezeigt, wenn die Klasse .show hinzugefügt wird */
+    .nav-links.show {
+        display: flex; /* Menü anzeigen, wenn aktiv */
+    }
 }
 
-/* Auf größeren Geräten (ab 769px, wie Tablets und größere Bildschirmgrößen) */
+/* Auf größeren Geräten (ab 769px) */
 @media (min-width: 769px) {
     nav ul {
         display: flex;
@@ -772,56 +800,22 @@ figcaption {
     .news-list, .blog-list, .guides-list {
         width: auto;
     }
-}
 
-/* Standardmäßig sichtbare Navigation für größere Bildschirme */
-.nav-links {
-    display: flex;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.nav-links li {
-    margin-right: 20px;
-}
-
-/* Standardmäßig ist das Hamburger-Symbol ausgeblendet */
-.menu-toggle {
-    position: relative; /* Damit das Menü unter dem Symbol bleibt */
-    z-index: 1001;
-}
-
-/* Mobile Ansicht: Hamburger-Symbol einblenden */
-@media (max-width: 768px) {
-    .menu-toggle {
-        display: block; /* Symbol sichtbar machen */
-        cursor: pointer;
-        font-size: 24px;
-        padding: 10px;
-        background-color: #333;
-        color: white;
-        border: none;
-        text-align: center;
-        width: 50px;
-		top: 100%; /* Menü startet direkt unter dem Hamburger-Symbol */
-    }
-
+    /* Standard Navigation für größere Bildschirme */
     .nav-links {
-        display: none; /* Menü standardmäßig verstecken */
-        flex-direction: column;
-        align-items: center;
-        position: absolute;
-        top: 60px;
-        left: 0;
-        width: 100%;
-        background-color: #333;
-        padding: 10px 0;
-		z-index: 1000; /* Damit das Menü über anderen Elementen liegt */
+        display: flex;
+        list-style: none;
+        padding: 0;
+        margin: 0;
     }
 
-    .nav-links.show {
-        display: flex; /* Menü anzeigen, wenn aktiv */
+    .nav-links li {
+        margin-right: 20px;
+    }
+
+    /* Hamburger-Symbol wird für größere Bildschirme ausgeblendet */
+    .menu-toggle {
+        display: none;
     }
 }
 
