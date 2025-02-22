@@ -788,7 +788,8 @@ figcaption {
 
 /* Standardmäßig ist das Hamburger-Symbol ausgeblendet */
 .menu-toggle {
-    display: none;
+    position: relative; /* Damit das Menü unter dem Symbol bleibt */
+    z-index: 1001;
 }
 
 /* Mobile Ansicht: Hamburger-Symbol einblenden */
@@ -815,6 +816,7 @@ figcaption {
         width: 100%;
         background-color: #333;
         padding: 10px 0;
+		z-index: 1000; /* Damit das Menü über anderen Elementen liegt */
     }
 
     .nav-links.show {
