@@ -786,12 +786,25 @@ figcaption {
     margin-right: 20px;
 }
 
+/* Standardmäßig ist das Hamburger-Symbol ausgeblendet */
 .menu-toggle {
-    display: none; /* Hamburger-Symbol ausblenden */
+    display: none;
 }
 
-/* Mobile Ansicht: Hamburger-Menü aktivieren */
+/* Mobile Ansicht: Hamburger-Symbol einblenden */
 @media (max-width: 768px) {
+    .menu-toggle {
+        display: block; /* Symbol sichtbar machen */
+        cursor: pointer;
+        font-size: 24px;
+        padding: 10px;
+        background-color: #333;
+        color: white;
+        border: none;
+        text-align: center;
+        width: 50px;
+    }
+
     .nav-links {
         display: none; /* Menü standardmäßig verstecken */
         flex-direction: column;
@@ -805,14 +818,7 @@ figcaption {
     }
 
     .nav-links.show {
-        display: flex; /* Menü einblenden, wenn aktiv */
-    }
-
-    .menu-toggle {
-        display: block; /* Hamburger-Symbol anzeigen */
-        cursor: pointer;
-        font-size: 24px;
-        padding: 10px;
+        display: flex; /* Menü anzeigen, wenn aktiv */
     }
 }
 
