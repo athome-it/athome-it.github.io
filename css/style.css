@@ -804,6 +804,7 @@ figcaption {
         border: none;
         text-align: center;
         width: 50px;
+		top: 100%; /* Menü startet direkt unter dem Hamburger-Symbol */
     }
 
     .nav-links {
