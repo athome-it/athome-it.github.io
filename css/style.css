@@ -774,6 +774,48 @@ figcaption {
     }
 }
 
+/* Standardmäßig sichtbare Navigation für größere Bildschirme */
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.menu-toggle {
+    display: none; /* Hamburger-Symbol ausblenden */
+}
+
+/* Mobile Ansicht: Hamburger-Menü aktivieren */
+@media (max-width: 768px) {
+    .nav-links {
+        display: none; /* Menü standardmäßig verstecken */
+        flex-direction: column;
+        align-items: center;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        background-color: #333;
+        padding: 10px 0;
+    }
+
+    .nav-links.show {
+        display: flex; /* Menü einblenden, wenn aktiv */
+    }
+
+    .menu-toggle {
+        display: block; /* Hamburger-Symbol anzeigen */
+        cursor: pointer;
+        font-size: 24px;
+        padding: 10px;
+    }
+}
+
 /* Optional: Bildgröße anpassen */
 .responsive-image {
   max-width: 100%; /* Stellt sicher, dass das Bild bei Bedarf skaliert */
@@ -805,3 +847,4 @@ th {
     width: 100%; /* Bild passt sich der Breite des Rahmens an */
     height: auto; /* Höhe bleibt proportional */
 }
+
