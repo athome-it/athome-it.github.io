@@ -774,6 +774,50 @@ figcaption {
     }
 }
 
+/* Auf mobilen Geräten (maximale Breite 768px) */
+@media (max-width: 768px) {
+    nav ul {
+        display: none; /* Menü standardmäßig ausblenden */
+        flex-direction: column; /* Stapelt die Navigation vertikal */
+        align-items: center;    /* Zentriert die Navigation */
+        padding: 0;
+        margin: 0;
+        background-color: #333;
+        width: 100%;
+        position: absolute;
+        top: 60px; /* Menü startet direkt unter dem Hamburger-Symbol */
+        left: 0;
+        z-index: 1000; /* Menü sollte über anderen Inhalten erscheinen */
+    }
+
+    nav ul li {
+        margin: 10px 0; /* Abstand zwischen den einzelnen Links */
+    }
+
+    nav {
+        padding: 10px; /* Weniger Padding für mobile Ansicht */
+        position: relative;
+    }
+
+    .menu-toggle {
+        display: block; /* Hamburger-Symbol sichtbar machen */
+        cursor: pointer;
+        font-size: 24px;
+        padding: 10px;
+        background-color: #333;
+        color: white;
+        border: none;
+        text-align: center;
+        width: 50px;
+        z-index: 1001; /* Sicherstellen, dass das Symbol über dem Menü liegt */
+    }
+
+    /* Das Menü wird nur angezeigt, wenn die Klasse .show hinzugefügt wird */
+    .nav-links.show {
+        display: flex; /* Menü anzeigen, wenn aktiv */
+    }
+}
+
 /* Auf größeren Geräten (ab 769px) */
 @media (min-width: 769px) {
     nav ul {
