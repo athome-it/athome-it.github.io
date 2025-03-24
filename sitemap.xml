@@ -68,6 +68,18 @@
     <loc>/news/2025-03-09-kw10-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2025-03-06T10:38:13+02:00</lastmod>
+  </url><url>
+    <loc>/tags/ki/</loc>
+    <lastmod>2025-03-06T10:38:13+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</loc>
+    <lastmod>2025-03-06T10:38:13+02:00</lastmod>
+  </url><url>
+    <loc>/tags/k%C3%BCnstlicheintelligenz/</loc>
+    <lastmod>2025-03-06T10:38:13+02:00</lastmod>
+  </url><url>
     <loc>/news/2025-03-02-kw9-weekly-posts/</loc>
     <lastmod>2025-03-02T07:56:04+00:00</lastmod>
   </url><url>
@@ -98,9 +110,6 @@
     <loc>/news/2025-02-16-kw7-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-02-11T11:00:40+02:00</lastmod>
-  </url><url>
     <loc>/tags/smartphone/</loc>
     <lastmod>2025-02-11T11:00:40+02:00</lastmod>
   </url><url>
@@ -116,14 +125,20 @@
     <loc>/news/2025-02-09-kw6-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ki/</loc>
-    <lastmod>2025-02-06T10:38:13+02:00</lastmod>
+    <loc>/tags/fediverse/</loc>
+    <lastmod>2025-02-06T10:05:33+02:00</lastmod>
   </url><url>
-    <loc>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</loc>
-    <lastmod>2025-02-06T10:38:13+02:00</lastmod>
+    <loc>/tags/socialmedia/</loc>
+    <lastmod>2025-02-06T10:05:33+02:00</lastmod>
   </url><url>
-    <loc>/tags/k%C3%BCnstlicheintelligenz/</loc>
-    <lastmod>2025-02-06T10:38:13+02:00</lastmod>
+    <loc>/categories/socialmedia/</loc>
+    <lastmod>2025-02-06T10:05:33+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-02-06-was-ist-das-fediverse-und-anwendungen/</loc>
+    <lastmod>2025-02-06T10:05:33+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-02-06-pixelfed-vs-instagram/</loc>
+    <lastmod>2025-02-06T09:53:14+02:00</lastmod>
   </url><url>
     <loc>/news/2025-02-02-kw5-weekly-posts/</loc>
     <lastmod>2025-02-02T08:23:51+00:00</lastmod>
@@ -131,16 +146,7 @@
     <loc>/news/2025-02-02-kw5-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/fediverse/</loc>
-    <lastmod>2025-02-01T17:15:47+02:00</lastmod>
-  </url><url>
     <loc>/blog/2025-02-01-was-ist-pixelfed/</loc>
-    <lastmod>2025-02-01T17:15:47+02:00</lastmod>
-  </url><url>
-    <loc>/tags/socialmedia/</loc>
-    <lastmod>2025-02-01T17:15:47+02:00</lastmod>
-  </url><url>
-    <loc>/categories/socialmedia/</loc>
     <lastmod>2025-02-01T17:15:47+02:00</lastmod>
   </url><url>
     <loc>/news/2025-01-26-kw4-weekly-posts/</loc>

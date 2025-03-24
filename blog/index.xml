@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 11 Feb 2025 11:00:40 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 10:38:13 +0200</lastBuildDate>
     <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Künstliche Intelligenz und Datenschutz: Was passiert mit unseren Daten?</title>
+      <link>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</link>
+      <pubDate>Thu, 06 Mar 2025 10:38:13 +0200</pubDate>
+      <guid>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</guid>
+      <description>Künstliche Intelligenz (KI) ist aus unserem Alltag nicht mehr wegzudenken. Sie hilft uns, schneller zu arbeiten, bessere Entscheidungen zu treffen und unsere Wünsche zu antizipieren. Von personalisierten Filmempfehlungen bis hin zu Sprachassistenten wie Alexa oder Siri – KI erleichtert unser Leben. Aber sie hat auch einen Preis: unsere Daten.</description>
+    </item>
     <item>
       <title>Verfolgt vom eigenen Smartphone: Wie viel weiß dein Gerät über dich?</title>
       <link>/blog/2025-02-11-smartphone-tracking-im-alltag/</link>
@@ -16,11 +23,18 @@
       <description>Jeden Tag begleiten Smartphones ihre Nutzer überall hin – ins Büro, zum Einkaufen, ins Fitnessstudio oder in den Urlaub. Während sie hilfreiche Funktionen bieten, sammeln sie gleichzeitig eine riesige Menge an Daten. Standorte, Suchverläufe, App-Nutzung und sogar Gespräche können getrackt und analysiert werden.</description>
     </item>
     <item>
-      <title>Künstliche Intelligenz und Datenschutz: Was passiert mit unseren Daten?</title>
-      <link>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</link>
-      <pubDate>Thu, 06 Feb 2025 10:38:13 +0200</pubDate>
-      <guid>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</guid>
-      <description>Künstliche Intelligenz (KI) ist aus unserem Alltag nicht mehr wegzudenken. Sie hilft uns, schneller zu arbeiten, bessere Entscheidungen zu treffen und unsere Wünsche zu antizipieren. Von personalisierten Filmempfehlungen bis hin zu Sprachassistenten wie Alexa oder Siri – KI erleichtert unser Leben. Aber sie hat auch einen Preis: unsere Daten.</description>
+      <title>Was ist das Fediverse und welche Anwendungen gehören dazu?</title>
+      <link>/blog/2025-02-06-was-ist-das-fediverse-und-anwendungen/</link>
+      <pubDate>Thu, 06 Feb 2025 10:05:33 +0200</pubDate>
+      <guid>/blog/2025-02-06-was-ist-das-fediverse-und-anwendungen/</guid>
+      <description>Das Internet, wie wir es kennen, wird oft von großen zentralisierten Plattformen wie Facebook, Twitter, Instagram oder YouTube dominiert. Diese Unternehmen kontrollieren die Daten und Entscheidungen über Inhalte, was bei vielen Nutzern Bedenken hinsichtlich Datenschutz und Meinungsfreiheit hervorruft.</description>
+    </item>
+    <item>
+      <title>Pixelfed vs. Instagram: Datenschutz und mehr – Ein Vergleich</title>
+      <link>/blog/2025-02-06-pixelfed-vs-instagram/</link>
+      <pubDate>Thu, 06 Feb 2025 09:53:14 +0200</pubDate>
+      <guid>/blog/2025-02-06-pixelfed-vs-instagram/</guid>
+      <description>Instagram ist eine der beliebtesten Plattformen für das Teilen von Fotos und Videos, steht aber immer wieder wegen Datenschutzproblemen und der Kommerzialisierung von Inhalten in der Kritik. Mit Pixelfed gibt es eine Alternative, die auf Privatsphäre, Dezentralität und Werbefreiheit setzt. Doch wie genau unterscheiden sich die beiden Plattformen?</description>
     </item>
     <item>
       <title>Pixelfed: Was steckt hinter der datenschutzfreundlichen Instagram-Alternative?</title>
