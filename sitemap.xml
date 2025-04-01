@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2025-04-01T09:39:49+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-04-01T09:39:49+02:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2025-03-30T07:51:33+00:00</lastmod>
   </url><url>
@@ -20,9 +26,6 @@
     <loc>/tags/</loc>
     <lastmod>2025-03-30T07:51:33+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-03-30T07:51:33+00:00</lastmod>
-  </url><url>
     <loc>/tags/mastodon/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -34,9 +37,6 @@
   </url><url>
     <loc>/categories/social-media-shared-posts/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-03-25T10:43:31+02:00</lastmod>
   </url><url>
     <loc>/tags/datenschutz/</loc>
     <lastmod>2025-03-25T10:43:31+02:00</lastmod>

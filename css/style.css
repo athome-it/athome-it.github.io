@@ -720,6 +720,7 @@ figure {
   margin: 0 auto;          /* Zentriert die gesamte Figure */
   max-width: 100%;         /* Verhindert Überbreite auf kleineren Bildschirmen */
   text-align: center;      /* Zentriert den Text innerhalb der Figure */
+  margin-bottom: 20px; /* Abstand unter dem Bild */
   overflow: hidden;
 }
 
