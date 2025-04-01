@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud on athome-it</title>
+    <link>/tags/cloud/</link>
+    <description>Recent content in Cloud on athome-it</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Tue, 01 Apr 2025 09:39:49 +0200</lastBuildDate>
+    <atom:link href="/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wie sicher sind deine Daten in der Cloud? Eine Analyse mit Alternativen</title>
+      <link>/blog/2025-04-01-daten-in-der-cloud/</link>
+      <pubDate>Tue, 01 Apr 2025 09:39:49 +0200</pubDate>
+      <guid>/blog/2025-04-01-daten-in-der-cloud/</guid>
+      <description>Ob Fotos, Dokumente oder ganze Backups – Cloud-Dienste sind aus unserem digitalen Alltag kaum mehr wegzudenken. Sie ermöglichen den Zugriff von überall, sorgen für automatische Synchronisation und schützen vor Datenverlust.</description>
+    </item>
+  </channel>
+</rss>

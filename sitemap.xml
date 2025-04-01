@@ -5,11 +5,26 @@
     <loc>/blog/</loc>
     <lastmod>2025-04-01T09:39:49+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/categories/</loc>
     <lastmod>2025-04-01T09:39:49+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2025-03-30T07:51:33+00:00</lastmod>
+    <loc>/tags/cloud/</loc>
+    <lastmod>2025-04-01T09:39:49+02:00</lastmod>
+  </url><url>
+    <loc>/tags/datenschutz/</loc>
+    <lastmod>2025-04-01T09:39:49+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2025-04-01T09:39:49+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-04-01T09:39:49+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-04-01-daten-in-der-cloud/</loc>
+    <lastmod>2025-04-01T09:39:49+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-04-01T09:39:49+02:00</lastmod>
   </url><url>
     <loc>/news/</loc>
     <lastmod>2025-03-30T07:51:33+00:00</lastmod>
@@ -23,9 +38,6 @@
     <loc>/categories/social-media-posts/</loc>
     <lastmod>2025-03-30T07:51:33+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-03-30T07:51:33+00:00</lastmod>
-  </url><url>
     <loc>/tags/mastodon/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -37,12 +49,6 @@
   </url><url>
     <loc>/categories/social-media-shared-posts/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/datenschutz/</loc>
-    <lastmod>2025-03-25T10:43:31+02:00</lastmod>
-  </url><url>
-    <loc>/categories/datenschutz/</loc>
-    <lastmod>2025-03-25T10:43:31+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-03-25-smart-home-wer-hoert-mit/</loc>
     <lastmod>2025-03-25T10:43:31+02:00</lastmod>
