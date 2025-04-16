@@ -2,14 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/auto-und-technik/</loc>
+    <lastmod>2025-04-16T09:34:43+02:00</lastmod>
+  </url><url>
     <loc>/blog/</loc>
+    <lastmod>2025-04-16T09:34:43+02:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2025-04-16T09:34:43+02:00</lastmod>
+  </url><url>
+    <loc>/tags/datenschutz/</loc>
+    <lastmod>2025-04-16T09:34:43+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2025-04-16T09:34:43+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-04-16-moderne-autos-und-ihre-daten/</loc>
+    <lastmod>2025-04-16T09:34:43+02:00</lastmod>
+  </url><url>
+    <loc>/tags/smartmobility/</loc>
+    <lastmod>2025-04-16T09:34:43+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2025-04-16T09:34:43+02:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2025-04-16T09:34:43+02:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2025-04-13T10:56:32+00:00</lastmod>
   </url><url>
     <loc>/news/</loc>
     <lastmod>2025-04-13T10:56:32+00:00</lastmod>
@@ -21,9 +39,6 @@
     <lastmod>2025-04-13T10:56:32+00:00</lastmod>
   </url><url>
     <loc>/categories/social-media-posts/</loc>
-    <lastmod>2025-04-13T10:56:32+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2025-04-13T10:56:32+00:00</lastmod>
   </url><url>
     <loc>/tags/mastodon/</loc>
@@ -45,12 +60,6 @@
     <lastmod>2025-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/cloud/</loc>
-    <lastmod>2025-04-01T09:39:49+02:00</lastmod>
-  </url><url>
-    <loc>/tags/datenschutz/</loc>
-    <lastmod>2025-04-01T09:39:49+02:00</lastmod>
-  </url><url>
-    <loc>/categories/datenschutz/</loc>
     <lastmod>2025-04-01T09:39:49+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-04-01-daten-in-der-cloud/</loc>
