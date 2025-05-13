@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2025-05-13T09:41:58+02:00</lastmod>
+  </url><url>
+    <loc>/guides/2025-05-13-kinder-und-datenschutz-guide/</loc>
+    <lastmod>2025-05-13T09:41:58+02:00</lastmod>
+  </url><url>
+    <loc>/tags/guides/</loc>
+    <lastmod>2025-05-13T09:41:58+02:00</lastmod>
+  </url><url>
+    <loc>/categories/guides/</loc>
+    <lastmod>2025-05-13T09:41:58+02:00</lastmod>
+  </url><url>
     <loc>/guides/</loc>
+    <lastmod>2025-05-13T09:41:58+02:00</lastmod>
+  </url><url>
+    <loc>/tags/kinder-und-datenschutz/</loc>
+    <lastmod>2025-05-13T09:41:58+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2025-05-13T09:41:58+02:00</lastmod>
   </url><url>
     <loc>/</loc>
@@ -11,8 +29,14 @@
     <loc>/blog/</loc>
     <lastmod>2025-05-13T09:31:09+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2025-05-11T06:47:58+00:00</lastmod>
+    <loc>/tags/datenschutz/</loc>
+    <lastmod>2025-05-13T09:31:09+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2025-05-13T09:31:09+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-05-13-kinder-und-datenschutz/</loc>
+    <lastmod>2025-05-13T09:31:09+02:00</lastmod>
   </url><url>
     <loc>/news/</loc>
     <lastmod>2025-05-11T06:47:58+00:00</lastmod>
@@ -24,9 +48,6 @@
     <lastmod>2025-05-11T06:47:58+00:00</lastmod>
   </url><url>
     <loc>/categories/social-media-posts/</loc>
-    <lastmod>2025-05-11T06:47:58+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2025-05-11T06:47:58+00:00</lastmod>
   </url><url>
     <loc>/tags/mastodon/</loc>
@@ -46,12 +67,6 @@
   </url><url>
     <loc>/news/2025-05-03-kw18-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/datenschutz/</loc>
-    <lastmod>2025-04-29T10:44:39+02:00</lastmod>
-  </url><url>
-    <loc>/categories/datenschutz/</loc>
-    <lastmod>2025-04-29T10:44:39+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-04-29-digitale-souveraenitaet/</loc>
     <lastmod>2025-04-29T10:44:39+02:00</lastmod>
@@ -226,9 +241,6 @@
   </url><url>
     <loc>/news/2025-01-26-kw4-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/guides/</loc>
-    <lastmod>2025-01-21T10:04:44+02:00</lastmod>
   </url><url>
     <loc>/guides/2025-01-21-smartphone-tracking/</loc>
     <lastmod>2025-01-21T10:04:44+02:00</lastmod>
