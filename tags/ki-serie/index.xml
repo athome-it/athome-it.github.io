@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KI on athome-it</title>
-    <link>/tags/ki/</link>
-    <description>Recent content in KI on athome-it</description>
+    <title>KI-Serie on athome-it</title>
+    <link>/tags/ki-serie/</link>
+    <description>Recent content in KI-Serie on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Mon, 19 May 2025 10:22:37 +0200</lastBuildDate>
-    <atom:link href="/tags/ki/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ki-serie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sicherer KI-Umgang für Einsteiger - Checkliste zur KI-Serie</title>
       <link>/guides/2025-05-19-sicherer-ki-umgang-fuer-einsteiger/</link>
@@ -28,13 +28,6 @@
       <pubDate>Mon, 19 May 2025 09:23:43 +0200</pubDate>
       <guid>/blog/2025-05-19-ki-serie-einstieg/</guid>
       <description>Ein verständlicher Einstieg in die Welt der Künstlichen Intelligenz, Tracking-Technologien und digitaler Selbstbestimmung.</description>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz und Datenschutz: Was passiert mit unseren Daten?</title>
-      <link>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</link>
-      <pubDate>Thu, 06 Mar 2025 10:38:13 +0200</pubDate>
-      <guid>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</guid>
-      <description>Künstliche Intelligenz (KI) ist aus unserem Alltag nicht mehr wegzudenken. Sie hilft uns, schneller zu arbeiten, bessere Entscheidungen zu treffen und unsere Wünsche zu antizipieren. Von personalisierten Filmempfehlungen bis hin zu Sprachassistenten wie Alexa oder Siri – KI erleichtert unser Leben. Aber sie hat auch einen Preis: unsere Daten.</description>
     </item>
   </channel>
 </rss>
