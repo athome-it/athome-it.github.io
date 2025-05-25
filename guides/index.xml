@@ -6,8 +6,15 @@
     <description>Recent content in Guides on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 19 May 2025 10:22:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 09:23:43 +0200</lastBuildDate>
     <atom:link href="/guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini-Guide: Deepfake-Erkennung – Erste Hilfe</title>
+      <link>/guides/bessere-prompts-schreiben/</link>
+      <pubDate>Thu, 22 May 2025 09:23:43 +0200</pubDate>
+      <guid>/guides/bessere-prompts-schreiben/</guid>
+      <description>Ein verständlicher Einstieg in die Welt der Künstlichen Intelligenz, Tracking-Technologien und digitaler Selbstbestimmung.</description>
+    </item>
     <item>
       <title>Sicherer KI-Umgang für Einsteiger - Checkliste zur KI-Serie</title>
       <link>/guides/2025-05-19-sicherer-ki-umgang-fuer-einsteiger/</link>
