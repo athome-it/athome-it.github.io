@@ -6,14 +6,21 @@
     <description>Recent content in KI on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 22 May 2025 09:23:43 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 16:17:19 +0200</lastBuildDate>
     <atom:link href="/tags/ki/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mini-Guide: Deepfake-Erkennung – Erste Hilfe</title>
-      <link>/guides/bessere-prompts-schreiben/</link>
-      <pubDate>Thu, 22 May 2025 09:23:43 +0200</pubDate>
-      <guid>/guides/bessere-prompts-schreiben/</guid>
-      <description>Ein verständlicher Einstieg in die Welt der Künstlichen Intelligenz, Tracking-Technologien und digitaler Selbstbestimmung.</description>
+      <title>Bessere Prompts schreiben - Mini Guide zur KI-Serie</title>
+      <link>/guides/2025-05-25-bessere-prompts-schreiben/</link>
+      <pubDate>Sun, 25 May 2025 16:17:19 +0200</pubDate>
+      <guid>/guides/2025-05-25-bessere-prompts-schreiben/</guid>
+      <description>Bessere Prompts schreiben – dein Einsteiger-Guide für den Umgang mit KI-Tools. Eine Mini-Guide zur KI Serie</description>
+    </item>
+    <item>
+      <title>Was ist KI eigentlich und wie funktioniert sie? - Teil 2/10 der KI Serie</title>
+      <link>/blog/2025-05-25-ki-serie-02-was-ist-ki/</link>
+      <pubDate>Sun, 25 May 2025 15:51:41 +0200</pubDate>
+      <guid>/blog/2025-05-25-ki-serie-02-was-ist-ki/</guid>
+      <description>Was ist KI eigentlich – und wie funktioniert sie?  - Teil 2/10 der KI Serie</description>
     </item>
     <item>
       <title>Sicherer KI-Umgang für Einsteiger - Checkliste zur KI-Serie</title>
@@ -23,7 +30,7 @@
       <description>Wie du Künstliche Intelligenz clever nutzt – ohne deine Privatsphäre zu riskieren</description>
     </item>
     <item>
-      <title>Wo begegnet mir KI überall? - KI-Serie Teil 1/10</title>
+      <title>Wo begegnet mir KI überall? - Teil 1/10 der KI Serie</title>
       <link>/blog/2025-05-19-ki-serie-01-wo-begegnet-mir-ki/</link>
       <pubDate>Mon, 19 May 2025 09:31:13 +0200</pubDate>
       <guid>/blog/2025-05-19-ki-serie-01-wo-begegnet-mir-ki/</guid>
