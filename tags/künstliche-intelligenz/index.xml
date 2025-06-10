@@ -6,8 +6,22 @@
     <description>Recent content in Künstliche Intelligenz on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 03 Jun 2025 09:05:40 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 09:26:59 +0200</lastBuildDate>
     <atom:link href="/tags/k%C3%BCnstliche-intelligenz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deepfake-Erkennung – Erste Hilfe - Mini Guide zur KI-Serie</title>
+      <link>/guides/2025-06-10-deepfake-erkennung/</link>
+      <pubDate>Tue, 10 Jun 2025 09:26:59 +0200</pubDate>
+      <guid>/guides/2025-06-10-deepfake-erkennung/</guid>
+      <description>Woran du gefälschte Bilder, Videos oder Stimmen erkennst – mit gesunder Skepsis, klaren Indizien und optionalen Tools</description>
+    </item>
+    <item>
+      <title>Deepfakes &amp; Manipulation – wenn KI täuscht - Teil 4/10 der KI Serie</title>
+      <link>/blog/2025-06-10-ki-serie-04-deepfakes-und-manipulation/</link>
+      <pubDate>Tue, 10 Jun 2025 09:14:56 +0200</pubDate>
+      <guid>/blog/2025-06-10-ki-serie-04-deepfakes-und-manipulation/</guid>
+      <description>Täuschend echt – Wie KI Bilder, Stimmen und Texte fälscht (und wie du dich davor schützt)</description>
+    </item>
     <item>
       <title>KI erklären – für Eltern, Schule, Beruf - Mini Guide zur KI-Serie</title>
       <link>/guides/2025-06-03-ki-erkaerenfuer-eltern-schule-beruf/</link>
