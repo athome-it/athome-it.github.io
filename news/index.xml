@@ -6,8 +6,22 @@
     <description>Recent content in News on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 13 Jun 2025 06:48:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 06:57:30 +0000</lastBuildDate>
     <atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Media Posts der KW 27, 2025</title>
+      <link>/news/2025-07-06-kw27-weekly-posts/</link>
+      <pubDate>Sun, 06 Jul 2025 06:57:30 +0000</pubDate>
+      <guid>/news/2025-07-06-kw27-weekly-posts/</guid>
+      <description>Weekly Social Media Posts - KW 27, 2025</description>
+    </item>
+    <item>
+      <title>Shared Mastodon Posts - KW 27, 2025</title>
+      <link>/news/2025-07-06-kw27-weekly-shared-mastodon-posts/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/news/2025-07-06-kw27-weekly-shared-mastodon-posts/</guid>
+      <description>Weekly Shared Mastodon Posts - KW 27, 2025</description>
+    </item>
     <item>
       <title>Social Media Posts der KW 24, 2025</title>
       <link>/news/2025-06-13-kw24-weekly-posts/</link>
