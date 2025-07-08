@@ -6,8 +6,29 @@
     <description>Recent content in KI on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 01 Jul 2025 16:16:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 10:06:25 +0200</lastBuildDate>
     <atom:link href="/tags/ki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DSGVO und KI – kurz erklärt - Mini Guide zur KI-Serie</title>
+      <link>/guides/2025-07-08-dsgvo-und-ki/</link>
+      <pubDate>Tue, 08 Jul 2025 10:06:25 +0200</pubDate>
+      <guid>/guides/2025-07-08-dsgvo-und-ki/</guid>
+      <description>Was gilt rechtlich bei KI-Tools in der EU – und worauf solltest du achten?</description>
+    </item>
+    <item>
+      <title>Tools mit Datenschutzfokus - Mini Guide zur KI-Serie</title>
+      <link>/guides/2025-07-08-tools-mit-datenschutzfokus/</link>
+      <pubDate>Tue, 08 Jul 2025 09:48:23 +0200</pubDate>
+      <guid>/guides/2025-07-08-tools-mit-datenschutzfokus/</guid>
+      <description>Wer KI-Tools nutzt, möchte oft mehr als nur gute Ergebnisse: Sicherheit, Kontrolle über die eigenen Daten – und das gute Gefühl, nicht zur Datenquelle gemacht zu werden. Doch was heißt das in der Praxis?</description>
+    </item>
+    <item>
+      <title>Wie KIs wie ChatGPT lernen – einfach erklärt - Teil 6/10 der KI Serie</title>
+      <link>/blog/2025-07-08-ki-serie-06-datenschutz-tipps/</link>
+      <pubDate>Tue, 08 Jul 2025 09:09:40 +0200</pubDate>
+      <guid>/blog/2025-07-08-ki-serie-06-datenschutz-tipps/</guid>
+      <description>Wie „lernt“ eine KI eigentlich – und was bedeutet das für uns Nutzer?</description>
+    </item>
     <item>
       <title>Was gebe ich der KI? - Mini Guide zur KI-Serie</title>
       <link>/guides/2025-07-01-was-gebe-ich-der-ki/</link>
@@ -44,7 +65,7 @@
       <description>Wie du Künstliche Intelligenz (KI) auch ohne Fachwissen verständlich erklärst – für Kinder, Kolleg*innen, Familie</description>
     </item>
     <item>
-      <title>Wie lernt eine KI – und was bedeutet das? - Teil 3/10 der KI Serie</title>
+      <title>Wenn KI über dich entscheidet – und du es nicht merkst - Teil 3/10 der KI Serie</title>
       <link>/blog/2025-06-03-ki-serie-03-wie-lernt-ki/</link>
       <pubDate>Tue, 03 Jun 2025 08:52:45 +0200</pubDate>
       <guid>/blog/2025-06-03-ki-serie-03-wie-lernt-ki/</guid>
