@@ -6,27 +6,27 @@
     <description>Recent content in Categories on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 08 Jul 2025 10:06:25 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 06:51:04 +0000</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Künstliche Intelligenz</title>
-      <link>/categories/k%C3%BCnstliche-intelligenz/</link>
-      <pubDate>Tue, 08 Jul 2025 10:06:25 +0200</pubDate>
-      <guid>/categories/k%C3%BCnstliche-intelligenz/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Social-Media-Posts</title>
       <link>/categories/social-media-posts/</link>
-      <pubDate>Sun, 06 Jul 2025 06:57:30 +0000</pubDate>
+      <pubDate>Sun, 13 Jul 2025 06:51:04 +0000</pubDate>
       <guid>/categories/social-media-posts/</guid>
       <description></description>
     </item>
     <item>
       <title>Social-Media-Shared-Posts</title>
       <link>/categories/social-media-shared-posts/</link>
-      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/categories/social-media-shared-posts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Künstliche Intelligenz</title>
+      <link>/categories/k%C3%BCnstliche-intelligenz/</link>
+      <pubDate>Tue, 08 Jul 2025 10:06:25 +0200</pubDate>
+      <guid>/categories/k%C3%BCnstliche-intelligenz/</guid>
       <description></description>
     </item>
     <item>
