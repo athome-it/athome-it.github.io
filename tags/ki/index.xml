@@ -6,8 +6,22 @@
     <description>Recent content in KI on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 08 Jul 2025 10:06:25 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 10:16:20 +0200</lastBuildDate>
     <atom:link href="/tags/ki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So prüfst du KI-generierte Inhalte - Mini Guide zur KI-Serie</title>
+      <link>/guides/2025-07-15-check-ki-generierte-inhalte/</link>
+      <pubDate>Tue, 15 Jul 2025 10:16:20 +0200</pubDate>
+      <guid>/guides/2025-07-15-check-ki-generierte-inhalte/</guid>
+      <description>Mini-Guide: So prüfst du KI-generierte Inhalte</description>
+    </item>
+    <item>
+      <title>Bias und Vorurteile - Teil 7/10 der KI Serie</title>
+      <link>/blog/2025-07-15-ki-serie-07-bias-und-vorurteile/</link>
+      <pubDate>Tue, 15 Jul 2025 09:37:15 +0200</pubDate>
+      <guid>/blog/2025-07-15-ki-serie-07-bias-und-vorurteile/</guid>
+      <description>Vorurteile aus Daten: Was „Bias in KI“ bedeutet – und warum uns das alle betrifft</description>
+    </item>
     <item>
       <title>DSGVO und KI – kurz erklärt - Mini Guide zur KI-Serie</title>
       <link>/guides/2025-07-08-dsgvo-und-ki/</link>
