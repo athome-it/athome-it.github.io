@@ -625,15 +625,21 @@ h4 {
     position: relative; /* Notwendig für das Pseudo-Element */
 }
 
-/* Linie unter h4, passt sich an den Text an */
-h4::after {
-    content: ""; /* Erzeugt die Linie */
-    display: block;
-    width: 100%; /* Passt sich an die Breite der Überschrift an */
-    height: 2px; /* Dicke der Linie */
-    background-color: #e0e0e0; /* Farbe der Linie */
-    margin-top: 3px; /* Abstand zur Überschrift */
+/* Wenn auf h4 direkt eine Liste folgt, Abstand verkleinern */
+h4 + ul,
+h4 + ol {
+    margin-top: 0px; /* oder ein anderer Wert, je nach Bedarf */
 }
+
+/* Linie unter h4, passt sich an den Text an */
+/*h4::after {
+/*    content: ""; /* Erzeugt die Linie */
+/*    display: block;
+/*    width: 100%; /* Passt sich an die Breite der Überschrift an */
+/*    height: 2px; /* Dicke der Linie */
+/*    background-color: #e0e0e0; /* Farbe der Linie */
+/*    margin-top: 3px; /* Abstand zur Überschrift */
+/*}
 
 /* Entfernt übermäßigen Abstand zwischen Überschrift und Text */
 p {
