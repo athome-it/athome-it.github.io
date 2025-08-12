@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 04 Aug 2025 10:46:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 08:50:54 +0200</lastBuildDate>
     <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Media – Bezahlen wir mit unserer Privatsphäre?</title>
+      <link>/blog/2025-08-12-bezahlen-wir-mit-unserer-privatsphaere/</link>
+      <pubDate>Tue, 12 Aug 2025 08:50:54 +0200</pubDate>
+      <guid>/blog/2025-08-12-bezahlen-wir-mit-unserer-privatsphaere/</guid>
+      <description>Soziale Netzwerke wie Facebook, Instagram und TikTok gehören für viele von uns zum Alltag. Sie verbinden uns mit Freunden, bieten Unterhaltung und halten uns auf dem Laufenden.</description>
+    </item>
     <item>
       <title>Zentrale-Landingpage zur Blogserie, KI, Datenschutz &amp; du</title>
       <link>/blog/2025-08-04-ki-serie-11-zentrale-landingpage/</link>
@@ -161,13 +168,6 @@
       <pubDate>Sat, 01 Feb 2025 17:15:47 +0200</pubDate>
       <guid>/blog/2025-02-01-was-ist-pixelfed/</guid>
       <description>Instagram, TikTok und andere große Plattformen stehen oft wegen Datenschutzproblemen, Werbung und Tracking in der Kritik. Viele Nutzer suchen deshalb nach Alternativen, die den Fokus auf Privatsphäre und Werbefreiheit legen.</description>
-    </item>
-    <item>
-      <title>Social Media – Bezahlen wir mit unserer Privatsphäre?</title>
-      <link>/blog/2025-01-06-bezahlen-wir-mit-unserer-privatsphaere/</link>
-      <pubDate>Mon, 06 Jan 2025 16:41:33 +0200</pubDate>
-      <guid>/blog/2025-01-06-bezahlen-wir-mit-unserer-privatsphaere/</guid>
-      <description>Soziale Netzwerke wie Facebook, Instagram und TikTok gehören für viele von uns zum Alltag. Sie verbinden uns mit Freunden, bieten Unterhaltung und halten uns auf dem Laufenden.</description>
     </item>
     <item>
       <title>Ist Google Chrome nach der Umstellung auf Manifest V3 noch zu enpfehlen?</title>

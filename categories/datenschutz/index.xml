@@ -6,8 +6,15 @@
     <description>Recent content in Datenschutz on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 13 May 2025 09:31:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 08:50:54 +0200</lastBuildDate>
     <atom:link href="/categories/datenschutz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Media – Bezahlen wir mit unserer Privatsphäre?</title>
+      <link>/blog/2025-08-12-bezahlen-wir-mit-unserer-privatsphaere/</link>
+      <pubDate>Tue, 12 Aug 2025 08:50:54 +0200</pubDate>
+      <guid>/blog/2025-08-12-bezahlen-wir-mit-unserer-privatsphaere/</guid>
+      <description>Soziale Netzwerke wie Facebook, Instagram und TikTok gehören für viele von uns zum Alltag. Sie verbinden uns mit Freunden, bieten Unterhaltung und halten uns auf dem Laufenden.</description>
+    </item>
     <item>
       <title>Kinder &amp; Datenschutz – worauf Eltern achten sollten</title>
       <link>/blog/2025-05-13-kinder-und-datenschutz/</link>
@@ -77,13 +84,6 @@
       <pubDate>Mon, 06 Jan 2025 17:17:14 +0200</pubDate>
       <guid>/guides/2025-01-06-five-steps-save-your-privacy/</guid>
       <description>Social Media gehört für viele von uns zum Alltag. Doch hinter den bunten Bildern und lustigen Videos sammeln Plattformen wie Facebook, Instagram und TikTok massenhaft Daten über uns.</description>
-    </item>
-    <item>
-      <title>Social Media – Bezahlen wir mit unserer Privatsphäre?</title>
-      <link>/blog/2025-01-06-bezahlen-wir-mit-unserer-privatsphaere/</link>
-      <pubDate>Mon, 06 Jan 2025 16:41:33 +0200</pubDate>
-      <guid>/blog/2025-01-06-bezahlen-wir-mit-unserer-privatsphaere/</guid>
-      <description>Soziale Netzwerke wie Facebook, Instagram und TikTok gehören für viele von uns zum Alltag. Sie verbinden uns mit Freunden, bieten Unterhaltung und halten uns auf dem Laufenden.</description>
     </item>
     <item>
       <title>Ist Google Chrome nach der Umstellung auf Manifest V3 noch zu enpfehlen?</title>
