@@ -6,8 +6,15 @@
     <description>Recent content in SocialMedia on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 12 Aug 2025 08:50:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 09:31:47 +0200</lastBuildDate>
     <atom:link href="/tags/socialmedia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Media: Was du über Datenweitergabe wissen solltest</title>
+      <link>/blog/2025-08-13-2024-12-06-datenweitergabe-wissen/</link>
+      <pubDate>Wed, 13 Aug 2025 09:31:47 +0200</pubDate>
+      <guid>/blog/2025-08-13-2024-12-06-datenweitergabe-wissen/</guid>
+      <description>Hast du dir schon einmal überlegt, warum TikTok so süchtig macht? Du scrollst, schaust Videos, und plötzlich ist eine Stunde vergangen. Aber während du lachst und staunst, passiert im Hintergrund etwas anderes: TikTok lernt dich kennen – besser, als du es vielleicht selbst tust.</description>
+    </item>
     <item>
       <title>Social Media – Bezahlen wir mit unserer Privatsphäre?</title>
       <link>/blog/2025-08-12-bezahlen-wir-mit-unserer-privatsphaere/</link>
@@ -42,13 +49,6 @@
       <pubDate>Mon, 06 Jan 2025 17:17:14 +0200</pubDate>
       <guid>/guides/2025-01-06-five-steps-save-your-privacy/</guid>
       <description>Social Media gehört für viele von uns zum Alltag. Doch hinter den bunten Bildern und lustigen Videos sammeln Plattformen wie Facebook, Instagram und TikTok massenhaft Daten über uns.</description>
-    </item>
-    <item>
-      <title>Social Media: Was du über Datenweitergabe wissen solltest</title>
-      <link>/blog/2024-12-06-datenweitergabe-wissen/</link>
-      <pubDate>Fri, 06 Dec 2024 16:25:09 +0200</pubDate>
-      <guid>/blog/2024-12-06-datenweitergabe-wissen/</guid>
-      <description>Hast du dir schon einmal überlegt, warum TikTok so süchtig macht? Du scrollst, schaust Videos, und plötzlich ist eine Stunde vergangen. Aber während du lachst und staunst, passiert im Hintergrund etwas anderes: TikTok lernt dich kennen – besser, als du es vielleicht selbst tust.</description>
     </item>
   </channel>
 </rss>
