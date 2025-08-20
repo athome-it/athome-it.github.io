@@ -6,20 +6,27 @@
     <description>Recent content in Tags on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 18 Aug 2025 11:23:58 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 13:03:37 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutz</title>
+      <link>/tags/datenschutz/</link>
+      <pubDate>Wed, 20 Aug 2025 13:03:37 +0200</pubDate>
+      <guid>/tags/datenschutz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SmartHome</title>
+      <link>/tags/smarthome/</link>
+      <pubDate>Wed, 20 Aug 2025 13:03:37 +0200</pubDate>
+      <guid>/tags/smarthome/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cloud</title>
       <link>/tags/cloud/</link>
       <pubDate>Mon, 18 Aug 2025 11:23:58 +0200</pubDate>
       <guid>/tags/cloud/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Datenschutz</title>
-      <link>/tags/datenschutz/</link>
-      <pubDate>Mon, 18 Aug 2025 11:23:58 +0200</pubDate>
-      <guid>/tags/datenschutz/</guid>
       <description></description>
     </item>
     <item>
@@ -132,13 +139,6 @@
       <link>/tags/smartmobility/</link>
       <pubDate>Wed, 16 Apr 2025 09:34:43 +0200</pubDate>
       <guid>/tags/smartmobility/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SmartHome</title>
-      <link>/tags/smarthome/</link>
-      <pubDate>Tue, 25 Mar 2025 10:43:31 +0200</pubDate>
-      <guid>/tags/smarthome/</guid>
       <description></description>
     </item>
     <item>
