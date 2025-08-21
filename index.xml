@@ -6,8 +6,15 @@
     <description>Recent content in Willkommen bei athome-it on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 20 Aug 2025 13:03:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 17:02:53 +0200</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wie sicher sind deine Daten in der Cloud? Eine Analyse mit Alternativen</title>
+      <link>/blog/2025-08-21-daten-in-der-cloud/</link>
+      <pubDate>Thu, 21 Aug 2025 17:02:53 +0200</pubDate>
+      <guid>/blog/2025-08-21-daten-in-der-cloud/</guid>
+      <description>Ob Fotos, Dokumente oder ganze Backups – Cloud-Dienste sind aus unserem digitalen Alltag kaum mehr wegzudenken. Sie ermöglichen den Zugriff von überall, sorgen für automatische Synchronisation und schützen vor Datenverlust.</description>
+    </item>
     <item>
       <title>Smart Home: Wer hört mit? – Datenschutzrisiken und wie du dich schützt</title>
       <link>/blog/2025-08-20-smart-home-wer-hoert-mit/</link>
@@ -469,13 +476,6 @@
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
       <guid>/news/2025-04-06-kw14-weekly-shared-mastodon-posts/</guid>
       <description>Weekly Shared Mastodon Posts - KW 14, 2025</description>
-    </item>
-    <item>
-      <title>Wie sicher sind deine Daten in der Cloud? Eine Analyse mit Alternativen</title>
-      <link>/blog/2025-04-01-daten-in-der-cloud/</link>
-      <pubDate>Tue, 01 Apr 2025 09:39:49 +0200</pubDate>
-      <guid>/blog/2025-04-01-daten-in-der-cloud/</guid>
-      <description>Ob Fotos, Dokumente oder ganze Backups – Cloud-Dienste sind aus unserem digitalen Alltag kaum mehr wegzudenken. Sie ermöglichen den Zugriff von überall, sorgen für automatische Synchronisation und schützen vor Datenverlust.</description>
     </item>
     <item>
       <title>Social Media Posts der KW 13, 2025</title>

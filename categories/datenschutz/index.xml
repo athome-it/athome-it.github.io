@@ -6,8 +6,15 @@
     <description>Recent content in Datenschutz on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 20 Aug 2025 13:03:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 17:02:53 +0200</lastBuildDate>
     <atom:link href="/categories/datenschutz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wie sicher sind deine Daten in der Cloud? Eine Analyse mit Alternativen</title>
+      <link>/blog/2025-08-21-daten-in-der-cloud/</link>
+      <pubDate>Thu, 21 Aug 2025 17:02:53 +0200</pubDate>
+      <guid>/blog/2025-08-21-daten-in-der-cloud/</guid>
+      <description>Ob Fotos, Dokumente oder ganze Backups – Cloud-Dienste sind aus unserem digitalen Alltag kaum mehr wegzudenken. Sie ermöglichen den Zugriff von überall, sorgen für automatische Synchronisation und schützen vor Datenverlust.</description>
+    </item>
     <item>
       <title>Smart Home: Wer hört mit? – Datenschutzrisiken und wie du dich schützt</title>
       <link>/blog/2025-08-20-smart-home-wer-hoert-mit/</link>
@@ -56,13 +63,6 @@
       <pubDate>Wed, 16 Apr 2025 09:34:43 +0200</pubDate>
       <guid>/blog/2025-04-16-moderne-autos-und-ihre-daten/</guid>
       <description>Die Automobilbranche erlebt eine rasante Digitalisierung. Moderne Autos sind längst nicht mehr nur Fortbewegungsmittel – sie sind fahrende Computer, die unzählige Daten erfassen und senden.</description>
-    </item>
-    <item>
-      <title>Wie sicher sind deine Daten in der Cloud? Eine Analyse mit Alternativen</title>
-      <link>/blog/2025-04-01-daten-in-der-cloud/</link>
-      <pubDate>Tue, 01 Apr 2025 09:39:49 +0200</pubDate>
-      <guid>/blog/2025-04-01-daten-in-der-cloud/</guid>
-      <description>Ob Fotos, Dokumente oder ganze Backups – Cloud-Dienste sind aus unserem digitalen Alltag kaum mehr wegzudenken. Sie ermöglichen den Zugriff von überall, sorgen für automatische Synchronisation und schützen vor Datenverlust.</description>
     </item>
     <item>
       <title>Datenschutzfreundliche Browser – Alternativen zu Chrome</title>

@@ -6,21 +6,21 @@
     <description>Recent content in Cloud on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 18 Aug 2025 11:23:58 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 17:02:53 +0200</lastBuildDate>
     <atom:link href="/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wie sicher sind deine Daten in der Cloud? Eine Analyse mit Alternativen</title>
+      <link>/blog/2025-08-21-daten-in-der-cloud/</link>
+      <pubDate>Thu, 21 Aug 2025 17:02:53 +0200</pubDate>
+      <guid>/blog/2025-08-21-daten-in-der-cloud/</guid>
+      <description>Ob Fotos, Dokumente oder ganze Backups – Cloud-Dienste sind aus unserem digitalen Alltag kaum mehr wegzudenken. Sie ermöglichen den Zugriff von überall, sorgen für automatische Synchronisation und schützen vor Datenverlust.</description>
+    </item>
     <item>
       <title>Digitale Souveränität: Warum sie wichtig ist – und wie wir sie erreichen können</title>
       <link>/blog/2025-08-18-digitale-souveraenitaet/</link>
       <pubDate>Mon, 18 Aug 2025 11:23:58 +0200</pubDate>
       <guid>/blog/2025-08-18-digitale-souveraenitaet/</guid>
       <description>In Deutschland und Europa wird zunehmend über &lt;strong&gt;digitale Souveränität&lt;/strong&gt; gesprochen – nicht nur politisch, sondern auch wirtschaftlich, gesellschaftlich und persönlich</description>
-    </item>
-    <item>
-      <title>Wie sicher sind deine Daten in der Cloud? Eine Analyse mit Alternativen</title>
-      <link>/blog/2025-04-01-daten-in-der-cloud/</link>
-      <pubDate>Tue, 01 Apr 2025 09:39:49 +0200</pubDate>
-      <guid>/blog/2025-04-01-daten-in-der-cloud/</guid>
-      <description>Ob Fotos, Dokumente oder ganze Backups – Cloud-Dienste sind aus unserem digitalen Alltag kaum mehr wegzudenken. Sie ermöglichen den Zugriff von überall, sorgen für automatische Synchronisation und schützen vor Datenverlust.</description>
     </item>
   </channel>
 </rss>
