@@ -6,8 +6,15 @@
     <description>Recent content in KI on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 04 Aug 2025 10:46:01 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 09:56:01 +0200</lastBuildDate>
     <atom:link href="/tags/ki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Künstliche Intelligenz und Datenschutz: Was passiert mit unseren Daten?</title>
+      <link>/blog/2025-08-25-kuenstliche-intelligenz-und-datenschutz/</link>
+      <pubDate>Mon, 25 Aug 2025 09:56:01 +0200</pubDate>
+      <guid>/blog/2025-08-25-kuenstliche-intelligenz-und-datenschutz/</guid>
+      <description>Künstliche Intelligenz (KI) ist aus unserem Alltag nicht mehr wegzudenken. Sie hilft uns, schneller zu arbeiten, bessere Entscheidungen zu treffen und unsere Wünsche zu antizipieren. Von personalisierten Filmempfehlungen bis hin zu Sprachassistenten wie Alexa oder Siri – KI erleichtert unser Leben. Aber sie hat auch einen Preis: unsere Daten.</description>
+    </item>
     <item>
       <title>Zentrale-Landingpage zur Blogserie, KI, Datenschutz &amp; du</title>
       <link>/blog/2025-08-04-ki-serie-11-zentrale-landingpage/</link>
@@ -161,13 +168,6 @@
       <pubDate>Mon, 19 May 2025 09:23:43 +0200</pubDate>
       <guid>/blog/2025-05-19-ki-serie-einstieg/</guid>
       <description>Ein verständlicher Einstieg in die Welt der Künstlichen Intelligenz, Tracking-Technologien und digitaler Selbstbestimmung.</description>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz und Datenschutz: Was passiert mit unseren Daten?</title>
-      <link>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</link>
-      <pubDate>Thu, 06 Mar 2025 10:38:13 +0200</pubDate>
-      <guid>/blog/2025-02-06-kuenstliche-intelligenz-und-datenschutz/</guid>
-      <description>Künstliche Intelligenz (KI) ist aus unserem Alltag nicht mehr wegzudenken. Sie hilft uns, schneller zu arbeiten, bessere Entscheidungen zu treffen und unsere Wünsche zu antizipieren. Von personalisierten Filmempfehlungen bis hin zu Sprachassistenten wie Alexa oder Siri – KI erleichtert unser Leben. Aber sie hat auch einen Preis: unsere Daten.</description>
     </item>
   </channel>
 </rss>
