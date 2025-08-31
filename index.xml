@@ -6,8 +6,22 @@
     <description>Recent content in Willkommen bei athome-it on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 26 Aug 2025 08:43:50 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 08:58:58 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Media Posts der KW 35, 2025</title>
+      <link>/news/2025-08-31-kw35-weekly-posts/</link>
+      <pubDate>Sun, 31 Aug 2025 08:58:58 +0000</pubDate>
+      <guid>/news/2025-08-31-kw35-weekly-posts/</guid>
+      <description>Weekly Social Media Posts - KW 35, 2025</description>
+    </item>
+    <item>
+      <title>Shared Mastodon Posts - KW 35, 2025</title>
+      <link>/news/2025-08-31-kw35-weekly-shared-mastodon-posts/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/news/2025-08-31-kw35-weekly-shared-mastodon-posts/</guid>
+      <description>Weekly Shared Mastodon Posts - KW 35, 2025</description>
+    </item>
     <item>
       <title>Kinder &amp; Datenschutz – worauf Eltern achten sollten</title>
       <link>/blog/2025-08-26-kinder-und-datenschutz/</link>
@@ -87,9 +101,9 @@
     </item>
     <item>
       <title>Social Media: Was du über Datenweitergabe wissen solltest</title>
-      <link>/blog/2025-08-13-2024-12-06-datenweitergabe-wissen/</link>
+      <link>/blog/2025-08-13-datenweitergabe-wissen/</link>
       <pubDate>Wed, 13 Aug 2025 09:31:47 +0200</pubDate>
-      <guid>/blog/2025-08-13-2024-12-06-datenweitergabe-wissen/</guid>
+      <guid>/blog/2025-08-13-datenweitergabe-wissen/</guid>
       <description>Hast du dir schon einmal überlegt, warum TikTok so süchtig macht? Du scrollst, schaust Videos, und plötzlich ist eine Stunde vergangen. Aber während du lachst und staunst, passiert im Hintergrund etwas anderes: TikTok lernt dich kennen – besser, als du es vielleicht selbst tust.</description>
     </item>
     <item>
@@ -413,6 +427,13 @@
       <pubDate>Tue, 13 May 2025 09:41:58 +0200</pubDate>
       <guid>/guides/2025-05-13-kinder-und-datenschutz-guide/</guid>
       <description>Eltern-Guide: Mein Kind &amp;amp; das Netz. Dieser Guide zeigt dir in 7 einfachen Schritten, wie du dein Kind vor unnötiger Datensammlung schützt – ohne Stress, ohne Technikfrust.</description>
+    </item>
+    <item>
+      <title>Kinder &amp; Datenschutz – worauf Eltern achten sollten</title>
+      <link>/blog/2025-05-13-kinder-und-datenschutz/</link>
+      <pubDate>Tue, 13 May 2025 09:31:09 +0200</pubDate>
+      <guid>/blog/2025-05-13-kinder-und-datenschutz/</guid>
+      <description>Was Google über dein Kind weiß – noch bevor es zur Schule geht. Klingt absurd? Ist aber Realität. Noch bevor viele Kinder lesen oder schreiben können, wissen Konzerne wie Google, Amazon oder Meta bereits eine Menge über sie: Wo sie wohnen. Welche Sprache sie sprechen. Was sie gern sehen, hören – und mit wem sie leben.</description>
     </item>
     <item>
       <title>Social Media Posts der KW 19, 2025</title>
@@ -751,27 +772,6 @@
       <description>Unter den aktuellen Umständen, insbesondere mit der Einführung von &lt;strong&gt;Manifest V3&lt;/strong&gt; in Google Chrome, ist es schwierig, Google Chrome als datenschutzfreundlichen Browser zu empfehlen. Die neuen Änderungen durch Manifest V3 schränken den Funktionsumfang von vielen wichtigen Erweiterungen ein, die den Schutz vor Tracking, Werbung und Überwachung bieten. Hier sind die wichtigsten Gründe, warum Google Chrome unter diesen Umständen weniger empfehlenswert ist:</description>
     </item>
     <item>
-      <title>Social Media Posts der KW 51, 2024</title>
-      <link>/news/2024-12-21-kw51-weekly-posts/</link>
-      <pubDate>Sat, 21 Dec 2024 08:49:34 +0000</pubDate>
-      <guid>/news/2024-12-21-kw51-weekly-posts/</guid>
-      <description>Weekly Social Media Posts - KW 51, 2024</description>
-    </item>
-    <item>
-      <title>Shared Bluesky Posts - KW 51, 2024</title>
-      <link>/news/2024-12-21-kw51-weekly-shared-bluesky-posts/</link>
-      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/news/2024-12-21-kw51-weekly-shared-bluesky-posts/</guid>
-      <description>Weekly Shared Bluesky Posts - KW 51, 2024</description>
-    </item>
-    <item>
-      <title>Shared Mastodon Posts - KW 51, 2024</title>
-      <link>/news/2024-12-21-kw51-weekly-shared-mastodon-posts/</link>
-      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/news/2024-12-21-kw51-weekly-shared-mastodon-posts/</guid>
-      <description>Weekly Shared Mastodon Posts - KW 51, 2024</description>
-    </item>
-    <item>
       <title>Anleitung zur Eröffnung eines Accounts bei Mastodon</title>
       <link>/guides/2024-12-16-anleitung-eroeffnung-eines-accounts-bei-mastodon/</link>
       <pubDate>Mon, 16 Dec 2024 15:59:56 +0200</pubDate>
@@ -791,27 +791,6 @@
       <pubDate>Mon, 16 Dec 2024 15:05:22 +0200</pubDate>
       <guid>/blog/2024-12-16-mastodon-bluesky-alternativen-zu-twitter/</guid>
       <description>Mastodon und Bluesky – lohnenswerte Alternativen zu Twitter seit der Übernahme durch Elon Musk&amp;quot;</description>
-    </item>
-    <item>
-      <title>Social Media Posts der KW 50, 2024</title>
-      <link>/news/2024-12-15-kw50-weekly-posts/</link>
-      <pubDate>Sun, 15 Dec 2024 08:03:19 +0000</pubDate>
-      <guid>/news/2024-12-15-kw50-weekly-posts/</guid>
-      <description>Weekly Social Media Posts - KW 50, 2024</description>
-    </item>
-    <item>
-      <title>Shared Mastodon Posts - KW 50, 2024</title>
-      <link>/news/2024-12-15-kw50-weekly-shared-mastodon-posts/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/news/2024-12-15-kw50-weekly-shared-mastodon-posts/</guid>
-      <description>Weekly Shared Mastodon Posts - KW 50, 2024</description>
-    </item>
-    <item>
-      <title>Social Media Posts der KW 49, 2024</title>
-      <link>/news/2024-12-08-kw49-weekly-posts/</link>
-      <pubDate>Sun, 08 Dec 2024 08:11:01 +0000</pubDate>
-      <guid>/news/2024-12-08-kw49-weekly-posts/</guid>
-      <description>Weekly Social Media Posts - KW 49, 2024</description>
     </item>
     <item>
       <title>Schutz gegen Tracking und Werbung trotz Manifest V3</title>

@@ -6,8 +6,15 @@
     <description>Recent content in Mastodon on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/mastodon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shared Mastodon Posts - KW 35, 2025</title>
+      <link>/news/2025-08-31-kw35-weekly-shared-mastodon-posts/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/news/2025-08-31-kw35-weekly-shared-mastodon-posts/</guid>
+      <description>Weekly Shared Mastodon Posts - KW 35, 2025</description>
+    </item>
     <item>
       <title>Shared Mastodon Posts - KW 34, 2025</title>
       <link>/news/2025-08-24-kw34-weekly-shared-mastodon-posts/</link>
@@ -226,13 +233,6 @@
       <description>Weekly Shared Mastodon Posts - KW 2, 2025</description>
     </item>
     <item>
-      <title>Shared Mastodon Posts - KW 51, 2024</title>
-      <link>/news/2024-12-21-kw51-weekly-shared-mastodon-posts/</link>
-      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/news/2024-12-21-kw51-weekly-shared-mastodon-posts/</guid>
-      <description>Weekly Shared Mastodon Posts - KW 51, 2024</description>
-    </item>
-    <item>
       <title>Anleitung zur Eröffnung eines Accounts bei Mastodon</title>
       <link>/guides/2024-12-16-anleitung-eroeffnung-eines-accounts-bei-mastodon/</link>
       <pubDate>Mon, 16 Dec 2024 15:59:56 +0200</pubDate>
@@ -245,13 +245,6 @@
       <pubDate>Mon, 16 Dec 2024 15:05:22 +0200</pubDate>
       <guid>/blog/2024-12-16-mastodon-bluesky-alternativen-zu-twitter/</guid>
       <description>Mastodon und Bluesky – lohnenswerte Alternativen zu Twitter seit der Übernahme durch Elon Musk&amp;quot;</description>
-    </item>
-    <item>
-      <title>Shared Mastodon Posts - KW 50, 2024</title>
-      <link>/news/2024-12-15-kw50-weekly-shared-mastodon-posts/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/news/2024-12-15-kw50-weekly-shared-mastodon-posts/</guid>
-      <description>Weekly Shared Mastodon Posts - KW 50, 2024</description>
     </item>
   </channel>
 </rss>
