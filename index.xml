@@ -6,8 +6,15 @@
     <description>Recent content in Willkommen bei athome-it on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 07 Sep 2025 06:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 09:15:57 +0200</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzfreundliche Browser – Alternativen zu Chrome</title>
+      <link>/blog/2025-09-09-datenschutzfreundliche-browser/</link>
+      <pubDate>Tue, 09 Sep 2025 09:15:57 +0200</pubDate>
+      <guid>/blog/2025-09-09-datenschutzfreundliche-browser/</guid>
+      <description>Das Internet ist voll von Trackern, Fingerprinting-Methoden und gezielter Werbung. Viele Mainstream-Browser, allen voran &lt;strong&gt;Google Chrome&lt;/strong&gt;, schützen deine Privatsphäre nicht – sie sind sogar Teil des Problems.</description>
+    </item>
     <item>
       <title>Social Media Posts der KW 36, 2025</title>
       <link>/news/2025-09-07-kw36-weekly-posts/</link>
@@ -574,13 +581,6 @@
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
       <guid>/news/2025-03-16-kw11-weekly-shared-mastodon-posts/</guid>
       <description>Weekly Shared Mastodon Posts - KW 11, 2025</description>
-    </item>
-    <item>
-      <title>Datenschutzfreundliche Browser – Alternativen zu Chrome</title>
-      <link>/guides/2025-03-11-datenschutzfreundliche-browser/</link>
-      <pubDate>Tue, 11 Mar 2025 10:54:13 +0200</pubDate>
-      <guid>/guides/2025-03-11-datenschutzfreundliche-browser/</guid>
-      <description>Das Internet ist voll von Trackern, Fingerprinting-Methoden und gezielter Werbung. Viele Mainstream-Browser, allen voran &lt;strong&gt;Google Chrome&lt;/strong&gt;, schützen deine Privatsphäre nicht – sie sind sogar Teil des Problems.</description>
     </item>
     <item>
       <title>Social Media Posts der KW 10, 2025</title>

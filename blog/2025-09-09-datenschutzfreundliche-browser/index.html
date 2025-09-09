@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datenschutzfreundliche Browser – Alternativen zu Chrome</title>
+    <link rel="stylesheet" href="../../css/style.css">
+</head>
+<body>
+
+    
+    
+<div class="main-header">
+    
+    <div class="header-content">
+        <img src="../../images/logo/logo.png" alt="Logo">
+        <h1>athome-it</h1>
+    </div>
+</div>
+
+<nav>
+    <div class="menu-toggle" onclick="toggleMenu()">☰</div> 
+    <ul class="nav-links">
+        
+        <li><a href="../../">Home</a></li>
+        
+        <li><a href="../../news/">News</a></li>
+        
+        <li><a href="../../guides/">Guides und Tipps</a></li>
+        
+        <li><a href="../../blog/">Blog</a></li>
+        
+        <li><a href="../../impressum/">Impressum</a></li>
+        
+        <li><a href="../../dataprotection/">Datenschutzerklärung</a></li>
+        
+    </ul>
+</nav>
+
+
+
+    
+    <main class="main-content">
+        
+<article class="single-post">
+    <header>
+        <h1>Datenschutzfreundliche Browser – Alternativen zu Chrome</h1>
+    </header>
+
+    <div class="post-content">
+        <hr>
+<p>Im digitalen Alltag ist der Browser unser Tor zur Welt – und gleichzeitig ein Einfallstor für Tracking, Fingerprinting und Werbung. Während Chrome, Edge und Opera viele Daten sammeln, gibt es datenschutzfreundliche Alternativen, mit denen du sicherer surfst – auf dem Desktop wie auf dem Smartphone.</p>
+<figure>
+  <img src="../../guides/images/einfach-sicher-im-internet-small.jpg" alt="Datenschutzfreundliche Browser – Alternativen zu Chrome" class="responsive-image">
+  
+</figure>
+
+<h3 id="warum-chrome-und-edge-keine-gute-idee-sind">Warum Chrome (und Edge) keine gute Idee sind</h3>
+<p>Google Chrome ist der meistgenutzte Browser der Welt – und das Problem beginnt genau dort. Chrome ist kein neutraler Begleiter, sondern Teil des <strong>Werbegeschäftsmodells von Google</strong>. Er sammelt umfassende Daten über dein Verhalten, nutzt eine Infrastruktur, die Werbeblocker (wie durch <strong>Manifest V3</strong>) einschränkt, und schützt dich kaum gegen Tracking.</p>
+<div class="hint warning">
+  <strong>Tracking-Warnung:</strong> Chrome blockiert standardmäßig weder Tracker noch Fingerprinting. Microsoft Edge ist kaum besser – im „Privaten Modus“ sendet er weiter Daten an Microsoft.
+</div>
+
+<p>Edge, obwohl technisch auf Chromium basierend, verschärft das Problem durch Telemetrie, Werbung für Microsoft-Dienste und schwachen Tracking-Schutz. Auch Opera ist durch Werbung und Integration mit Drittanbietern kein Datenschutzgewinn.</p>
+<h3 id="die-besten-alternativen-für-mehr-privatsphäre">Die besten Alternativen für mehr Privatsphäre</h3>
+<h4 id="firefox--die-flexible-lösung">Firefox – die flexible Lösung</h4>
+<p>Firefox ist eine solide Wahl für datenschutzbewusstes Surfen – vorausgesetzt, du nimmst ein paar Einstellungen vor:</p>
+<ul>
+<li><strong>Tracking-Schutz auf „Streng“ setzen</strong> → <code>about:preferences#privacy</code></li>
+<li><strong>Telemetrie &amp; Datensammlung deaktivieren</strong> → <code>about:preferences#privacy</code></li>
+<li><strong>DNS über HTTPS aktivieren</strong> → Verschlüsselt DNS-Anfragen</li>
+<li><strong>Fingerprinting-Schutz aktivieren</strong> → <code>privacy.resistFingerprinting = true</code></li>
+<li><strong>Cookies automatisch löschen</strong> → Verhindert langfristiges Tracking</li>
+</ul>
+<p>Ergänzt durch Add-ons wie <strong>uBlock Origin</strong>, <strong>ClearURLs</strong> und <strong>Cookie AutoDelete</strong> wird Firefox zu einem mächtigen Schutzschild. Zusätzlichen Schutz bieten noch <strong>LocalCDN</strong>, verhindert Tracking durch externe Skripte und <strong>Privacy Badger</strong>, erkennt Tracker automatisch.</p>
+<div class="hint tip">
+  <p>Mit der Erweiterung <strong>Firefox Multi-Account Containers</strong> kannst du Logins und Tracker voneinander isolieren – ideal, wenn du gleichzeitig in mehreren Konten angemeldet bist.</p>
+<p>Die <strong>Installation der Firefox Multi-Account Containers findest du hier -&gt;</strong> <a href="https://addons.mozilla.org/de/firefox/addon/multi-account-containers/">Firefox Multi-Account Containers</a></p>
+
+</div>
+
+<h4 id="librewolf--maximaler-schutz-ab-werk">LibreWolf – maximaler Schutz ab Werk</h4>
+<p>LibreWolf basiert auf Firefox, ist aber komplett auf Datenschutz getrimmt. Schon nach der Installation ist:</p>
+<ul>
+<li>Basierend auf Firefox, aber schon stark optimiert</li>
+<li>Tracking und Werbung vollständig blockiert</li>
+<li>uBlock Origin vorinstalliert</li>
+<li>Keine Google-Dienste, keine Tracking direkt nach Installation</li>
+<li>Telemetrie entfernt</li>
+<li>Cookies &amp; Werbung automatisch geblockt</li>
+<li>Blockiert Werbung und Tracking direkt nach der Installation</li>
+<li>Keine manuelle Konfiguration nötig</li>
+</ul>
+<p>Das macht LibreWolf zur besten Wahl für alle, die Datenschutz ohne Bastelei wollen. Kleine Einschränkung: Manche Seiten (z. B. mit Captchas) funktionieren eventuell schlechter.</p>
+<div class="hint tip">
+  LibreWolf erhält automatischen Updates über eine zusätzliches Programm, bitte bei der installation aufpassen, damit dieses mit installiert wird.
+</div>
+
+<h4 id="brave--datenschutzfreundlich-ohne-aufwand">Brave – datenschutzfreundlich ohne Aufwand</h4>
+<p>Brave blockiert Werbung und Tracking direkt nach dem Start – ganz ohne zusätzliche Erweiterungen. Der Browser basiert zwar auf Chromium, kommt aber ohne Google-Dienste aus.</p>
+<h4 id="empfohlene-einstellungen">Empfohlene Einstellungen</h4>
+<ul>
+<li>Shields aggressiver setzen → <code>brave://settings/shields</code></li>
+<li>Fingerabdruckschutz verschärfen → <code>brave://settings/privacy</code></li>
+<li>Optionale Umstellung der Suchmaschine (z. B. auf StartPage)</li>
+</ul>
+<p>Brave ist besonders für Nutzer geeignet, die keinen großen Konfigurationsaufwand wollen – aber dennoch Wert auf Privatsphäre legen.</p>
+<h3 id="und-safari">Und Safari?</h3>
+<p>Safari bietet auf macOS inzwischen einen soliden Tracking-Schutz und gewisse Fingerprinting-Abwehr. Aber: Erweiterungen sind eingeschränkt, und Dienste wie iCloud Private Relay ersetzen kein echtes VPN. Für Apple-Nutzer okay – für mehr Kontrolle sind Firefox, Brave oder LibreWolf klar im Vorteil.</p>
+<h3 id="manifest-v3--der-einfluss-auf-werbeblocker">Manifest V3 &amp; der Einfluss auf Werbeblocker</h3>
+<p>Mit dem Update auf <strong>Manifest V3</strong> will Google Chrome künftig die Möglichkeiten von Erweiterungen wie <strong>uBlock Origin</strong> stark einschränken. Betroffen sind u. a. Chrome, Edge und Opera.</p>
+<div class="hint warning">
+  <strong>Wichtig:</strong> Firefox, Librewolf und Brave sind <strong>nicht</strong> betroffen – sie bleiben weiterhin kompatibel mit voll funktionsfähigen Werbeblockern.
+</div>
+
+<h3 id="vergleich-firefoxlibrewolf-vs-chromium">Vergleich: Firefox/LibreWolf vs. Chromium</h3>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th><strong>Firefox/LibreWolf</strong></th>
+<th><strong>Brave</strong></th>
+<th><strong>Chromium/Chrome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Google-Tracking?</strong></td>
+<td>❌ Nein</td>
+<td>❌ Nein</td>
+<td>✅ Ja</td>
+</tr>
+<tr>
+<td><strong>Integrierter Werbeblocker?</strong></td>
+<td>❌ Nein (Add-on nötig)</td>
+<td>✅ Ja</td>
+<td>❌ Nein</td>
+</tr>
+<tr>
+<td><strong>Fingerprinting-Schutz?</strong></td>
+<td>✅ Ja (Arkenfox, RFP)</td>
+<td>✅ Ja (Standard)</td>
+<td>❌ Nein</td>
+</tr>
+<tr>
+<td><strong>Tracking-Schutz?</strong></td>
+<td>✅ Ja (Streng)</td>
+<td>✅ Ja</td>
+<td>❌ Nein</td>
+</tr>
+<tr>
+<td><strong>Cookie-Isolierung?</strong></td>
+<td>✅ Ja</td>
+<td>❌ Nein</td>
+<td>❌ Nein</td>
+</tr>
+<tr>
+<td><strong>Manifest V3 betroffen?</strong></td>
+<td>❌ Nein</td>
+<td>❌ Nein</td>
+<td>✅ Ja</td>
+</tr>
+<tr>
+<td><strong>Erweiterungen möglich?</strong></td>
+<td>✅ Ja</td>
+<td>❌ Nein</td>
+<td>❌ Nein</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Firefox, LibreWolf &amp; Brave sind die besten Optionen – Chrome ist nicht empfehlenswert!</strong></p>
+<h3 id="die-besten-mobilen-browser">Die besten mobilen Browser</h3>
+<h4 id="android">Android</h4>
+<ul>
+<li><strong>Brave</strong>: Schneller, sicher, einfach zu nutzen</li>
+<li><strong>Firefox mit Add-ons</strong>: uBlock Origin, Cookie AutoDelete</li>
+<li><strong>Mull</strong>: Gehärteter Firefox-Fork (für Fortgeschrittene)</li>
+</ul>
+<h4 id="ios">iOS</h4>
+<ul>
+<li><strong>Safari mit AdGuard oder 1Blocker</strong>: Bester Schutz auf Apple-Geräten</li>
+<li><strong>Brave oder Firefox</strong>: Gute Alternative mit Schutzfunktionen</li>
+</ul>
+<h3 id="wer-schützen-will-muss-wechseln">Wer schützen will, muss wechseln</h3>
+<p>Chrome, Edge und Opera sind keine Partner in Sachen Datenschutz. Wer weniger getrackt werden will, sollte auf Alternativen setzen:</p>
+<ul>
+<li><strong>Firefox</strong> – gute Basis mit viel Flexibilität</li>
+<li><strong>LibreWolf</strong> – für maximale Privatsphäre ohne Nacharbeit</li>
+<li><strong>Brave</strong> – für Komfort mit integriertem Schutz</li>
+</ul>
+<div class="hint tip">
+  <strong>Datenschutz ist kein Luxus – sondern dein gutes Recht.</strong><br>
+Wähle einen Browser, der dich schützt – nicht verkauft.
+</div>
+
+<h3 id="und-was-ist-mit-suchmaschinen--datenschutz-hört-beim-browser-nicht-auf">Und was ist mit Suchmaschinen? – Datenschutz hört beim Browser nicht auf</h3>
+<div class="hint info">
+  🔜 <strong>Ausblick:</strong> Browser schützen dich nur bis zu einem Punkt – doch deine Suchmaschine weiß oft noch mehr über dich.<br>
+Im nächsten Artikel stellen wir dir datenschutzfreundliche Alternativen zu Google vor (z. B. Startpage, Mojeek oder Qwant).<br>
+Der Beitrag erscheint in Kürze hier im Blog!
+</div>
+
+<!--
+### Und was ist mit Suchmaschinen? – Datenschutz hört beim Browser nicht auf
+
+<div class="hint info">
+  🔗 <strong>Weiterlesen:</strong> Browser sind ein wichtiger Schritt – aber auch deine Suchmaschine entscheidet, wie viele Daten über dich gesammelt werden.<br>
+In unserem Artikel <a href="../../blog/datenschutzfreundliche-suchmaschinen"><strong>„Datenschutzfreundliche Suchmaschinen – Alternativen zu Google“</strong></a> findest du die besten Optionen.
+</div>
+
+-->
+
+    </div>
+
+    
+    <footer class="post-tags">
+        <strong>Tags:</strong>
+        
+        <a href="../../tags/browser" class="tag">
+            <span style="background-color: #e6e6e6; padding: 2px 6px; border-radius: 4px; margin-right: 5px;">
+                Browser
+            </span>
+        </a>
+        
+        <a href="../../tags/datenschutz" class="tag">
+            <span style="background-color: #e6e6e6; padding: 2px 6px; border-radius: 4px; margin-right: 5px;">
+                Datenschutz
+            </span>
+        </a>
+        
+        <a href="../../tags/tracking" class="tag">
+            <span style="background-color: #e6e6e6; padding: 2px 6px; border-radius: 4px; margin-right: 5px;">
+                Tracking
+            </span>
+        </a>
+        
+    </footer>
+    
+</article>
+
+    </main>
+
+    
+    <footer>
+    <p>&copy; 2025 athome-it. All rights reserved.</p>
+    <p>
+        <a href="https://social.tchncs.de/@athome_it" target="_blank" aria-label="Mastodon">
+            <img src="../../icons/mastodon.png" alt="Mastodon" style="height: 14px;">
+        </a>
+
+        <a href="https://bsky.app/profile/athome-it.bsky.social" target="_blank" aria-label="Bluesky">
+            <img src="../../icons/bluesky.png" alt="Bluesky" style="height: 14px;">
+        </a>
+    </p>
+</footer>
+
+
+    
+    <script src="../../js/menu.js"></script> 
+
+</body>
+</html>
