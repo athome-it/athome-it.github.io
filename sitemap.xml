@@ -3,7 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2025-09-14T06:51:48+00:00</lastmod>
+    <lastmod>2025-09-16T09:35:02+02:00</lastmod>
+  </url><url>
+    <loc>/tags/datenschutz/</loc>
+    <lastmod>2025-09-16T09:35:02+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2025-09-16T09:35:02+02:00</lastmod>
+  </url><url>
+    <loc>/guides/2025-09-16-datenschutz-suchmaschienen/</loc>
+    <lastmod>2025-09-16T09:35:02+02:00</lastmod>
+  </url><url>
+    <loc>/guides/</loc>
+    <lastmod>2025-09-16T09:35:02+02:00</lastmod>
+  </url><url>
+    <loc>/tags/privatsph%C3%A4re/</loc>
+    <lastmod>2025-09-16T09:35:02+02:00</lastmod>
+  </url><url>
+    <loc>/tags/suchmaschinen/</loc>
+    <lastmod>2025-09-16T09:35:02+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-09-16T09:35:02+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-09-16T09:35:02+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-09-16-datenschutz-suchmaschienen/</loc>
+    <lastmod>2025-09-16T09:12:08+02:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2025-09-16T09:12:08+02:00</lastmod>
+  </url><url>
+    <loc>/tags/tracking/</loc>
+    <lastmod>2025-09-16T09:12:08+02:00</lastmod>
   </url><url>
     <loc>/news/</loc>
     <lastmod>2025-09-14T06:51:48+00:00</lastmod>
@@ -15,12 +48,6 @@
     <lastmod>2025-09-14T06:51:48+00:00</lastmod>
   </url><url>
     <loc>/categories/social-media-posts/</loc>
-    <lastmod>2025-09-14T06:51:48+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-09-14T06:51:48+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2025-09-14T06:51:48+00:00</lastmod>
   </url><url>
     <loc>/tags/mastodon/</loc>
@@ -35,22 +62,10 @@
     <loc>/categories/social-media-shared-posts/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-09-09T09:15:57+02:00</lastmod>
-  </url><url>
     <loc>/tags/browser/</loc>
     <lastmod>2025-09-09T09:15:57+02:00</lastmod>
   </url><url>
-    <loc>/tags/datenschutz/</loc>
-    <lastmod>2025-09-09T09:15:57+02:00</lastmod>
-  </url><url>
-    <loc>/categories/datenschutz/</loc>
-    <lastmod>2025-09-09T09:15:57+02:00</lastmod>
-  </url><url>
     <loc>/blog/2025-09-09-datenschutzfreundliche-browser/</loc>
-    <lastmod>2025-09-09T09:15:57+02:00</lastmod>
-  </url><url>
-    <loc>/tags/tracking/</loc>
     <lastmod>2025-09-09T09:15:57+02:00</lastmod>
   </url><url>
     <loc>/news/2025-09-07-kw36-weekly-posts/</loc>
@@ -134,9 +149,6 @@
     <loc>/blog/2025-08-13-datenweitergabe-wissen/</loc>
     <lastmod>2025-08-13T09:31:47+02:00</lastmod>
   </url><url>
-    <loc>/tags/privatsph%C3%A4re/</loc>
-    <lastmod>2025-08-12T08:50:54+02:00</lastmod>
-  </url><url>
     <loc>/blog/2025-08-12-bezahlen-wir-mit-unserer-privatsphaere/</loc>
     <lastmod>2025-08-12T08:50:54+02:00</lastmod>
   </url><url>
@@ -154,9 +166,6 @@
   </url><url>
     <loc>/blog/2025-08-04-ki-serie-11-zentrale-landingpage/</loc>
     <lastmod>2025-08-04T10:46:01+02:00</lastmod>
-  </url><url>
-    <loc>/guides/</loc>
-    <lastmod>2025-08-04T10:28:08+02:00</lastmod>
   </url><url>
     <loc>/guides/2025-08-04-souveraen-surfen-mit-ki/</loc>
     <lastmod>2025-08-04T10:28:08+02:00</lastmod>
