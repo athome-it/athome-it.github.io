@@ -6,8 +6,15 @@
     <description>Recent content in Datenschutz on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 16 Sep 2025 09:35:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 09:06:51 +0200</lastBuildDate>
     <atom:link href="/tags/datenschutz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cookies im Internet: Wie sie funktionieren und warum du sie hinterfragen solltest</title>
+      <link>/blog/2025-09-23-cookies-im-internet/</link>
+      <pubDate>Tue, 23 Sep 2025 09:06:51 +0200</pubDate>
+      <guid>/blog/2025-09-23-cookies-im-internet/</guid>
+      <description>Kennst du das? Du besuchst eine Website, suchst nach einem Produkt und plötzlich wirst du auf anderen Seiten mit Werbung genau dafür bombardiert. Wie kann das sein? Die Antwort liegt in kleinen Datenpaketen namens Cookies.</description>
+    </item>
     <item>
       <title>Datenschutz bei Suchmaschinen – Fortgeschrittener Guide</title>
       <link>/guides/2025-09-16-datenschutz-suchmaschienen/</link>
@@ -252,13 +259,6 @@
       <pubDate>Tue, 11 Mar 2025 10:54:13 +0200</pubDate>
       <guid>/guides/2025-03-11-datenschutzfreundliche-browser/</guid>
       <description>Das Internet ist voll von Trackern, Fingerprinting-Methoden und gezielter Werbung. Viele Mainstream-Browser, allen voran &lt;strong&gt;Google Chrome&lt;/strong&gt;, schützen deine Privatsphäre nicht – sie sind sogar Teil des Problems.</description>
-    </item>
-    <item>
-      <title>Cookies im Internet: Wie sie funktionieren und warum du sie hinterfragen solltest</title>
-      <link>/guides/2025-02-20-cookies-im-internet/</link>
-      <pubDate>Thu, 20 Feb 2025 10:46:46 +0200</pubDate>
-      <guid>/guides/2025-02-20-cookies-im-internet/</guid>
-      <description>Kennst du das? Du besuchst eine Website, suchst nach einem Produkt und plötzlich wirst du auf anderen Seiten mit Werbung genau dafür bombardiert. Wie kann das sein? Die Antwort liegt in kleinen Datenpaketen namens Cookies.</description>
     </item>
     <item>
       <title>Tracking im Alltag: Was dein Smartphone über dich verrät</title>
