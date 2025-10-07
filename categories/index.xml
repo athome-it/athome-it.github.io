@@ -6,8 +6,22 @@
     <description>Recent content in Categories on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 23 Sep 2025 08:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 09:14:03 +0200</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digitale Bildung</title>
+      <link>/categories/digitale-bildung/</link>
+      <pubDate>Tue, 07 Oct 2025 09:14:03 +0200</pubDate>
+      <guid>/categories/digitale-bildung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gesellschaft &amp; IT</title>
+      <link>/categories/gesellschaft--it/</link>
+      <pubDate>Tue, 07 Oct 2025 09:14:03 +0200</pubDate>
+      <guid>/categories/gesellschaft--it/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Social-Media-Posts</title>
       <link>/categories/social-media-posts/</link>

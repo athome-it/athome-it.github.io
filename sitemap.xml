@@ -2,8 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2025-09-23T08:02:35+00:00</lastmod>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/categories/digitale-bildung/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/tags/digitale-gesellschaft/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/categories/gesellschaft--it/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/tags/it-bildung/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/tags/medienkompetenz/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-10-07-medienkompetenz/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/tags/medienp%C3%A4dagogik/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/tags/soziale-medien/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
   </url><url>
     <loc>/news/</loc>
     <lastmod>2025-09-23T08:02:35+00:00</lastmod>
@@ -16,15 +49,6 @@
   </url><url>
     <loc>/categories/social-media-posts/</loc>
     <lastmod>2025-09-23T08:02:35+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-09-23T08:02:35+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2025-09-23T08:02:35+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-09-23T09:06:51+02:00</lastmod>
   </url><url>
     <loc>/tags/cookies/</loc>
     <lastmod>2025-09-23T09:06:51+02:00</lastmod>
