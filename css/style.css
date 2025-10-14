@@ -936,3 +936,59 @@ th {
   border-color: #dc3545;
   background-color: #fdecea;
 }
+
+/* --- Inhaltsverzeichnis (kompakt & Dark Mode optimiert) --- */
+.toc {
+  background: #f9fafb;       /* helles Grau */
+  border: 1px solid #d0d0d0; /* dezenter Rahmen */
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  max-width: 650px; /* optional: verhindert zu breite Boxen */
+}
+
+.toc h3 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: #333333;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* --- Listen korrekt vertikal darstellen --- */
+.toc ul,
+.toc ol {
+  list-style: none;
+  padding-left: 0.5rem;
+  margin: 0;
+  display: block !important;
+  flex-direction: column !important;
+}
+
+.toc li {
+  display: block !important;
+  margin-bottom: 0.25rem;
+}
+
+/* --- Verschachtelte Ebenen leicht eingerückt --- */
+.toc ul ul {
+  margin-left: 1rem;                       /* Einrückung der Unterpunkte */
+  padding-left: 0.6rem;                    /* Abstand zwischen Linie und Text */
+  border-left: 3px solid #ff6600; 
+}
+
+/* --- Links --- */
+.toc a {
+  color: #9ecbff;
+  text-decoration: none;
+  transition: color 0.2s ease, text-decoration 0.2s ease;
+  display: inline-block;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
