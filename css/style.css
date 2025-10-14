@@ -993,26 +993,58 @@ th {
   text-decoration: underline;
 }
 
-/* ──────────────────────────────────────────────
-   Mobile Ansicht
-   ────────────────────────────────────────────── */
+/* --- Mobile Ansicht (unter 769px) --- */
 @media (max-width: 768px) {
   .toc {
-    position: relative !important;
-    z-index: auto !important;
+    background: #f9fafb;
+    border: 1px solid #d0d0d0;
+    border-radius: 6px;
+    padding: 0.75rem;
+    margin: 1rem 0;
     width: 100%;
     max-width: 100%;
-    margin: 1rem 0;
-    padding: 0.75rem;
     font-size: 1rem;
+    line-height: 1.5;
+    position: relative;    /* verhindert Überlappen */
+    z-index: auto;
   }
 
-  .toc ul, .toc ol {
+  .toc h3 {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+    text-align: left;
+  }
+
+  .toc ul,
+  .toc ol {
+    list-style: none;
     padding-left: 0.75rem;
+    margin: 0;
+    display: block !important;
+    flex-direction: column !important;
+    width: 100%;
+  }
+
+  .toc li {
+    display: block;
+    margin-bottom: 0.4rem;
   }
 
   .toc ul ul {
-    border-left: 2px solid #2563eb; /* etwas dünner auf Mobil */
+    border-left: 2px solid #ff6600; /* etwas dünner, damit es auf kleinen Screens nicht drängt */
     margin-left: 0.75rem;
+    padding-left: 0.5rem;
+  }
+
+  .toc a {
+    color: #2563eb; /* satteres Blau für bessere Lesbarkeit */
+    word-wrap: break-word;
+    white-space: normal;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .toc a:hover {
+    text-decoration: underline;
   }
 }
