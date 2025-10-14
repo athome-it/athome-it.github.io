@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2025-10-14T16:34:14+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-10-14T16:34:14+02:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2025-10-12T06:55:32+00:00</lastmod>
   </url><url>
@@ -20,9 +26,6 @@
     <loc>/tags/</loc>
     <lastmod>2025-10-12T06:55:32+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-10-12T06:55:32+00:00</lastmod>
-  </url><url>
     <loc>/tags/mastodon/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -34,9 +37,6 @@
   </url><url>
     <loc>/categories/social-media-shared-posts/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
   </url><url>
     <loc>/categories/digitale-bildung/</loc>
     <lastmod>2025-10-07T09:14:03+02:00</lastmod>
