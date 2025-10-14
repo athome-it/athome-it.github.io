@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Medienkompetenz on athome-it</title>
-    <link>/tags/medienkompetenz/</link>
-    <description>Recent content in Medienkompetenz on athome-it</description>
+    <title>Gesellschaft on athome-it</title>
+    <link>/categories/gesellschaft/</link>
+    <description>Recent content in Gesellschaft on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Tue, 14 Oct 2025 16:34:14 +0200</lastBuildDate>
-    <atom:link href="/tags/medienkompetenz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/gesellschaft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privatsphäre im digitalen Alltag – zwischen Illusion, Macht und Verantwortung</title>
       <link>/blog/2025-10-14-privatsphaere/</link>
       <pubDate>Tue, 14 Oct 2025 16:34:14 +0200</pubDate>
       <guid>/blog/2025-10-14-privatsphaere/</guid>
       <description>Es gibt Themen, über die man redet, weil man muss – und solche, über die man redet, weil man nicht länger schweigen kann. Privatsphäre gehört zur zweiten Sorte.&#xA;📑 Inhaltsverzeichnis&#xD;Was Privatsphäre heute eigentlich bedeutet Räumliche und kommunikative Privatsphäre Informations- und Datenprivatsphäre Soziale, berufliche und mediale Privatsphäre Warum Privatsphäre im Internet so leicht verloren geht Digitale Teilhabe – und der Verlust der Kontrolle „Ich hab ja nichts zu verbergen“ – der gefährlichste Satz des digitalen Zeitalters Warum Kontrolle kaum noch möglich ist Was wir tun können Eltern zwischen Vernunft und Herdentrieb Warum Eltern oft nachgeben Was Eltern tun können Ein ehrliches Fazit Was Privatsphäre heute eigentlich bedeutet Wenn wir über Privatsphäre sprechen, denken viele an den Rückzugsort: das eigene Zimmer, das Bad, das gesicherte Zuhause.</description>
-    </item>
-    <item>
-      <title>Medienkompetenz im IT-Umfeld – Bildung statt Verbote</title>
-      <link>/blog/2025-10-07-medienkompetenz/</link>
-      <pubDate>Tue, 07 Oct 2025 09:14:03 +0200</pubDate>
-      <guid>/blog/2025-10-07-medienkompetenz/</guid>
-      <description>Warum Medienkompetenz im IT-Umfeld unverzichtbar ist, wann sie vermittelt werden sollte, wer sie fördern kann – und warum Aufklärung besser ist als Social-Media-Verbote.</description>
     </item>
   </channel>
 </rss>
