@@ -992,3 +992,27 @@ th {
 .toc a:hover {
   text-decoration: underline;
 }
+
+/* ──────────────────────────────────────────────
+   Mobile Ansicht
+   ────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .toc {
+    position: relative !important;
+    z-index: auto !important;
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem 0;
+    padding: 0.75rem;
+    font-size: 1rem;
+  }
+
+  .toc ul, .toc ol {
+    padding-left: 0.75rem;
+  }
+
+  .toc ul ul {
+    border-left: 2px solid #2563eb; /* etwas dünner auf Mobil */
+    margin-left: 0.75rem;
+  }
+}
