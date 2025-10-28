@@ -6,8 +6,22 @@
     <description>Recent content in Categories on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 26 Oct 2025 07:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 11:02:44 +0200</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutz</title>
+      <link>/categories/datenschutz/</link>
+      <pubDate>Tue, 28 Oct 2025 11:02:44 +0200</pubDate>
+      <guid>/categories/datenschutz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sicherheit</title>
+      <link>/categories/sicherheit/</link>
+      <pubDate>Tue, 28 Oct 2025 11:02:44 +0200</pubDate>
+      <guid>/categories/sicherheit/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Social-Media-Posts</title>
       <link>/categories/social-media-posts/</link>
@@ -62,13 +76,6 @@
       <link>/categories/gesellschaft--it/</link>
       <pubDate>Tue, 07 Oct 2025 09:14:03 +0200</pubDate>
       <guid>/categories/gesellschaft--it/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Datenschutz</title>
-      <link>/categories/datenschutz/</link>
-      <pubDate>Tue, 23 Sep 2025 09:06:51 +0200</pubDate>
-      <guid>/categories/datenschutz/</guid>
       <description></description>
     </item>
     <item>

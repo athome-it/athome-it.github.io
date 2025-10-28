@@ -6,8 +6,43 @@
     <description>Recent content in Tags on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 26 Oct 2025 07:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 11:02:44 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android</title>
+      <link>/tags/android/</link>
+      <pubDate>Tue, 28 Oct 2025 11:02:44 +0200</pubDate>
+      <guid>/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Datenschutz</title>
+      <link>/tags/datenschutz/</link>
+      <pubDate>Tue, 28 Oct 2025 11:02:44 +0200</pubDate>
+      <guid>/tags/datenschutz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>/tags/google/</link>
+      <pubDate>Tue, 28 Oct 2025 11:02:44 +0200</pubDate>
+      <guid>/tags/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privatsphäre</title>
+      <link>/tags/privatsph%C3%A4re/</link>
+      <pubDate>Tue, 28 Oct 2025 11:02:44 +0200</pubDate>
+      <guid>/tags/privatsph%C3%A4re/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tracking</title>
+      <link>/tags/tracking/</link>
+      <pubDate>Tue, 28 Oct 2025 11:02:44 +0200</pubDate>
+      <guid>/tags/tracking/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Social-Media-Posts</title>
       <link>/tags/social-media-posts/</link>
@@ -27,13 +62,6 @@
       <link>/tags/social-media-shared-posts/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
       <guid>/tags/social-media-shared-posts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Datenschutz</title>
-      <link>/tags/datenschutz/</link>
-      <pubDate>Tue, 14 Oct 2025 16:34:14 +0200</pubDate>
-      <guid>/tags/datenschutz/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +90,6 @@
       <link>/tags/medienkompetenz/</link>
       <pubDate>Tue, 14 Oct 2025 16:34:14 +0200</pubDate>
       <guid>/tags/medienkompetenz/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privatsphäre</title>
-      <link>/tags/privatsph%C3%A4re/</link>
-      <pubDate>Tue, 14 Oct 2025 16:34:14 +0200</pubDate>
-      <guid>/tags/privatsph%C3%A4re/</guid>
       <description></description>
     </item>
     <item>
@@ -104,13 +125,6 @@
       <link>/tags/cookies/</link>
       <pubDate>Tue, 23 Sep 2025 09:06:51 +0200</pubDate>
       <guid>/tags/cookies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tracking</title>
-      <link>/tags/tracking/</link>
-      <pubDate>Tue, 23 Sep 2025 09:06:51 +0200</pubDate>
-      <guid>/tags/tracking/</guid>
       <description></description>
     </item>
     <item>
