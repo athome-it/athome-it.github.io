@@ -293,11 +293,20 @@
     <loc>/guides/2025-08-04-souveraen-surfen-mit-ki/</loc>
     <lastmod>2025-08-04T10:28:08+02:00</lastmod>
   </url><url>
+    <loc>/series/ki-serie/</loc>
+    <lastmod>2025-08-04T10:15:05+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-08-04-ki-serie-10-abschluss/</loc>
+    <lastmod>2025-08-04T10:15:05+02:00</lastmod>
+  </url><url>
     <loc>/news/2025-08-03-kw31-weekly-posts/</loc>
     <lastmod>2025-08-03T06:41:04+00:00</lastmod>
   </url><url>
     <loc>/news/2025-08-03-kw31-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-07-28-ki-serie-09-sind-meine-daten-sicher/</loc>
+    <lastmod>2025-07-28T09:16:31+02:00</lastmod>
   </url><url>
     <loc>/news/2025-07-27-kw30-weekly-posts/</loc>
     <lastmod>2025-07-27T07:01:37+00:00</lastmod>
@@ -308,6 +317,9 @@
     <loc>/guides/2025-07-22-ki-check-apps-tools/</loc>
     <lastmod>2025-07-22T09:31:03+02:00</lastmod>
   </url><url>
+    <loc>/blog/2025-07-22-ki-serie-08-wo-steckt-ki-drin/</loc>
+    <lastmod>2025-07-22T09:14:10+02:00</lastmod>
+  </url><url>
     <loc>/news/2025-07-20-kw29-weekly-posts/</loc>
     <lastmod>2025-07-20T06:55:58+00:00</lastmod>
   </url><url>
@@ -316,6 +328,9 @@
   </url><url>
     <loc>/guides/2025-07-15-check-ki-generierte-inhalte/</loc>
     <lastmod>2025-07-15T10:16:20+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-07-15-ki-serie-07-bias-und-vorurteile/</loc>
+    <lastmod>2025-07-15T09:37:15+02:00</lastmod>
   </url><url>
     <loc>/news/2025-07-13-kw28-weekly-posts/</loc>
     <lastmod>2025-07-13T06:51:04+00:00</lastmod>
@@ -329,6 +344,9 @@
     <loc>/guides/2025-07-08-tools-mit-datenschutzfokus/</loc>
     <lastmod>2025-07-08T09:48:23+02:00</lastmod>
   </url><url>
+    <loc>/blog/2025-07-08-ki-serie-06-datenschutz-tipps/</loc>
+    <lastmod>2025-07-08T09:09:40+02:00</lastmod>
+  </url><url>
     <loc>/news/2025-07-06-kw27-weekly-posts/</loc>
     <lastmod>2025-07-06T06:57:30+00:00</lastmod>
   </url><url>
@@ -337,6 +355,9 @@
   </url><url>
     <loc>/guides/2025-07-01-was-gebe-ich-der-ki/</loc>
     <lastmod>2025-07-01T16:16:59+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-07-01-ki-serie-05-datensicherheit/</loc>
+    <lastmod>2025-07-01T16:11:59+02:00</lastmod>
   </url><url>
     <loc>/news/2025-06-13-kw24-weekly-posts/</loc>
     <lastmod>2025-06-13T06:48:29+00:00</lastmod>
@@ -347,6 +368,9 @@
     <loc>/guides/2025-06-10-deepfake-erkennung/</loc>
     <lastmod>2025-06-10T09:26:59+02:00</lastmod>
   </url><url>
+    <loc>/blog/2025-06-10-ki-serie-04-deepfakes-und-manipulation/</loc>
+    <lastmod>2025-06-10T09:14:56+02:00</lastmod>
+  </url><url>
     <loc>/news/2025-06-08-kw23-weekly-posts/</loc>
     <lastmod>2025-06-08T07:05:10+00:00</lastmod>
   </url><url>
@@ -355,6 +379,9 @@
   </url><url>
     <loc>/guides/2025-06-03-ki-erkaerenfuer-eltern-schule-beruf/</loc>
     <lastmod>2025-06-03T09:05:40+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-06-03-ki-serie-03-wie-lernt-ki/</loc>
+    <lastmod>2025-06-03T08:52:45+02:00</lastmod>
   </url><url>
     <loc>/news/2025-06-01-kw22-weekly-posts/</loc>
     <lastmod>2025-06-01T07:01:08+00:00</lastmod>
@@ -365,6 +392,9 @@
     <loc>/guides/2025-05-25-bessere-prompts-schreiben/</loc>
     <lastmod>2025-05-25T16:17:19+02:00</lastmod>
   </url><url>
+    <loc>/blog/2025-05-25-ki-serie-02-was-ist-ki/</loc>
+    <lastmod>2025-05-25T15:51:41+02:00</lastmod>
+  </url><url>
     <loc>/news/2025-05-25-kw21-weekly-posts/</loc>
     <lastmod>2025-05-25T06:57:25+00:00</lastmod>
   </url><url>
@@ -373,9 +403,6 @@
   </url><url>
     <loc>/guides/2025-05-19-sicherer-ki-umgang-fuer-einsteiger/</loc>
     <lastmod>2025-05-19T10:22:37+02:00</lastmod>
-  </url><url>
-    <loc>/series/ki-serie/</loc>
-    <lastmod>2025-05-19T09:31:13+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-05-19-ki-serie-01-wo-begegnet-mir-ki/</loc>
     <lastmod>2025-05-19T09:31:13+02:00</lastmod>
