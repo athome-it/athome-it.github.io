@@ -6,8 +6,15 @@
     <description>Recent content in Datenschutz on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 28 Oct 2025 11:02:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 12:55:25 +0200</lastBuildDate>
     <atom:link href="/tags/datenschutz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Was weiß Google über mich und wie kann ich es ändern?</title>
+      <link>/blog/2025-11-11-was-weiss-google-ueber-mich/</link>
+      <pubDate>Tue, 11 Nov 2025 12:55:25 +0200</pubDate>
+      <guid>/blog/2025-11-11-was-weiss-google-ueber-mich/</guid>
+      <description>Dieser Artikel erklärt, welche Daten Google sammelt, wie Profile entstehen und wie du deine Daten schützen oder löschen kannst.</description>
+    </item>
     <item>
       <title>Android: Google loswerden Schritt für Schritt</title>
       <link>/guides/2025-10-28-weg-von-google/</link>
@@ -16,11 +23,102 @@
       <description>Google steckt in fast jedem digitalen Lebensbereich. Hier erfährst du, wo Google überall aktiv ist und wie du dich Schritt für Schritt davon unabhängiger machst, auch als Laie.</description>
     </item>
     <item>
+      <title>Google überall und wie du dich ein Stück davon löst</title>
+      <link>/blog/2025-10-28-weg-von-google/</link>
+      <pubDate>Tue, 28 Oct 2025 10:40:44 +0200</pubDate>
+      <guid>/blog/2025-10-28-weg-von-google/</guid>
+      <description>Google steckt in fast jedem digitalen Lebensbereich. Hier erfährst du, wo Google überall aktiv ist und wie du dich Schritt für Schritt davon unabhängiger machst, auch als Laie.</description>
+    </item>
+    <item>
+      <title>Privatsphäre im digitalen Alltag, zwischen Illusion, Macht und Verantwortung</title>
+      <link>/blog/2025-10-14-privatsphaere/</link>
+      <pubDate>Tue, 14 Oct 2025 16:34:14 +0200</pubDate>
+      <guid>/blog/2025-10-14-privatsphaere/</guid>
+      <description>Es gibt Themen, über die man redet, weil man muss und solche, über die man redet, weil man nicht länger schweigen kann. Privatsphäre gehört zur zweiten Sorte.&#xA;📑 Inhaltsverzeichnis&#xD;Was Privatsphäre heute eigentlich bedeutet Räumliche und kommunikative Privatsphäre Informations- und Datenprivatsphäre Soziale, berufliche und mediale Privatsphäre Warum Privatsphäre im Internet so leicht verloren geht Digitale Teilhabe und der Verlust der Kontrolle „Ich hab ja nichts zu verbergen“, der gefährlichste Satz des digitalen Zeitalters Warum Kontrolle kaum noch möglich ist Was wir tun können Eltern zwischen Vernunft und Herdentrieb Warum Eltern oft nachgeben Was Eltern tun können Ein ehrliches Fazit Was Privatsphäre heute eigentlich bedeutet Wenn wir über Privatsphäre sprechen, denken viele an den Rückzugsort: das eigene Zimmer, das Bad, das gesicherte Zuhause.</description>
+    </item>
+    <item>
+      <title>Cookies im Internet: Wie sie funktionieren und warum du sie hinterfragen solltest</title>
+      <link>/blog/2025-09-23-cookies-im-internet/</link>
+      <pubDate>Tue, 23 Sep 2025 09:06:51 +0200</pubDate>
+      <guid>/blog/2025-09-23-cookies-im-internet/</guid>
+      <description>Kennst du das? Du besuchst eine Website, suchst nach einem Produkt und plötzlich wirst du auf anderen Seiten mit Werbung genau dafür bombardiert. Wie kann das sein? Die Antwort liegt in kleinen Datenpaketen namens Cookies.</description>
+    </item>
+    <item>
       <title>Datenschutz bei Suchmaschinen – Fortgeschrittener Guide</title>
       <link>/guides/2025-09-16-datenschutz-suchmaschienen/</link>
       <pubDate>Tue, 16 Sep 2025 09:35:02 +0200</pubDate>
       <guid>/guides/2025-09-16-datenschutz-suchmaschienen/</guid>
       <description>Tools, Automatisierung und individuelle Konfigurationen für Privatsphäre-Enthusiasten</description>
+    </item>
+    <item>
+      <title>Alternative Suchmaschinen im Vergleich</title>
+      <link>/blog/2025-09-16-datenschutz-suchmaschienen/</link>
+      <pubDate>Tue, 16 Sep 2025 09:12:08 +0200</pubDate>
+      <guid>/blog/2025-09-16-datenschutz-suchmaschienen/</guid>
+      <description>Wie man heute datenschutzfreundlich sucht, ohne auf Qualität zu verzichten</description>
+    </item>
+    <item>
+      <title>Datenschutzfreundliche Browser, Alternativen zu Chrome</title>
+      <link>/blog/2025-09-09-datenschutzfreundliche-browser/</link>
+      <pubDate>Tue, 09 Sep 2025 09:15:57 +0200</pubDate>
+      <guid>/blog/2025-09-09-datenschutzfreundliche-browser/</guid>
+      <description>Das Internet ist voll von Trackern, Fingerprinting-Methoden und gezielter Werbung. Viele Mainstream-Browser, allen voran &lt;strong&gt;Google Chrome&lt;/strong&gt;, schützen deine Privatsphäre nicht, sie sind sogar Teil des Problems.</description>
+    </item>
+    <item>
+      <title>Kinder &amp; Datenschutz worauf Eltern achten sollten</title>
+      <link>/blog/2025-08-26-kinder-und-datenschutz/</link>
+      <pubDate>Tue, 26 Aug 2025 08:43:50 +0200</pubDate>
+      <guid>/blog/2025-08-26-kinder-und-datenschutz/</guid>
+      <description>Was Google über dein Kind weiß noch bevor es zur Schule geht. Klingt absurd? Ist aber Realität. Noch bevor viele Kinder lesen oder schreiben können, wissen Konzerne wie Google, Amazon oder Meta bereits eine Menge über sie: Wo sie wohnen. Welche Sprache sie sprechen. Was sie gern sehen, hören und mit wem sie leben.</description>
+    </item>
+    <item>
+      <title>Künstliche Intelligenz und Datenschutz: Was passiert mit unseren Daten?</title>
+      <link>/blog/2025-08-25-kuenstliche-intelligenz-und-datenschutz/</link>
+      <pubDate>Mon, 25 Aug 2025 09:56:01 +0200</pubDate>
+      <guid>/blog/2025-08-25-kuenstliche-intelligenz-und-datenschutz/</guid>
+      <description>Künstliche Intelligenz (KI) ist aus unserem Alltag nicht mehr wegzudenken. Sie hilft uns, schneller zu arbeiten, bessere Entscheidungen zu treffen und unsere Wünsche zu antizipieren. Von personalisierten Filmempfehlungen bis hin zu Sprachassistenten wie Alexa oder Siri, KI erleichtert unser Leben. Aber sie hat auch einen Preis: unsere Daten.</description>
+    </item>
+    <item>
+      <title>Moderne Autos und ihre Daten: Wer hat Zugriff und wie viel Kontrolle haben Fahrer wirklich?</title>
+      <link>/blog/2025-08-23-moderne-autos-und-ihre-daten/</link>
+      <pubDate>Sat, 23 Aug 2025 09:14:08 +0200</pubDate>
+      <guid>/blog/2025-08-23-moderne-autos-und-ihre-daten/</guid>
+      <description>Die Automobilbranche erlebt eine rasante Digitalisierung. Moderne Autos sind längst nicht mehr nur Fortbewegungsmittel, sie sind fahrende Computer, die unzählige Daten erfassen und senden.</description>
+    </item>
+    <item>
+      <title>Wie sicher sind deine Daten in der Cloud? Eine Analyse mit Alternativen</title>
+      <link>/blog/2025-08-21-daten-in-der-cloud/</link>
+      <pubDate>Thu, 21 Aug 2025 17:02:53 +0200</pubDate>
+      <guid>/blog/2025-08-21-daten-in-der-cloud/</guid>
+      <description>Ob Fotos, Dokumente oder ganze Backups, Cloud-Dienste sind aus unserem digitalen Alltag kaum mehr wegzudenken. Sie ermöglichen den Zugriff von überall, sorgen für automatische Synchronisation und schützen vor Datenverlust.</description>
+    </item>
+    <item>
+      <title>Smart Home: Wer hört mit? Datenschutzrisiken und wie du dich schützt</title>
+      <link>/blog/2025-08-20-smart-home-wer-hoert-mit/</link>
+      <pubDate>Wed, 20 Aug 2025 13:03:37 +0200</pubDate>
+      <guid>/blog/2025-08-20-smart-home-wer-hoert-mit/</guid>
+      <description>Das smarte Zuhause ist längst keine Zukunftsvision mehr. Viele Haushalte setzen bereits auf Geräte wie Alexa, Google Home, smarte Türklingeln oder vernetzte Heizsysteme, die unseren Alltag bequemer machen.</description>
+    </item>
+    <item>
+      <title>Digitale Souveränität: Warum sie wichtig ist und wie wir sie erreichen können</title>
+      <link>/blog/2025-08-18-digitale-souveraenitaet/</link>
+      <pubDate>Mon, 18 Aug 2025 11:23:58 +0200</pubDate>
+      <guid>/blog/2025-08-18-digitale-souveraenitaet/</guid>
+      <description>In Deutschland und Europa wird zunehmend über &lt;strong&gt;digitale Souveränität&lt;/strong&gt; gesprochen nicht nur politisch, sondern auch wirtschaftlich, gesellschaftlich und persönlich</description>
+    </item>
+    <item>
+      <title>Verfolgt vom eigenen Smartphone: Wie viel weiß dein Gerät über dich?</title>
+      <link>/blog/2025-08-14-smartphone-tracking-im-alltag/</link>
+      <pubDate>Thu, 14 Aug 2025 08:43:31 +0200</pubDate>
+      <guid>/blog/2025-08-14-smartphone-tracking-im-alltag/</guid>
+      <description>Jeden Tag begleiten Smartphones ihre Nutzer überall hin, ins Büro, zum Einkaufen, ins Fitnessstudio oder in den Urlaub. Während sie hilfreiche Funktionen bieten, sammeln sie gleichzeitig eine riesige Menge an Daten. Standorte, Suchverläufe, App-Nutzung und sogar Gespräche können getrackt und analysiert werden.</description>
+    </item>
+    <item>
+      <title>Social Media: Was du über Datenweitergabe wissen solltest</title>
+      <link>/blog/2025-08-13-datenweitergabe-wissen/</link>
+      <pubDate>Wed, 13 Aug 2025 09:31:47 +0200</pubDate>
+      <guid>/blog/2025-08-13-datenweitergabe-wissen/</guid>
+      <description>Hast du dir schon einmal überlegt, warum TikTok so süchtig macht? Du scrollst, schaust Videos, und plötzlich ist eine Stunde vergangen. Aber während du lachst und staunst, passiert im Hintergrund etwas anderes: TikTok lernt dich kennen, besser als du es vielleicht selbst tust.</description>
     </item>
     <item>
       <title>Zentrale-Landingpage zur Blogserie, KI, Datenschutz &amp; du</title>

@@ -35,6 +35,42 @@
     <loc>/categories/social-media-shared-posts/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
+    <loc>/tags/datenschutz/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
+    <loc>/series/digitale-spurensuche/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
+    <loc>/categories/digitales-bewusstsein/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
+    <loc>/tags/google/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
+    <loc>/tags/ki/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
+    <loc>/categories/k%C3%BCnstliche-intelligenz/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
+    <loc>/tags/profil/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
+    <loc>/tags/tracking/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-11-11-was-weiss-google-ueber-mich/</loc>
+    <lastmod>2025-11-11T12:55:25+02:00</lastmod>
+  </url><url>
     <loc>/news/2025-11-09-kw45-weekly-posts/</loc>
     <lastmod>2025-11-09T08:03:21+00:00</lastmod>
   </url><url>
@@ -53,15 +89,6 @@
     <loc>/guides/2025-10-28-weg-von-google/</loc>
     <lastmod>2025-10-28T11:02:44+02:00</lastmod>
   </url><url>
-    <loc>/tags/datenschutz/</loc>
-    <lastmod>2025-10-28T11:02:44+02:00</lastmod>
-  </url><url>
-    <loc>/categories/datenschutz/</loc>
-    <lastmod>2025-10-28T11:02:44+02:00</lastmod>
-  </url><url>
-    <loc>/tags/google/</loc>
-    <lastmod>2025-10-28T11:02:44+02:00</lastmod>
-  </url><url>
     <loc>/guides/</loc>
     <lastmod>2025-10-28T11:02:44+02:00</lastmod>
   </url><url>
@@ -71,8 +98,11 @@
     <loc>/categories/sicherheit/</loc>
     <lastmod>2025-10-28T11:02:44+02:00</lastmod>
   </url><url>
-    <loc>/tags/tracking/</loc>
-    <lastmod>2025-10-28T11:02:44+02:00</lastmod>
+    <loc>/series/google/</loc>
+    <lastmod>2025-10-28T10:40:44+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-10-28-weg-von-google/</loc>
+    <lastmod>2025-10-28T10:40:44+02:00</lastmod>
   </url><url>
     <loc>/news/2025-10-26-kw43-weekly-posts/</loc>
     <lastmod>2025-10-26T07:16:12+00:00</lastmod>
@@ -86,14 +116,68 @@
     <loc>/news/2025-10-19-kw42-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/digitale-teilhabe/</loc>
+    <lastmod>2025-10-14T16:34:14+02:00</lastmod>
+  </url><url>
+    <loc>/tags/digitalisierung/</loc>
+    <lastmod>2025-10-14T16:34:14+02:00</lastmod>
+  </url><url>
+    <loc>/categories/digitalkultur/</loc>
+    <lastmod>2025-10-14T16:34:14+02:00</lastmod>
+  </url><url>
+    <loc>/tags/eltern/</loc>
+    <lastmod>2025-10-14T16:34:14+02:00</lastmod>
+  </url><url>
+    <loc>/categories/ethik/</loc>
+    <lastmod>2025-10-14T16:34:14+02:00</lastmod>
+  </url><url>
+    <loc>/categories/gesellschaft/</loc>
+    <lastmod>2025-10-14T16:34:14+02:00</lastmod>
+  </url><url>
+    <loc>/categories/medienbildung/</loc>
+    <lastmod>2025-10-14T16:34:14+02:00</lastmod>
+  </url><url>
+    <loc>/tags/medienkompetenz/</loc>
+    <lastmod>2025-10-14T16:34:14+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-10-14-privatsphaere/</loc>
+    <lastmod>2025-10-14T16:34:14+02:00</lastmod>
+  </url><url>
     <loc>/news/2025-10-12-kw41-weekly-posts/</loc>
     <lastmod>2025-10-12T06:55:32+00:00</lastmod>
   </url><url>
     <loc>/news/2025-10-12-kw41-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/digitale-bildung/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/tags/digitale-gesellschaft/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/categories/gesellschaft--it/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/tags/it-bildung/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-10-07-medienkompetenz/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/tags/medienp%C3%A4dagogik/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
+    <loc>/tags/soziale-medien/</loc>
+    <lastmod>2025-10-07T09:14:03+02:00</lastmod>
+  </url><url>
     <loc>/news/2025-09-23-kw39-weekly-posts/</loc>
     <lastmod>2025-09-23T08:02:35+00:00</lastmod>
+  </url><url>
+    <loc>/tags/cookies/</loc>
+    <lastmod>2025-09-23T09:06:51+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-09-23-cookies-im-internet/</loc>
+    <lastmod>2025-09-23T09:06:51+02:00</lastmod>
   </url><url>
     <loc>/news/2025-09-23-kw39-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
@@ -110,11 +194,20 @@
     <loc>/tags/suchmaschinen/</loc>
     <lastmod>2025-09-16T09:35:02+02:00</lastmod>
   </url><url>
+    <loc>/blog/2025-09-16-datenschutz-suchmaschienen/</loc>
+    <lastmod>2025-09-16T09:12:08+02:00</lastmod>
+  </url><url>
     <loc>/news/2025-09-14-kw37-weekly-posts/</loc>
     <lastmod>2025-09-14T06:51:48+00:00</lastmod>
   </url><url>
     <loc>/news/2025-09-14-kw37-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/browser/</loc>
+    <lastmod>2025-09-09T09:15:57+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-09-09-datenschutzfreundliche-browser/</loc>
+    <lastmod>2025-09-09T09:15:57+02:00</lastmod>
   </url><url>
     <loc>/news/2025-09-07-kw36-weekly-posts/</loc>
     <lastmod>2025-09-07T06:57:02+00:00</lastmod>
@@ -128,11 +221,56 @@
     <loc>/news/2025-08-31-kw35-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-08-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/blog/2025-08-26-kinder-und-datenschutz/</loc>
+    <lastmod>2025-08-26T08:43:50+02:00</lastmod>
+  </url><url>
+    <loc>/tags/kinder-und-datenschutz/</loc>
+    <lastmod>2025-08-26T08:43:50+02:00</lastmod>
+  </url><url>
+    <loc>/tags/k%C3%BCnstliche-intelligenz/</loc>
+    <lastmod>2025-08-25T09:56:01+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-08-25-kuenstliche-intelligenz-und-datenschutz/</loc>
+    <lastmod>2025-08-25T09:56:01+02:00</lastmod>
+  </url><url>
     <loc>/news/2025-08-24-kw34-weekly-posts/</loc>
     <lastmod>2025-08-24T06:45:55+00:00</lastmod>
   </url><url>
     <loc>/news/2025-08-24-kw34-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/auto-und-technik/</loc>
+    <lastmod>2025-08-23T09:14:08+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-08-23-moderne-autos-und-ihre-daten/</loc>
+    <lastmod>2025-08-23T09:14:08+02:00</lastmod>
+  </url><url>
+    <loc>/tags/smartmobility/</loc>
+    <lastmod>2025-08-23T09:14:08+02:00</lastmod>
+  </url><url>
+    <loc>/tags/cloud/</loc>
+    <lastmod>2025-08-21T17:02:53+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-08-21-daten-in-der-cloud/</loc>
+    <lastmod>2025-08-21T17:02:53+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-08-20-smart-home-wer-hoert-mit/</loc>
+    <lastmod>2025-08-20T13:03:37+02:00</lastmod>
+  </url><url>
+    <loc>/tags/smarthome/</loc>
+    <lastmod>2025-08-20T13:03:37+02:00</lastmod>
+  </url><url>
+    <loc>/tags/digitale-souver%C3%A4nit%C3%A4t/</loc>
+    <lastmod>2025-08-18T11:23:58+02:00</lastmod>
+  </url><url>
+    <loc>/series/digitale-souver%C3%A4nit%C3%A4t/</loc>
+    <lastmod>2025-08-18T11:23:58+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-08-18-digitale-souveraenitaet/</loc>
+    <lastmod>2025-08-18T11:23:58+02:00</lastmod>
+  </url><url>
+    <loc>/tags/socialmedia/</loc>
+    <lastmod>2025-08-18T11:23:58+02:00</lastmod>
   </url><url>
     <loc>/news/2025-08-17-kw33-weekly-posts/</loc>
     <lastmod>2025-08-17T05:50:13+00:00</lastmod>
@@ -140,13 +278,19 @@
     <loc>/news/2025-08-17-kw33-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-08-12T08:50:54+02:00</lastmod>
+    <loc>/tags/smartphone/</loc>
+    <lastmod>2025-08-14T08:43:31+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-08-14-smartphone-tracking-im-alltag/</loc>
+    <lastmod>2025-08-14T08:43:31+02:00</lastmod>
+  </url><url>
+    <loc>/tags/cybercrime/</loc>
+    <lastmod>2025-08-13T09:31:47+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-08-13-datenweitergabe-wissen/</loc>
+    <lastmod>2025-08-13T09:31:47+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-08-12-bezahlen-wir-mit-unserer-privatsphaere/</loc>
-    <lastmod>2025-08-12T08:50:54+02:00</lastmod>
-  </url><url>
-    <loc>/tags/socialmedia/</loc>
     <lastmod>2025-08-12T08:50:54+02:00</lastmod>
   </url><url>
     <loc>/news/2025-08-10-kw32-weekly-posts/</loc>
@@ -155,16 +299,7 @@
     <loc>/news/2025-08-10-kw32-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ki/</loc>
-    <lastmod>2025-08-04T10:46:01+02:00</lastmod>
-  </url><url>
     <loc>/tags/ki-serie/</loc>
-    <lastmod>2025-08-04T10:46:01+02:00</lastmod>
-  </url><url>
-    <loc>/tags/k%C3%BCnstliche-intelligenz/</loc>
-    <lastmod>2025-08-04T10:46:01+02:00</lastmod>
-  </url><url>
-    <loc>/categories/k%C3%BCnstliche-intelligenz/</loc>
     <lastmod>2025-08-04T10:46:01+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-08-04-ki-serie-11-zentrale-landingpage/</loc>
@@ -174,9 +309,6 @@
     <lastmod>2025-08-04T10:28:08+02:00</lastmod>
   </url><url>
     <loc>/series/ki-serie/</loc>
-    <lastmod>2025-08-04T10:15:05+02:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
     <lastmod>2025-08-04T10:15:05+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-08-04-ki-serie-10-abschluss/</loc>
@@ -308,9 +440,6 @@
     <loc>/categories/guides/</loc>
     <lastmod>2025-05-13T09:41:58+02:00</lastmod>
   </url><url>
-    <loc>/tags/kinder-und-datenschutz/</loc>
-    <lastmod>2025-05-13T09:41:58+02:00</lastmod>
-  </url><url>
     <loc>/blog/2025-05-13-kinder-und-datenschutz/</loc>
     <lastmod>2025-05-13T09:31:09+02:00</lastmod>
   </url><url>
@@ -367,9 +496,6 @@
   </url><url>
     <loc>/news/2025-03-16-kw11-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/browser/</loc>
-    <lastmod>2025-03-11T10:54:13+02:00</lastmod>
   </url><url>
     <loc>/guides/2025-03-11-datenschutzfreundliche-browser/</loc>
     <lastmod>2025-03-11T10:54:13+02:00</lastmod>
@@ -443,9 +569,6 @@
     <loc>/news/2025-01-26-kw4-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/smartphone/</loc>
-    <lastmod>2025-01-21T10:04:44+02:00</lastmod>
-  </url><url>
     <loc>/guides/2025-01-21-smartphone-tracking/</loc>
     <lastmod>2025-01-21T10:04:44+02:00</lastmod>
   </url><url>
@@ -468,9 +591,6 @@
     <lastmod>2025-01-05T08:32:48+00:00</lastmod>
   </url><url>
     <loc>/tags/chrome/</loc>
-    <lastmod>2025-01-04T09:56:06+02:00</lastmod>
-  </url><url>
-    <loc>/series/google/</loc>
     <lastmod>2025-01-04T09:56:06+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-01-04-ist-chrome-noch-zu-enpfehlen/</loc>
