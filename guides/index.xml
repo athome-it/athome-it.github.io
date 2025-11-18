@@ -93,25 +93,25 @@
       <description>Wie du Künstliche Intelligenz clever nutzt ohne deine Privatsphäre zu riskieren</description>
     </item>
     <item>
-      <title>Eltern-Guide - worauf Eltern achten sollten</title>
+      <title>Eltern-Guide worauf Eltern achten sollten</title>
       <link>/guides/2025-05-13-kinder-und-datenschutz-guide/</link>
       <pubDate>Tue, 13 May 2025 09:41:58 +0200</pubDate>
       <guid>/guides/2025-05-13-kinder-und-datenschutz-guide/</guid>
       <description>Eltern-Guide: Mein Kind &amp;amp; das Netz. Dieser Guide zeigt dir in 7 einfachen Schritten, wie du dein Kind vor unnötiger Datensammlung schützt, ohne Stress, ohne Technikfrust.</description>
     </item>
     <item>
-      <title>Datenschutzfreundliche Browser – Alternativen zu Chrome</title>
+      <title>Datenschutzfreundliche Browser alternativen zu Chrome</title>
       <link>/guides/2025-03-11-datenschutzfreundliche-browser/</link>
       <pubDate>Tue, 11 Mar 2025 10:54:13 +0200</pubDate>
       <guid>/guides/2025-03-11-datenschutzfreundliche-browser/</guid>
-      <description>Das Internet ist voll von Trackern, Fingerprinting-Methoden und gezielter Werbung. Viele Mainstream-Browser, allen voran &lt;strong&gt;Google Chrome&lt;/strong&gt;, schützen deine Privatsphäre nicht – sie sind sogar Teil des Problems.</description>
+      <description>Das Internet ist voll von Trackern, Fingerprinting-Methoden und gezielter Werbung. Viele Mainstream-Browser, allen voran &lt;strong&gt;Google Chrome&lt;/strong&gt;, schützen deine Privatsphäre nicht, sie sind sogar Teil des Problems.</description>
     </item>
     <item>
       <title>Tracking im Alltag: Was dein Smartphone über dich verrät</title>
       <link>/guides/2025-01-21-smartphone-tracking/</link>
       <pubDate>Tue, 21 Jan 2025 10:04:44 +0200</pubDate>
       <guid>/guides/2025-01-21-smartphone-tracking/</guid>
-      <description>Wusstest du, dass dein Smartphone fast alles über deinen Alltag verrät? Standortdaten, Suchverläufe, Fitnessdaten – all das wird gesammelt, oft ohne dass du es bewusst erlaubst. Doch was steckt dahinter?</description>
+      <description>Wusstest du, dass dein Smartphone fast alles über deinen Alltag verrät? Standortdaten, Suchverläufe, Fitnessdaten, all das wird gesammelt, oft ohne dass du es bewusst erlaubst. Doch was steckt dahinter?</description>
     </item>
     <item>
       <title>Fünf Schritte, um deine Privatsphäre auf Social Media zu schützen</title>
@@ -146,7 +146,7 @@
       <link>/guides/2024-12-02-manifest-version-erkennen/</link>
       <pubDate>Mon, 02 Dec 2024 15:09:04 +0200</pubDate>
       <guid>/guides/2024-12-02-manifest-version-erkennen/</guid>
-      <description>Die Umstellung auf Manifest V3 für Browser-Erweiterungen, insbesondere in Google Chrome, sorgt bei vielen Nutzern für Unsicherheit. Doch wie kannst du beim Surfen erkennen, ob dein Browser oder eine Erweiterung Manifest V2 oder V3 nutzt – ohne die Einstellungen aufzurufen? Hier sind ein paar einfache Tests, die du direkt im Browser durchführen kannst.</description>
+      <description>Die Umstellung auf Manifest V3 für Browser-Erweiterungen, insbesondere in Google Chrome, sorgt bei vielen Nutzern für Unsicherheit. Doch wie kannst du beim Surfen erkennen, ob dein Browser oder eine Erweiterung Manifest V2 oder V3 nutzt ohne die Einstellungen aufzurufen? Hier sind ein paar einfache Tests, die du direkt im Browser durchführen kannst.</description>
     </item>
   </channel>
 </rss>
