@@ -30,7 +30,7 @@
       <description>Die Umstellung auf Manifest V3 für Browser-Erweiterungen, insbesondere in Google Chrome, sorgt bei vielen Nutzern für Unsicherheit. Doch wie kannst du beim Surfen erkennen, ob dein Browser oder eine Erweiterung Manifest V2 oder V3 nutzt – ohne die Einstellungen aufzurufen? Hier sind ein paar einfache Tests, die du direkt im Browser durchführen kannst.</description>
     </item>
     <item>
-      <title>Änderung von Manifest V2 auf V3 für Chrome – Gründe und Auswirkungen</title>
+      <title>Änderung von Manifest V2 auf V3 für Chrome, Gründe und Auswirkungen</title>
       <link>/blog/2024-12-02-google-und-manifest-v3-auswirkungen/</link>
       <pubDate>Mon, 02 Dec 2024 10:39:56 +0200</pubDate>
       <guid>/blog/2024-12-02-google-und-manifest-v3-auswirkungen/</guid>
