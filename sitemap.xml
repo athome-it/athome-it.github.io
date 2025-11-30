@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2025-11-25T10:15:11+02:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
+    <lastmod>2025-11-30T07:58:42+00:00</lastmod>
+  </url><url>
+    <loc>/news/</loc>
+    <lastmod>2025-11-30T07:58:42+00:00</lastmod>
+  </url><url>
+    <loc>/news/2025-11-30-kw48-weekly-posts/</loc>
+    <lastmod>2025-11-30T07:58:42+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-posts/</loc>
+    <lastmod>2025-11-30T07:58:42+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-posts/</loc>
+    <lastmod>2025-11-30T07:58:42+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-11-30T07:58:42+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-11-30T07:58:42+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mastodon/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/2025-11-30-kw48-weekly-shared-mastodon-posts/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-shared-posts/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-shared-posts/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
     <lastmod>2025-11-25T10:15:11+02:00</lastmod>
   </url><url>
     <loc>/tags/datenschutz/</loc>
@@ -38,40 +68,16 @@
     <loc>/series/</loc>
     <lastmod>2025-11-25T10:15:11+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-11-25T10:15:11+02:00</lastmod>
-  </url><url>
     <loc>/tags/tracking/</loc>
     <lastmod>2025-11-25T10:15:11+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-11-25-was-weiss-meta-ueber-mich/</loc>
     <lastmod>2025-11-25T10:15:11+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-11-25T10:15:11+02:00</lastmod>
-  </url><url>
-    <loc>/news/</loc>
-    <lastmod>2025-11-23T07:52:01+00:00</lastmod>
-  </url><url>
     <loc>/news/2025-11-23-kw47-weekly-posts/</loc>
     <lastmod>2025-11-23T07:52:01+00:00</lastmod>
   </url><url>
-    <loc>/tags/social-media-posts/</loc>
-    <lastmod>2025-11-23T07:52:01+00:00</lastmod>
-  </url><url>
-    <loc>/categories/social-media-posts/</loc>
-    <lastmod>2025-11-23T07:52:01+00:00</lastmod>
-  </url><url>
-    <loc>/tags/mastodon/</loc>
-    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/news/2025-11-23-kw47-weekly-shared-mastodon-posts/</loc>
-    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/social-media-shared-posts/</loc>
-    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/social-media-shared-posts/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/news/2025-11-16-kw46-weekly-posts/</loc>
