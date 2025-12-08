@@ -2,8 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2025-12-07T08:12:01+00:00</lastmod>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/series/digitale-spurensuche/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/categories/digitales-bewusstsein/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/tags/ki/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/categories/k%C3%BCnstliche-intelligenz/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/tags/tiktok/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/tags/tracking/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/tags/verhaltensanalyse/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2025-12-08-was-weiss-ticktok-ueber-mich/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-12-08T10:46:32+02:00</lastmod>
   </url><url>
     <loc>/news/</loc>
     <lastmod>2025-12-07T08:12:01+00:00</lastmod>
@@ -15,12 +57,6 @@
     <lastmod>2025-12-07T08:12:01+00:00</lastmod>
   </url><url>
     <loc>/categories/social-media-posts/</loc>
-    <lastmod>2025-12-07T08:12:01+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-12-07T08:12:01+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2025-12-07T08:12:01+00:00</lastmod>
   </url><url>
     <loc>/tags/mastodon/</loc>
@@ -41,19 +77,7 @@
     <loc>/news/2025-11-30-kw48-weekly-shared-mastodon-posts/</loc>
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2025-11-25T10:15:11+02:00</lastmod>
-  </url><url>
     <loc>/tags/datenschutz/</loc>
-    <lastmod>2025-11-25T10:15:11+02:00</lastmod>
-  </url><url>
-    <loc>/categories/datenschutz/</loc>
-    <lastmod>2025-11-25T10:15:11+02:00</lastmod>
-  </url><url>
-    <loc>/series/digitale-spurensuche/</loc>
-    <lastmod>2025-11-25T10:15:11+02:00</lastmod>
-  </url><url>
-    <loc>/categories/digitales-bewusstsein/</loc>
     <lastmod>2025-11-25T10:15:11+02:00</lastmod>
   </url><url>
     <loc>/tags/facebook/</loc>
@@ -62,19 +86,7 @@
     <loc>/tags/instagram/</loc>
     <lastmod>2025-11-25T10:15:11+02:00</lastmod>
   </url><url>
-    <loc>/tags/ki/</loc>
-    <lastmod>2025-11-25T10:15:11+02:00</lastmod>
-  </url><url>
-    <loc>/categories/k%C3%BCnstliche-intelligenz/</loc>
-    <lastmod>2025-11-25T10:15:11+02:00</lastmod>
-  </url><url>
     <loc>/tags/meta/</loc>
-    <lastmod>2025-11-25T10:15:11+02:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2025-11-25T10:15:11+02:00</lastmod>
-  </url><url>
-    <loc>/tags/tracking/</loc>
     <lastmod>2025-11-25T10:15:11+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-11-25-was-weiss-meta-ueber-mich/</loc>
