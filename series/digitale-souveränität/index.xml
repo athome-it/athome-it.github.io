@@ -6,14 +6,49 @@
     <description>Recent content in Digitale Souveränität on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 18 Aug 2025 11:23:58 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 09:15:57 +0200</lastBuildDate>
     <atom:link href="/series/digitale-souver%C3%A4nit%C3%A4t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzfreundliche Browser, Alternativen zu Chrome</title>
+      <link>/blog/2025-09-09-datenschutzfreundliche-browser/</link>
+      <pubDate>Tue, 09 Sep 2025 09:15:57 +0200</pubDate>
+      <guid>/blog/2025-09-09-datenschutzfreundliche-browser/</guid>
+      <description>Das Internet ist voll von Trackern, Fingerprinting-Methoden und gezielter Werbung. Viele Mainstream-Browser, allen voran &lt;strong&gt;Google Chrome&lt;/strong&gt;, schützen deine Privatsphäre nicht, sie sind sogar Teil des Problems.</description>
+    </item>
     <item>
       <title>Digitale Souveränität: Warum sie wichtig ist und wie wir sie erreichen können</title>
       <link>/blog/2025-08-18-digitale-souveraenitaet/</link>
       <pubDate>Mon, 18 Aug 2025 11:23:58 +0200</pubDate>
       <guid>/blog/2025-08-18-digitale-souveraenitaet/</guid>
       <description>In Deutschland und Europa wird zunehmend über &lt;strong&gt;digitale Souveränität&lt;/strong&gt; gesprochen nicht nur politisch, sondern auch wirtschaftlich, gesellschaftlich und persönlich</description>
+    </item>
+    <item>
+      <title>Was ist das Fediverse und welche Anwendungen gehören dazu?</title>
+      <link>/blog/2025-02-06-was-ist-das-fediverse-und-anwendungen/</link>
+      <pubDate>Thu, 06 Feb 2025 10:05:33 +0200</pubDate>
+      <guid>/blog/2025-02-06-was-ist-das-fediverse-und-anwendungen/</guid>
+      <description>Das Internet, wie wir es kennen, wird oft von großen zentralisierten Plattformen wie Facebook, Twitter, Instagram oder YouTube dominiert. Diese Unternehmen kontrollieren die Daten und Entscheidungen über Inhalte, was bei vielen Nutzern Bedenken hinsichtlich Datenschutz und Meinungsfreiheit hervorruft.</description>
+    </item>
+    <item>
+      <title>Pixelfed vs. Instagram: Datenschutz und mehr, ein Vergleich</title>
+      <link>/blog/2025-02-06-pixelfed-vs-instagram/</link>
+      <pubDate>Thu, 06 Feb 2025 09:53:14 +0200</pubDate>
+      <guid>/blog/2025-02-06-pixelfed-vs-instagram/</guid>
+      <description>Instagram ist eine der beliebtesten Plattformen für das Teilen von Fotos und Videos, steht aber immer wieder wegen Datenschutzproblemen und der Kommerzialisierung von Inhalten in der Kritik. Mit Pixelfed gibt es eine Alternative, die auf Privatsphäre, Dezentralität und Werbefreiheit setzt. Doch wie genau unterscheiden sich die beiden Plattformen?</description>
+    </item>
+    <item>
+      <title>Pixelfed: Was steckt hinter der datenschutzfreundlichen Instagram-Alternative?</title>
+      <link>/blog/2025-02-01-was-ist-pixelfed/</link>
+      <pubDate>Sat, 01 Feb 2025 17:15:47 +0200</pubDate>
+      <guid>/blog/2025-02-01-was-ist-pixelfed/</guid>
+      <description>Instagram, TikTok und andere große Plattformen stehen oft wegen Datenschutzproblemen, Werbung und Tracking in der Kritik. Viele Nutzer suchen deshalb nach Alternativen, die den Fokus auf Privatsphäre und Werbefreiheit legen.</description>
+    </item>
+    <item>
+      <title>Mastodon und Bluesky lohnenswerte Alternativen zu Twitter</title>
+      <link>/blog/2024-12-16-mastodon-bluesky-alternativen-zu-twitter/</link>
+      <pubDate>Mon, 16 Dec 2024 15:05:22 +0200</pubDate>
+      <guid>/blog/2024-12-16-mastodon-bluesky-alternativen-zu-twitter/</guid>
+      <description>Mastodon und Bluesky eine lohnenswerte Alternativen zu Twitter seit der Übernahme durch Elon Musk&amp;quot;</description>
     </item>
   </channel>
 </rss>
