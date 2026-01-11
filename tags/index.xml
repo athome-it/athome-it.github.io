@@ -6,8 +6,29 @@
     <description>Recent content in Tags on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 06 Jan 2026 09:12:21 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 08:15:19 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social-Media-Posts</title>
+      <link>/tags/social-media-posts/</link>
+      <pubDate>Sun, 11 Jan 2026 08:15:19 +0000</pubDate>
+      <guid>/tags/social-media-posts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mastodon</title>
+      <link>/tags/mastodon/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/mastodon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social-Media-Shared-Posts</title>
+      <link>/tags/social-media-shared-posts/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/social-media-shared-posts/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Datenschutz</title>
       <link>/tags/datenschutz/</link>
@@ -48,27 +69,6 @@
       <link>/tags/windows/</link>
       <pubDate>Tue, 06 Jan 2026 09:12:21 +0200</pubDate>
       <guid>/tags/windows/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Social-Media-Posts</title>
-      <link>/tags/social-media-posts/</link>
-      <pubDate>Sun, 04 Jan 2026 07:48:35 +0000</pubDate>
-      <guid>/tags/social-media-posts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mastodon</title>
-      <link>/tags/mastodon/</link>
-      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/mastodon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Social-Media-Shared-Posts</title>
-      <link>/tags/social-media-shared-posts/</link>
-      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/social-media-shared-posts/</guid>
       <description></description>
     </item>
     <item>
