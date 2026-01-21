@@ -6,8 +6,29 @@
     <description>Recent content in Categories on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 18 Jan 2026 08:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 09:24:30 +0200</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutz</title>
+      <link>/categories/datenschutz/</link>
+      <pubDate>Wed, 21 Jan 2026 09:24:30 +0200</pubDate>
+      <guid>/categories/datenschutz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digitales Bewusstsein</title>
+      <link>/categories/digitales-bewusstsein/</link>
+      <pubDate>Wed, 21 Jan 2026 09:24:30 +0200</pubDate>
+      <guid>/categories/digitales-bewusstsein/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Künstliche Intelligenz</title>
+      <link>/categories/k%C3%BCnstliche-intelligenz/</link>
+      <pubDate>Wed, 21 Jan 2026 09:24:30 +0200</pubDate>
+      <guid>/categories/k%C3%BCnstliche-intelligenz/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Social-Media-Posts</title>
       <link>/categories/social-media-posts/</link>
@@ -20,27 +41,6 @@
       <link>/categories/social-media-shared-posts/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/categories/social-media-shared-posts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Datenschutz</title>
-      <link>/categories/datenschutz/</link>
-      <pubDate>Tue, 06 Jan 2026 09:12:21 +0200</pubDate>
-      <guid>/categories/datenschutz/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digitales Bewusstsein</title>
-      <link>/categories/digitales-bewusstsein/</link>
-      <pubDate>Tue, 06 Jan 2026 09:12:21 +0200</pubDate>
-      <guid>/categories/digitales-bewusstsein/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz</title>
-      <link>/categories/k%C3%BCnstliche-intelligenz/</link>
-      <pubDate>Tue, 06 Jan 2026 09:12:21 +0200</pubDate>
-      <guid>/categories/k%C3%BCnstliche-intelligenz/</guid>
       <description></description>
     </item>
     <item>
