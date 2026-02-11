@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on athome-it</title>
+    <link>/tags/apple/</link>
+    <description>Recent content in Apple on athome-it</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 11 Feb 2026 09:42:57 +0200</lastBuildDate>
+    <atom:link href="/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Was weiß Apple über mich und wie kann ich es ändern</title>
+      <link>/blog/2026-02-11-was-weiss-apple-ueber-mich/</link>
+      <pubDate>Wed, 11 Feb 2026 09:42:57 +0200</pubDate>
+      <guid>/blog/2026-02-11-was-weiss-apple-ueber-mich/</guid>
+      <description>Apple gilt als datenschutzfreundlich, sammelt aber dennoch enorme Mengen an Informationen über dein iPhone, deine Gewohnheiten und dein Verhalten. Dieser Artikel zeigt, wie Apples Profil wirklich entsteht – und wie du es kontrollieren kannst.</description>
+    </item>
+  </channel>
+</rss>
