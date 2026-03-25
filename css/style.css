@@ -821,9 +821,7 @@ figcaption {
 
     /* Logo anpassen */
     .header-content img {
-        height: 20px;            /* Logo kleiner */
-        width: auto;             /* Seitenverhältnis behalten */
-        margin: 0;               /* Kein zusätzlicher Abstand */
+		display: none;      /* Logo ausblenden auf Handy */
     }
 
     /* Header-Titel */
