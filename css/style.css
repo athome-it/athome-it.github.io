@@ -32,6 +32,7 @@ header {
 	top: 20px;
     left: 20px;
     z-index: 10;
+	text-align: center;
 }
 
 header img {
@@ -49,9 +50,28 @@ header img {
 }
 
 @media (max-width: 768px) {
-    .main-header .header-content img {
-        height: 80px;
-    }
+
+  /* Header kleiner machen */
+  .main-header {
+    height: 180px; /* vorher z.B. 200px → jetzt kompakter */
+  }
+
+  /* Logo kleiner machen */
+  .header-content img {
+    height: 60px;
+  }
+
+  /* Position korrigieren (kein Überlappen mehr) */
+  .header-content {
+    position: static; /* wichtig! entfernt absolute Positionierung */
+    transform: none;
+    margin-top: 10px;
+  }
+
+  /* Optional: Titel kleiner */
+  .main-header h1 {
+    font-size: 1.5rem;
+  }
 }
 
 nav {
