@@ -28,50 +28,24 @@ header {
     align-items: center;
     justify-content: center;
     text-align: left;
-	position: absolute;
+    position: absolute;
 	top: 20px;
     left: 20px;
     z-index: 10;
-	text-align: center;
 }
 
 header img {
     height: 180px;
+	width: auto;
     margin-bottom: 10px;
-    background-color: rgba(255,255,255,0.7);
+	background-color: rgba(255,255,255,0.7);
     padding: 5px;
     border-radius: 5px;
-	width: auto; /* Seitenverhältnis bleibt korrekt */
 }
 
-.main-header .header-content img {
-    height: 180px;
+.header-content img {
+     height: 180px !important;
     width: auto;
-}
-
-@media (max-width: 768px) {
-
-  /* Header kleiner machen */
-  .main-header {
-    height: 180px; /* vorher z.B. 200px → jetzt kompakter */
-  }
-
-  /* Logo kleiner machen */
-  .header-content img {
-    height: 60px;
-  }
-
-  /* Position korrigieren (kein Überlappen mehr) */
-  .header-content {
-    position: static; /* wichtig! entfernt absolute Positionierung */
-    transform: none;
-    margin-top: 10px;
-  }
-
-  /* Optional: Titel kleiner */
-  .main-header h1 {
-    font-size: 1.5rem;
-  }
 }
 
 nav {
@@ -108,7 +82,7 @@ nav a:hover {
 .main-header {
     position: relative;
     width: 100%;
-    height: 270px; /* Adjust this value as needed */
+    height: 280px; /* Adjust this value as needed */
 	/*background-image: url('/images/header/banner.jpg')*/
     background: url('/images/header/banner.jpg') no-repeat center center;
     background-size: cover; /* Ensure the image covers the area */
@@ -123,10 +97,6 @@ nav a:hover {
     margin: 0;
     color: #fff;
     font-size: 2.5rem;
-}
-
-.main-header h1 {
-    display: none;
 }
 
 .main-header img {
@@ -831,50 +801,89 @@ figcaption {
     .nav-links.show {
         display: flex; /* Menü anzeigen, wenn aktiv */
     }
-}
-
-/* Auf mobilen Geräten (maximale Breite 768px) */
+	
+	/* ===============================
+   Mobile Header & Navigation
+   =============================== */
 @media (max-width: 768px) {
-    nav ul {
-        display: none; /* Menü standardmäßig ausblenden */
-        flex-direction: column; /* Stapelt die Navigation vertikal */
-        align-items: center;    /* Zentriert die Navigation */
-        padding: 0;
-        margin: 0;
-        background-color: #333;
-        width: 100%;
-        position: absolute;
-        top: 60px; /* Menü startet direkt unter dem Hamburger-Symbol */
-        left: 0;
-        z-index: 1000; /* Menü sollte über anderen Inhalten erscheinen */
-    }
 
-    nav ul li {
-        margin: 10px 0; /* Abstand zwischen den einzelnen Links */
-    }
-
-    nav {
-        padding: 10px; /* Weniger Padding für mobile Ansicht */
+    /* Header-Banner kleiner */
+    .main-header {
+        height: 120px;          /* Banner kleiner als Desktop */
+        background-size: cover; /* Bild passt sich an */
+        background-position: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
         position: relative;
     }
 
+    /* Logo anpassen */
+    .header-content img {
+        height: 60px;            /* Logo kleiner */
+        width: auto;             /* Seitenverhältnis behalten */
+        margin: 0;               /* Kein zusätzlicher Abstand */
+    }
+
+    /* Header-Titel */
+    .main-header h1 {
+        font-size: 1.5rem;       /* Kleinere Schriftgröße für Handy */
+        margin: 5px 0 0 0;       /* Abstand nach oben/unten anpassen */
+        text-align: center;
+    }
+
+    /* Hamburger-Symbol */
     .menu-toggle {
-        display: block; /* Hamburger-Symbol sichtbar machen */
+        display: block;          /* Symbol sichtbar machen */
         cursor: pointer;
         font-size: 24px;
         padding: 10px;
         background-color: #333;
-        color: white;
+        color: #fff;
         border: none;
         text-align: center;
         width: 50px;
-        z-index: 1001; /* Sicherstellen, dass das Symbol über dem Menü liegt */
+        position: absolute;      /* oben rechts positionieren */
+        top: 10px;
+        right: 10px;
+        z-index: 1001;           /* Symbol über allem */
+        border-radius: 5px;
     }
 
-    /* Das Menü wird nur angezeigt, wenn die Klasse .show hinzugefügt wird */
-    .nav-links.show {
-        display: flex; /* Menü anzeigen, wenn aktiv */
+    /* Navigation ausblenden, nur beim Klick auf Hamburger sichtbar */
+    .nav-links {
+        display: none;           /* Standard: ausgeblendet */
+        flex-direction: column;  
+        align-items: center;
+        position: absolute;
+        top: 60px;               /* direkt unter Hamburger */
+        left: 0;
+        width: 100%;
+        background-color: #333;
+        padding: 10px 0;
+        z-index: 1000;
     }
+
+    .nav-links.show {
+        display: flex;           /* Menü sichtbar, wenn Hamburger geklickt */
+    }
+
+    .nav-links li {
+        margin: 10px 0;          /* Abstand zwischen Links */
+        text-align: center;
+    }
+
+    .nav-links li a {
+        color: #fff;             /* Weiß für mobile Links */
+        font-size: 16px;         /* Angemessene Schriftgröße */
+        text-decoration: none;
+    }
+
+    .nav-links li a:hover {
+        color: #ff6600;          /* Hover-Farbe */
+    }
+}
 }
 
 /* Auf größeren Geräten (ab 769px) */
