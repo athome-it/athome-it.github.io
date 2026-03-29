@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2026-03-24T09:23:31+02:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
+    <lastmod>2026-03-29T07:11:30+00:00</lastmod>
+  </url><url>
+    <loc>/news/</loc>
+    <lastmod>2026-03-29T07:11:30+00:00</lastmod>
+  </url><url>
+    <loc>/news/2026-03-29-kw13-weekly-posts/</loc>
+    <lastmod>2026-03-29T07:11:30+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-posts/</loc>
+    <lastmod>2026-03-29T07:11:30+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-posts/</loc>
+    <lastmod>2026-03-29T07:11:30+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-03-29T07:11:30+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-03-29T07:11:30+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mastodon/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/2026-03-29-kw13-weekly-shared-mastodon-posts/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-shared-posts/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-shared-posts/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
     <lastmod>2026-03-24T09:23:31+02:00</lastmod>
   </url><url>
     <loc>/blog/2026-03-24-das-neue-ich/</loc>
@@ -44,34 +74,10 @@
     <loc>/series/</loc>
     <lastmod>2026-03-24T09:23:31+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-03-24T09:23:31+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2026-03-24T09:23:31+02:00</lastmod>
-  </url><url>
-    <loc>/news/</loc>
-    <lastmod>2026-03-22T08:03:03+00:00</lastmod>
-  </url><url>
     <loc>/news/2026-03-22-kw12-weekly-posts/</loc>
     <lastmod>2026-03-22T08:03:03+00:00</lastmod>
   </url><url>
-    <loc>/tags/social-media-posts/</loc>
-    <lastmod>2026-03-22T08:03:03+00:00</lastmod>
-  </url><url>
-    <loc>/categories/social-media-posts/</loc>
-    <lastmod>2026-03-22T08:03:03+00:00</lastmod>
-  </url><url>
-    <loc>/tags/mastodon/</loc>
-    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/news/2026-03-22-kw12-weekly-shared-mastodon-posts/</loc>
-    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/social-media-shared-posts/</loc>
-    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/social-media-shared-posts/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/news/2026-03-15-kw11-weekly-posts/</loc>
