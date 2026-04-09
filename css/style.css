@@ -23,29 +23,38 @@ header {
 }
 
 .header-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: left;
     position: absolute;
 	top: 20px;
     left: 20px;
-    z-index: 10;
+    z-index: 2;
 }
 
-header img {
+header img:not(.header-image) {
     height: 180px;
-	width: auto;
+    width: auto;
     margin-bottom: 10px;
-	background-color: rgba(255,255,255,0.7);
-    padding: 5px;
-    border-radius: 5px;
+    background-color: transparent; /* WICHTIG */
+    padding: 0;                    /* optional */
+    border-radius: 0;              /* optional */
 }
 
+/* Logo im Header - Desktop & Tablet */
 .header-content img {
-     height: 180px !important;
-    width: auto;
+    height: 180px !important; /* Standardgröße Desktop */
+    width: auto;              /* proportional skalieren */
+    background: transparent;  /* transparent, kein Hintergrund */
+    padding: 0;               /* Kein extra Padding */
+    filter: drop-shadow(0 2px 6px rgba(0,0,0,0.3)); /* Schatten für bessere Lesbarkeit */
+    display: block;
+}
+
+/* Logo auf mobilen Geräten kleiner */
+@media (max-width: 768px) {
+    .header-content img {
+        height: 120px !important; /* Kleinere Größe für Mobile */
+        width: auto;              /* proportional */
+        filter: drop-shadow(0 1px 4px rgba(0,0,0,0.3)); /* Schatten leicht reduzieren */
+    }
 }
 
 nav {
@@ -79,56 +88,46 @@ nav a:hover {
     color: #ff6600;
 }
 
-/* Haupt-Header */
+/* Header Container */
 .main-header {
     position: relative;
     width: 100%;
-    height: 280px; /* Passe Höhe nach Bedarf an */
-    background: url('/images/header/banner.jpg') no-repeat center center;
-    background-size: cover;
+    height: 280px;
+    overflow: hidden; /* wichtig */
     margin: 0;
+
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
-    transition: background 0.3s ease, color 0.3s ease;
 }
 
-/* Overlay-Layer (wird nur im Dark Mode sichtbar) */
+/* Banner Bild */
+.header-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+    z-index: 0;
+}
+
+/* Standard: KEIN Overlay */
 .main-header::after {
     content: "";
     position: absolute;
-    top: 0; left: 0;
-    width: 100%;
-    height: 100%;
-    pointer-events: none; /* Klicks passieren durch Overlay */
-    background: transparent; /* Standard: kein Overlay */
-    transition: background 0.3s ease;
+    inset: 0;
+    background: rgba(0,0,0,0.05);
+    z-index: 1;
+    pointer-events: none;
 }
 
-/* Dark Mode Anpassung */
+/* Nur im Dark Mode */
 @media (prefers-color-scheme: dark) {
     .main-header::after {
-        background: rgba(255, 255, 255, 0.15); /* leichter heller Schleier */
+        background: rgba(0,0,0,0.1);
     }
-
-    /* Optional: Textfarbe im Header anpassen */
-    .main-header h1,
-    .main-header h2,
-    .main-header p {
-        color: #ffffff; /* sichtbar auf dunklem Hintergrund */
-    }
-}
-
-.main-header h1 {
-    margin: 0;
-    color: #fff;
-    font-size: 2.5rem;
-}
-
-.main-header img {
-    height: 80px;
-    margin-bottom: 10px;
 }
 
 main {
@@ -832,19 +831,15 @@ figcaption {
 	/* ===============================
    Mobile Header & Navigation
    =============================== */
-@media (max-width: 768px) {
+	@media (max-width: 768px) {
+		.main-header {
+			height: 120px;
+		}
+	}
 
-    /* Header-Banner kleiner */
-    .main-header {
-        height: 120px;          /* Banner kleiner als Desktop */
-        background-size: cover; /* Bild passt sich an */
-        background-position: center;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        position: relative;
-    }
+	.header-image {
+		object-fit: cover;
+	}
 
     /* Logo anpassen */
     .header-content img {
