@@ -6,8 +6,22 @@
     <description>Recent content in Categories on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 08 Apr 2026 09:23:09 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 07:05:10 +0000</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social-Media-Posts</title>
+      <link>/categories/social-media-posts/</link>
+      <pubDate>Sun, 12 Apr 2026 07:05:10 +0000</pubDate>
+      <guid>/categories/social-media-posts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social-Media-Shared-Posts</title>
+      <link>/categories/social-media-shared-posts/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/categories/social-media-shared-posts/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Datenschutz</title>
       <link>/categories/datenschutz/</link>
@@ -20,20 +34,6 @@
       <link>/categories/sicherheit/</link>
       <pubDate>Wed, 08 Apr 2026 09:23:09 +0200</pubDate>
       <guid>/categories/sicherheit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Social-Media-Posts</title>
-      <link>/categories/social-media-posts/</link>
-      <pubDate>Sun, 29 Mar 2026 07:11:30 +0000</pubDate>
-      <guid>/categories/social-media-posts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Social-Media-Shared-Posts</title>
-      <link>/categories/social-media-shared-posts/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/categories/social-media-shared-posts/</guid>
       <description></description>
     </item>
     <item>
