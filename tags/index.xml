@@ -6,8 +6,22 @@
     <description>Recent content in Tags on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 17 Apr 2026 08:16:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 10:32:43 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breitbandmessung</title>
+      <link>/tags/breitbandmessung/</link>
+      <pubDate>Mon, 20 Apr 2026 10:32:43 +0200</pubDate>
+      <guid>/tags/breitbandmessung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>/tags/news/</link>
+      <pubDate>Mon, 20 Apr 2026 10:32:43 +0200</pubDate>
+      <guid>/tags/news/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Social-Media-Posts</title>
       <link>/tags/social-media-posts/</link>
@@ -440,13 +454,6 @@
       <link>/tags/athome-it/</link>
       <pubDate>Fri, 29 Nov 2024 12:39:22 +0200</pubDate>
       <guid>/tags/athome-it/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>/tags/news/</link>
-      <pubDate>Fri, 29 Nov 2024 12:39:22 +0200</pubDate>
-      <guid>/tags/news/</guid>
       <description></description>
     </item>
   </channel>
