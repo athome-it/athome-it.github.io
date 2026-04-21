@@ -1076,3 +1076,45 @@ th {
     object-fit: cover;
     border-radius: 6px;
 }
+
+@media (max-width: 768px) {
+    .home-highlight {
+        flex-direction: column;
+    }
+}
+
+.home-intro {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.home-highlight {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.home-highlight a {
+    flex: 1;
+    background: #e6e6e6;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    transition: all 0.2s ease;
+}
+
+.home-highlight a:hover {
+    background: #fff3e6;              /* leicht orange-hell */
+    border-color: #ffb366;            /* dezenter orange Rand */
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(255, 102, 0, 0.15);
+    color: #b34700;
+}
+
+.home-more {
+    margin-top: 20px;
+}
