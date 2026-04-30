@@ -6,8 +6,15 @@
     <description>Recent content in Mastodon on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:09:06 +0200</lastBuildDate>
     <atom:link href="/tags/mastodon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ein neues Datenschutz-Features für iOS Überblick</title>
+      <link>/news/2026-04-30-datenschutz-features/</link>
+      <pubDate>Thu, 30 Apr 2026 10:09:06 +0200</pubDate>
+      <guid>/news/2026-04-30-datenschutz-features/</guid>
+      <description>Mehr Kontrolle über deine Daten. Mit iOS 19.4 gibt Apple Nutzern noch mehr Werkzeuge an die Hand, um App-Tracking zu blockieren und Transparenz zu schaffen. Die neuen Funktionen helfen, versteckte Datensammler zu erkennen und ungewolltes Tracking zu stoppen, einfach und effektiv.</description>
+    </item>
     <item>
       <title>Shared Mastodon Posts - KW 17, 2026</title>
       <link>/news/2026-04-26-kw17-weekly-shared-mastodon-posts/</link>
