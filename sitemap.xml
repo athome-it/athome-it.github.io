@@ -2,31 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2026-05-03T06:33:08+00:00</lastmod>
+  </url><url>
+    <loc>/news/</loc>
+    <lastmod>2026-05-03T06:33:08+00:00</lastmod>
+  </url><url>
+    <loc>/news/2026-05-03-kw18-weekly-posts/</loc>
+    <lastmod>2026-05-03T06:33:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-posts/</loc>
+    <lastmod>2026-05-03T06:33:08+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-posts/</loc>
+    <lastmod>2026-05-03T06:33:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-05-03T06:33:08+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-05-03T06:33:08+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mastodon/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/2026-05-03-kw18-weekly-shared-mastodon-posts/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-shared-posts/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-shared-posts/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/bluesky/</loc>
     <lastmod>2026-04-30T10:09:06+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2026-04-30T10:09:06+02:00</lastmod>
-  </url><url>
     <loc>/news/2026-04-30-datenschutz-features/</loc>
-    <lastmod>2026-04-30T10:09:06+02:00</lastmod>
-  </url><url>
-    <loc>/tags/mastodon/</loc>
     <lastmod>2026-04-30T10:09:06+02:00</lastmod>
   </url><url>
     <loc>/tags/news/</loc>
     <lastmod>2026-04-30T10:09:06+02:00</lastmod>
   </url><url>
     <loc>/categories/news/</loc>
-    <lastmod>2026-04-30T10:09:06+02:00</lastmod>
-  </url><url>
-    <loc>/news/</loc>
-    <lastmod>2026-04-30T10:09:06+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-04-30T10:09:06+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2026-04-30T10:09:06+02:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
@@ -68,19 +86,7 @@
     <loc>/news/2026-04-26-kw17-weekly-posts/</loc>
     <lastmod>2026-04-26T06:57:45+00:00</lastmod>
   </url><url>
-    <loc>/tags/social-media-posts/</loc>
-    <lastmod>2026-04-26T06:57:45+00:00</lastmod>
-  </url><url>
-    <loc>/categories/social-media-posts/</loc>
-    <lastmod>2026-04-26T06:57:45+00:00</lastmod>
-  </url><url>
     <loc>/news/2026-04-26-kw17-weekly-shared-mastodon-posts/</loc>
-    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/social-media-shared-posts/</loc>
-    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/social-media-shared-posts/</loc>
     <lastmod>2026-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/news/2026-04-22-phishing-angriffe-auf-signal/</loc>
