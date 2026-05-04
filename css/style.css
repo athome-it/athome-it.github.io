@@ -1118,3 +1118,152 @@ th {
 .home-more {
     margin-top: 20px;
 }
+
+.tag-post-item {
+    display: flex;
+    gap: 15px;
+    align-items: flex-start;
+}
+
+/* Bild kleiner und fix */
+.tag-image {
+    max-width: 250px;     /* deutlich kleiner */
+    height: 70px;
+    flex-shrink: 0;   /* verhindert Schrumpfen */
+    overflow: hidden;
+}
+
+/* Bild */
+.tag-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Textbereich */
+.tag-content {
+    flex: 1;
+}
+
+@media (max-width: 768px) {
+    .tag-post-item {
+        flex-direction: column;
+    }
+
+    .tag-image {
+        width: 100%;
+        height: 160px;
+    }
+}
+
+/* ===== Mini Card Layout ===== */
+
+.tag-posts {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Card */
+.tag-card {
+    display: flex;
+    gap: 15px;
+    padding: 12px;
+    margin-bottom: 15px;
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+/* Hover Effekt */
+.tag-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+/* Bild */
+.tag-card-image {
+    width: 250px;
+    height: 70px;
+    flex-shrink: 0;
+    overflow: hidden;
+    border-radius: 6px;
+}
+
+.tag-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Content */
+.tag-card-content {
+    flex: 1;
+	min-width: 0;
+}
+
+/* Titel */
+.tag-card-title {
+    font-size: 1rem;
+    margin: 0 0 5px;
+}
+
+.tag-card-title a {
+    text-decoration: none;
+    color: #b34700;
+}
+
+.tag-card-title a:hover {
+    text-decoration: underline;
+}
+
+/* Meta */
+.tag-card-meta {
+    font-size: 0.8rem;
+    color: #777;
+    margin-bottom: 6px;
+}
+
+/* Summary */
+.tag-card-summary {
+    font-size: 0.9rem;
+    color: #444;
+    margin-bottom: 8px;
+}
+
+/* Tags */
+.tag-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .tag-card {
+        flex-direction: column;
+    }
+
+    .tag-card-image {
+        width: 100%;
+        height: 160px;
+    }
+}
+
+.tag-badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    padding: 4px 8px;
+    border-radius: 999px;
+    background: rgba(255,122,0,0.12);
+    color: #ff7a00;
+    text-decoration: none;
+    transition: all 0.2s ease;
+	white-space: nowrap; /* verhindert kaputte Umbrüche im Badge selbst */
+}
+
+.tag-badge:hover {
+    background: #ff7a00;
+    color: #fff;
+}
