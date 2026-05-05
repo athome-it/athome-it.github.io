@@ -1267,3 +1267,24 @@ th {
     background: #ff7a00;
     color: #fff;
 }
+
+.series-image {
+    width: 50%;
+    height: 80px;
+    overflow: hidden;
+    border-radius: 12px;
+    margin: 20px 0;
+}
+
+.series-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+@media (max-width: 768px) {
+    .series-image {
+        max-height: 180px;  /* kleineres Bild auf Handys */
+        margin: 15px 0;
+    }
+}
