@@ -1284,7 +1284,9 @@ th {
 
 @media (max-width: 768px) {
     .series-image {
-        max-height: 180px;  /* kleineres Bild auf Handys */
+        width: 100%;        /* volle Breite */
+        height: 160px;      /* feste Höhe für schönes Layout */
+        max-height: 180px;  /* Sicherheit */
         margin: 15px 0;
     }
 }
