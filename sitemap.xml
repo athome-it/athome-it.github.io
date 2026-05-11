@@ -8,10 +8,7 @@
     <loc>/tags/mastodon/</loc>
     <lastmod>2026-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/</loc>
-    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/news/2026-05-10-kw19-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-05-10-kw19-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/social-media-shared-posts/</loc>
@@ -23,10 +20,13 @@
     <loc>/tags/</loc>
     <lastmod>2026-05-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/weekly/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
     <lastmod>2026-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-05-03-kw18-weekly-posts/</loc>
+    <loc>/weekly/2026-05-03-kw18-weekly-posts/</loc>
     <lastmod>2026-05-03T06:33:08+00:00</lastmod>
   </url><url>
     <loc>/tags/social-media-posts/</loc>
@@ -35,7 +35,7 @@
     <loc>/categories/social-media-posts/</loc>
     <lastmod>2026-05-03T06:33:08+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-05-03-kw18-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-05-03-kw18-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/bluesky/</loc>
@@ -48,6 +48,9 @@
     <lastmod>2026-04-30T10:09:06+02:00</lastmod>
   </url><url>
     <loc>/categories/news/</loc>
+    <lastmod>2026-04-30T10:09:06+02:00</lastmod>
+  </url><url>
+    <loc>/news/</loc>
     <lastmod>2026-04-30T10:09:06+02:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
@@ -86,10 +89,10 @@
     <loc>/blog/2026-04-27-social-media-und-sichtbarkeit/</loc>
     <lastmod>2026-04-27T09:16:11+02:00</lastmod>
   </url><url>
-    <loc>/news/2026-04-26-kw17-weekly-posts/</loc>
+    <loc>/weekly/2026-04-26-kw17-weekly-posts/</loc>
     <lastmod>2026-04-26T06:57:45+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-04-26-kw17-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-04-26-kw17-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/news/2026-04-22-phishing-angriffe-auf-signal/</loc>
@@ -101,16 +104,16 @@
     <loc>/news/2026-04-20-breitbandmessung-mobilfunk/</loc>
     <lastmod>2026-04-20T10:32:43+02:00</lastmod>
   </url><url>
-    <loc>/news/2026-04-17-kw16-weekly-posts/</loc>
+    <loc>/weekly/2026-04-17-kw16-weekly-posts/</loc>
     <lastmod>2026-04-17T08:16:58+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-04-17-kw16-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-04-17-kw16-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-04-12-kw15-weekly-posts/</loc>
+    <loc>/weekly/2026-04-12-kw15-weekly-posts/</loc>
     <lastmod>2026-04-12T07:05:10+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-04-12-kw15-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-04-12-kw15-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/digitale-selbstbestimmung/</loc>
@@ -122,10 +125,10 @@
     <loc>/blog/2026-04-08-messenger-und-private-kommunikation/</loc>
     <lastmod>2026-04-08T09:23:09+02:00</lastmod>
   </url><url>
-    <loc>/news/2026-03-29-kw13-weekly-posts/</loc>
+    <loc>/weekly/2026-03-29-kw13-weekly-posts/</loc>
     <lastmod>2026-03-29T07:11:30+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-03-29-kw13-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-03-29-kw13-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/2026-03-24-das-neue-ich/</loc>
@@ -149,22 +152,22 @@
     <loc>/tags/selbstbestimmung/</loc>
     <lastmod>2026-03-24T09:23:31+02:00</lastmod>
   </url><url>
-    <loc>/news/2026-03-22-kw12-weekly-posts/</loc>
+    <loc>/weekly/2026-03-22-kw12-weekly-posts/</loc>
     <lastmod>2026-03-22T08:03:03+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-03-22-kw12-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-03-22-kw12-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-03-15-kw11-weekly-posts/</loc>
+    <loc>/weekly/2026-03-15-kw11-weekly-posts/</loc>
     <lastmod>2026-03-15T07:52:20+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-03-15-kw11-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-03-15-kw11-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-03-08-kw10-weekly-posts/</loc>
+    <loc>/weekly/2026-03-08-kw10-weekly-posts/</loc>
     <lastmod>2026-03-08T07:48:38+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-03-08-kw10-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-03-08-kw10-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/cookies/</loc>
@@ -185,22 +188,22 @@
     <loc>/blog/2026-03-04-was-weiss-das-internet-ueber-mich/</loc>
     <lastmod>2026-03-04T09:34:35+02:00</lastmod>
   </url><url>
-    <loc>/news/2026-03-01-kw9-weekly-posts/</loc>
+    <loc>/weekly/2026-03-01-kw9-weekly-posts/</loc>
     <lastmod>2026-03-01T07:34:14+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-03-01-kw9-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-03-01-kw9-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-02-22-kw8-weekly-posts/</loc>
+    <loc>/weekly/2026-02-22-kw8-weekly-posts/</loc>
     <lastmod>2026-02-22T07:48:22+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-02-22-kw8-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-02-22-kw8-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-02-15-kw7-weekly-posts/</loc>
+    <loc>/weekly/2026-02-15-kw7-weekly-posts/</loc>
     <lastmod>2026-02-15T07:51:34+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-02-15-kw7-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-02-15-kw7-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/apple/</loc>
@@ -212,22 +215,22 @@
     <loc>/blog/2026-02-11-was-weiss-apple-ueber-mich/</loc>
     <lastmod>2026-02-11T09:42:57+02:00</lastmod>
   </url><url>
-    <loc>/news/2026-02-08-kw6-weekly-posts/</loc>
+    <loc>/weekly/2026-02-08-kw6-weekly-posts/</loc>
     <lastmod>2026-02-08T08:02:31+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-02-08-kw6-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-02-08-kw6-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-02-01-kw5-weekly-posts/</loc>
+    <loc>/weekly/2026-02-01-kw5-weekly-posts/</loc>
     <lastmod>2026-02-01T08:15:38+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-02-01-kw5-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-02-01-kw5-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-01-25-kw4-weekly-posts/</loc>
+    <loc>/weekly/2026-01-25-kw4-weekly-posts/</loc>
     <lastmod>2026-01-25T07:53:48+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-01-25-kw4-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-01-25-kw4-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/alexa/</loc>
@@ -242,16 +245,16 @@
     <loc>/blog/2026-01-21-was-weiss-amazon-ueber-mich/</loc>
     <lastmod>2026-01-21T09:24:30+02:00</lastmod>
   </url><url>
-    <loc>/news/2026-01-18-kw3-weekly-posts/</loc>
+    <loc>/weekly/2026-01-18-kw3-weekly-posts/</loc>
     <lastmod>2026-01-18T08:00:35+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-01-18-kw3-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-01-18-kw3-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-01-11-kw2-weekly-posts/</loc>
+    <loc>/weekly/2026-01-11-kw2-weekly-posts/</loc>
     <lastmod>2026-01-11T08:15:19+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-01-11-kw2-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-01-11-kw2-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/microsoft/</loc>
@@ -266,10 +269,10 @@
     <loc>/tags/windows/</loc>
     <lastmod>2026-01-06T09:12:21+02:00</lastmod>
   </url><url>
-    <loc>/news/2026-01-04-kw1-weekly-posts/</loc>
+    <loc>/weekly/2026-01-04-kw1-weekly-posts/</loc>
     <lastmod>2026-01-04T07:48:35+00:00</lastmod>
   </url><url>
-    <loc>/news/2026-01-04-kw1-weekly-shared-mastodon-posts/</loc>
+    <loc>/weekly/2026-01-04-kw1-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/tiktok/</loc>
