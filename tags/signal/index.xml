@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signal on athome-it</title>
+    <link>/tags/signal/</link>
+    <description>Recent content in Signal on athome-it</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 22 Apr 2026 12:32:02 +0200</lastBuildDate>
+    <atom:link href="/tags/signal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aktuelle Warnung: Phishing-Angriffe auf Signal, auch private Nutzer betroffen</title>
+      <link>/news/2026-04-22-phishing-angriffe-auf-signal/</link>
+      <pubDate>Wed, 22 Apr 2026 12:32:02 +0200</pubDate>
+      <guid>/news/2026-04-22-phishing-angriffe-auf-signal/</guid>
+      <description>Das Bundesamt für Sicherheit in der Informationstechnik (BSI) und das Bundesamt für Verfassungsschutz (BfV) warnen vor Phishing-Angriffen aud den Messanger Signal</description>
+    </item>
+  </channel>
+</rss>
