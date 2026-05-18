@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wearables on athome-it</title>
+    <link>/tags/wearables/</link>
+    <description>Recent content in Wearables on athome-it</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 18 May 2026 10:04:12 +0200</lastBuildDate>
+    <atom:link href="/tags/wearables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wearables &amp; Smart Devices, wenn dein Alltag zum Datenstrom wird</title>
+      <link>/blog/2026-05-18-social-media-und-sichtbarkeit/</link>
+      <pubDate>Mon, 18 May 2026 10:04:12 +0200</pubDate>
+      <guid>/blog/2026-05-18-social-media-und-sichtbarkeit/</guid>
+      <description>Fitness-Tracker, Smart Home und Sprachassistenten sammeln täglich Daten über uns. Doch wie privat sind diese Informationen wirklich – und welche Rolle spielt KI dabei?</description>
+    </item>
+  </channel>
+</rss>
