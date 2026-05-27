@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2026-05-24T06:33:51+00:00</lastmod>
+    <lastmod>2026-05-27T10:35:06+02:00</lastmod>
+  </url><url>
+    <loc>/tags/datenschutz/</loc>
+    <lastmod>2026-05-27T10:35:06+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2026-05-27T10:35:06+02:00</lastmod>
+  </url><url>
+    <loc>/guides/</loc>
+    <lastmod>2026-05-27T10:35:06+02:00</lastmod>
+  </url><url>
+    <loc>/tags/oo-shutup10/</loc>
+    <lastmod>2026-05-27T10:35:06+02:00</lastmod>
+  </url><url>
+    <loc>/guides/2026-05-27-o-und-o-shutup10/</loc>
+    <lastmod>2026-05-27T10:35:06+02:00</lastmod>
+  </url><url>
+    <loc>/tags/privatsph%C3%A4re/</loc>
+    <lastmod>2026-05-27T10:35:06+02:00</lastmod>
+  </url><url>
+    <loc>/categories/sicherheit/</loc>
+    <lastmod>2026-05-27T10:35:06+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-05-27T10:35:06+02:00</lastmod>
+  </url><url>
+    <loc>/tags/tools/</loc>
+    <lastmod>2026-05-27T10:35:06+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-05-27T10:35:06+02:00</lastmod>
   </url><url>
     <loc>/tags/social-media-wochenr%C3%BCckblick/</loc>
     <lastmod>2026-05-24T06:33:51+00:00</lastmod>
@@ -14,13 +44,7 @@
     <loc>/categories/social-media-posts/</loc>
     <lastmod>2026-05-24T06:33:51+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-05-24T06:33:51+00:00</lastmod>
-  </url><url>
     <loc>/weekly/</loc>
-    <lastmod>2026-05-24T06:33:51+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2026-05-24T06:33:51+00:00</lastmod>
   </url><url>
     <loc>/weekly/2026-05-24-kw21-weekly-shared-mastodon-posts/</loc>
@@ -35,28 +59,16 @@
     <loc>/blog/</loc>
     <lastmod>2026-05-18T10:04:12+02:00</lastmod>
   </url><url>
-    <loc>/tags/datenschutz/</loc>
-    <lastmod>2026-05-18T10:04:12+02:00</lastmod>
-  </url><url>
-    <loc>/categories/datenschutz/</loc>
-    <lastmod>2026-05-18T10:04:12+02:00</lastmod>
-  </url><url>
     <loc>/tags/digitale-souver%C3%A4nit%C3%A4t/</loc>
     <lastmod>2026-05-18T10:04:12+02:00</lastmod>
   </url><url>
     <loc>/tags/ki/</loc>
     <lastmod>2026-05-18T10:04:12+02:00</lastmod>
   </url><url>
-    <loc>/tags/privatsph%C3%A4re/</loc>
-    <lastmod>2026-05-18T10:04:12+02:00</lastmod>
-  </url><url>
     <loc>/series/privatsph%C3%A4re-im-alltag/</loc>
     <lastmod>2026-05-18T10:04:12+02:00</lastmod>
   </url><url>
     <loc>/series/</loc>
-    <lastmod>2026-05-18T10:04:12+02:00</lastmod>
-  </url><url>
-    <loc>/categories/sicherheit/</loc>
     <lastmod>2026-05-18T10:04:12+02:00</lastmod>
   </url><url>
     <loc>/tags/smart-home/</loc>
@@ -350,9 +362,6 @@
     <loc>/guides/2025-10-28-weg-von-google/</loc>
     <lastmod>2025-10-28T11:02:44+02:00</lastmod>
   </url><url>
-    <loc>/guides/</loc>
-    <lastmod>2025-10-28T11:02:44+02:00</lastmod>
-  </url><url>
     <loc>/series/google/</loc>
     <lastmod>2025-10-28T10:40:44+02:00</lastmod>
   </url><url>
@@ -456,9 +465,6 @@
     <lastmod>2025-08-21T17:02:53+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-08-20-smart-home-wer-hoert-mit/</loc>
-    <lastmod>2025-08-20T13:03:37+02:00</lastmod>
-  </url><url>
-    <loc>/tags/smarthome/</loc>
     <lastmod>2025-08-20T13:03:37+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-08-18-digitale-souveraenitaet/</loc>

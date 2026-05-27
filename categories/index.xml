@@ -6,8 +6,22 @@
     <description>Recent content in Categories on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 24 May 2026 06:33:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:35:06 +0200</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutz</title>
+      <link>/categories/datenschutz/</link>
+      <pubDate>Wed, 27 May 2026 10:35:06 +0200</pubDate>
+      <guid>/categories/datenschutz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sicherheit</title>
+      <link>/categories/sicherheit/</link>
+      <pubDate>Wed, 27 May 2026 10:35:06 +0200</pubDate>
+      <guid>/categories/sicherheit/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Social-Media-Posts</title>
       <link>/categories/social-media-posts/</link>
@@ -20,20 +34,6 @@
       <link>/categories/geteilte-beitr%C3%A4ge-und-empfehlungen/</link>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
       <guid>/categories/geteilte-beitr%C3%A4ge-und-empfehlungen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Datenschutz</title>
-      <link>/categories/datenschutz/</link>
-      <pubDate>Mon, 18 May 2026 10:04:12 +0200</pubDate>
-      <guid>/categories/datenschutz/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sicherheit</title>
-      <link>/categories/sicherheit/</link>
-      <pubDate>Mon, 18 May 2026 10:04:12 +0200</pubDate>
-      <guid>/categories/sicherheit/</guid>
       <description></description>
     </item>
     <item>
