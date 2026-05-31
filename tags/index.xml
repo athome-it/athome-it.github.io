@@ -6,13 +6,55 @@
     <description>Recent content in Tags on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 27 May 2026 10:35:06 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 11:10:23 +0200</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Datenschutz</title>
       <link>/tags/datenschutz/</link>
-      <pubDate>Wed, 27 May 2026 10:35:06 +0200</pubDate>
+      <pubDate>Sun, 31 May 2026 11:10:23 +0200</pubDate>
       <guid>/tags/datenschutz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digitale Souveränität</title>
+      <link>/tags/digitale-souver%C3%A4nit%C3%A4t/</link>
+      <pubDate>Sun, 31 May 2026 11:10:23 +0200</pubDate>
+      <guid>/tags/digitale-souver%C3%A4nit%C3%A4t/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KI</title>
+      <link>/tags/ki/</link>
+      <pubDate>Sun, 31 May 2026 11:10:23 +0200</pubDate>
+      <guid>/tags/ki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privatsphäre</title>
+      <link>/tags/privatsph%C3%A4re/</link>
+      <pubDate>Sun, 31 May 2026 11:10:23 +0200</pubDate>
+      <guid>/tags/privatsph%C3%A4re/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tracking</title>
+      <link>/tags/tracking/</link>
+      <pubDate>Sun, 31 May 2026 11:10:23 +0200</pubDate>
+      <guid>/tags/tracking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media Wochenrückblick</title>
+      <link>/tags/social-media-wochenr%C3%BCckblick/</link>
+      <pubDate>Sun, 31 May 2026 09:03:07 +0000</pubDate>
+      <guid>/tags/social-media-wochenr%C3%BCckblick/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geteilte Beiträge Und Empfehlungen</title>
+      <link>/tags/geteilte-beitr%C3%A4ge-und-empfehlungen/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/geteilte-beitr%C3%A4ge-und-empfehlungen/</guid>
       <description></description>
     </item>
     <item>
@@ -23,45 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>Privatsphäre</title>
-      <link>/tags/privatsph%C3%A4re/</link>
-      <pubDate>Wed, 27 May 2026 10:35:06 +0200</pubDate>
-      <guid>/tags/privatsph%C3%A4re/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tools</title>
       <link>/tags/tools/</link>
       <pubDate>Wed, 27 May 2026 10:35:06 +0200</pubDate>
       <guid>/tags/tools/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Social Media Wochenrückblick</title>
-      <link>/tags/social-media-wochenr%C3%BCckblick/</link>
-      <pubDate>Sun, 24 May 2026 06:33:51 +0000</pubDate>
-      <guid>/tags/social-media-wochenr%C3%BCckblick/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Geteilte Beiträge Und Empfehlungen</title>
-      <link>/tags/geteilte-beitr%C3%A4ge-und-empfehlungen/</link>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/geteilte-beitr%C3%A4ge-und-empfehlungen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digitale Souveränität</title>
-      <link>/tags/digitale-souver%C3%A4nit%C3%A4t/</link>
-      <pubDate>Mon, 18 May 2026 10:04:12 +0200</pubDate>
-      <guid>/tags/digitale-souver%C3%A4nit%C3%A4t/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>KI</title>
-      <link>/tags/ki/</link>
-      <pubDate>Mon, 18 May 2026 10:04:12 +0200</pubDate>
-      <guid>/tags/ki/</guid>
       <description></description>
     </item>
     <item>
@@ -216,13 +223,6 @@
       <link>/tags/online-profil/</link>
       <pubDate>Wed, 04 Mar 2026 09:34:35 +0200</pubDate>
       <guid>/tags/online-profil/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tracking</title>
-      <link>/tags/tracking/</link>
-      <pubDate>Wed, 04 Mar 2026 09:34:35 +0200</pubDate>
-      <guid>/tags/tracking/</guid>
       <description></description>
     </item>
     <item>
