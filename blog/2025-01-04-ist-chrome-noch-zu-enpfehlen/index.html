@@ -90,12 +90,337 @@
 </figure>
 
 <p>Viele Nutzer und Entwickler sind besorgt, dass wichtige Funktionen eingeschränkt werden, während Google argumentiert, dass die Änderungen notwendig sind, um die Sicherheit und Privatsphäre der Nutzer zu erhöhen.</p>
+<style>
+.tts-card {
+  max-width: 520px;
+  margin: 1rem auto;
+  padding: 0.9rem;
+  border: 1px solid #d7e9db;
+  border-radius: 12px;
+  background: #f6fbf7;
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+}
+
+.tts-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.tts-buttons {
+  display: flex;
+  gap: .5rem;
+  flex-wrap: wrap;
+  margin-bottom: .8rem;
+}
+
+.tts-btn {
+  padding: .45rem .8rem;
+  border-radius: 8px;
+  border: 1px solid #cfe3d5;
+  background: white;
+  cursor: pointer;
+}
+
+.tts-btn:hover {
+  background: #eaf6ee;
+}
+
+.tts-options {
+  display: flex;
+  flex-direction: column;
+  gap: .6rem;
+}
+
+.tts-options label {
+  display: flex;
+  flex-direction: column;
+  font-size: .85rem;
+  gap: .2rem;
+}
+
+.tts-select {
+  border: 1px solid #cfe3d5;
+  border-radius: 8px;
+  padding: .4rem;
+  background: white;
+}
+
+@media (min-width:700px) {
+  .tts-options {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: .75rem;
+  }
+}
+</style>
+
+<div class="tts-card">
+
+  <div class="tts-title">🎧 Artikel anhören</div>
+
+  <div class="tts-buttons">
+    <button class="tts-btn" onclick="ttsPlay()">▶ Play</button>
+    <button class="tts-btn" onclick="ttsPause()">⏸ Pause</button>
+    <button class="tts-btn" onclick="ttsStop()">⏹ Stop</button>
+  </div>
+
+  <div class="tts-options">
+
+    <label>
+      Modus
+      <select id="ttsMode" class="tts-select">
+        <option value="normal">Artikel</option>
+        <option value="podcast">Podcast</option>
+      </select>
+    </label>
+
+    <label>
+      Stimme (optional)
+      <select id="ttsVoice" class="tts-select">
+        <option>Lädt Stimmen</option>
+      </select>
+    </label>
+
+    <label>
+      Geschwindigkeit
+      <select id="ttsRate" class="tts-select">
+        <option value="0.85">Langsam</option>
+        <option value="0.95" selected>Normal</option>
+        <option value="1.05">Schnell</option>
+        <option value="1.15">Sehr schnell</option>
+      </select>
+    </label>
+
+  </div>
+</div>
+
+<script>
+
+let ttsIndex = 0;
+let ttsParts = [];
+let ttsRunning = false;
+let ttsPaused = false;
+
+
+
+function loadVoices() {
+  const sel = document.getElementById("ttsVoice");
+  if (!sel) return;
+
+  const voices = speechSynthesis.getVoices();
+
+  sel.innerHTML = "";
+
+  if (!voices || voices.length === 0) {
+    sel.innerHTML = "<option>Keine Stimmen gefunden</option>";
+    return;
+  }
+
+  voices.forEach((v, i) => {
+    const opt = document.createElement("option");
+    opt.value = i;
+    opt.textContent = `${v.name} (${v.lang})`;
+    sel.appendChild(opt);
+  });
+
+  console.log("Voices loaded:", voices.length);
+}
+
+ 
+function initVoices() {
+
+  const tryLoad = () => {
+    const voices = speechSynthesis.getVoices();
+    if (voices && voices.length > 0) {
+      loadVoices();
+    } else {
+      setTimeout(tryLoad, 200);
+    }
+  };
+
+  tryLoad();
+}
+
+speechSynthesis.onvoiceschanged = loadVoices;
+
+window.addEventListener("load", initVoices);
+window.addEventListener("focus", loadVoices);
+window.addEventListener("click", () => speechSynthesis.getVoices());
+
+
+
+function cleanForSpeech(text) {
+  return text
+    .replace(/[\u{1F300}-\u{1FAFF}]/gu, "")
+    .replace(/🔍|📌|📺|🔊|▶|⏹|⏸|📑/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function prepareText(text) {
+  return text.replace(/\s+/g, " ").trim();
+}
+
+
+
+function buildTTS() {
+
+  const content = document.querySelector(".post-content");
+  if (!content) return;
+
+  const clone = content.cloneNode(true);
+
+  clone.querySelectorAll(`
+    script, style, nav, aside,
+    pre, code,
+    .tts-card,
+    .series-box,
+    .post-tags,
+    #TableOfContents,
+    .toc
+  `).forEach(el => el.remove());
+
+  clone.querySelectorAll(".hint.info").forEach(el => el.remove());
+
+  const nodes = clone.querySelectorAll(
+    "h1, h3, h4, p, li, blockquote, .hint"
+  );
+
+  ttsParts = [];
+
+  const zahlen = ["","Erstens","Zweitens","Drittens","Viertens","Fünftens","Sechstens","Siebtens","Achtens","Neuntens","Zehntens"];
+
+  nodes.forEach(el => {
+
+    if (el.tagName.toLowerCase() === "p" && el.closest("li")) return;
+
+    let text = prepareText(el.textContent);
+    text = cleanForSpeech(text);
+
+    if (!text) return;
+
+    let pause = 250;
+    const tag = el.tagName.toLowerCase();
+
+    if (["h1","h3","h4"].includes(tag)) pause = 1000;
+
+    if (tag === "li") {
+      const ol = el.closest("ol");
+      if (ol) {
+        const items = Array.from(ol.children);
+        const index = items.indexOf(el) + 1;
+        text = (zahlen[index] || index + ".") + ". " + text;
+      }
+      pause = 350;
+    }
+
+        
+    if (el.classList.contains("hint")) {
+
+      pause = 800;
+
+      if (el.classList.contains("warning")) {
+        text = "Wichtiger Hinweis. " + text;
+      }
+
+      if (el.classList.contains("danger")) {
+        text = "Achtung. " + text;
+      }
+
+      if (el.classList.contains("tip")) {
+        text = "Hinweis. " + text;
+      }
+
+    }
+
+    ttsParts.push({ text, pause });
+  });
+}
+
+
+
+function speakNext() {
+
+  if (!ttsRunning || ttsPaused) return;
+
+  if (ttsIndex >= ttsParts.length) {
+    ttsRunning = false;
+    return;
+  }
+
+  const part = ttsParts[ttsIndex++];
+
+  let text = part.text;
+
+  if (document.getElementById("ttsMode")?.value === "podcast") {
+    text = text.replace(/\. /g, ". … ");
+  }
+
+  const u = new SpeechSynthesisUtterance(text);
+
+  const voices = speechSynthesis.getVoices();
+  const sel = document.getElementById("ttsVoice");
+
+  if (voices && voices.length && sel) {
+    const i = parseInt(sel.value, 10);
+    if (voices[i]) u.voice = voices[i];
+  }
+
+  u.lang = "de-DE";
+  u.rate = parseFloat(document.getElementById("ttsRate")?.value || 0.95);
+  u.pitch = 1;
+  u.volume = 1;
+
+  u.onend = () => setTimeout(speakNext, part.pause || 250);
+  u.onerror = () => setTimeout(speakNext, 250);
+
+  speechSynthesis.speak(u);
+}
+
+
+
+function ttsPlay() {
+
+  if (speechSynthesis.paused) {
+    speechSynthesis.resume();
+    ttsPaused = false;
+    return;
+  }
+
+  if (ttsRunning) return;
+
+  speechSynthesis.cancel();
+
+  buildTTS();
+
+  ttsIndex = 0;
+  ttsRunning = true;
+  ttsPaused = false;
+
+  speakNext();
+}
+
+function ttsPause() {
+  ttsPaused = true;
+  speechSynthesis.pause();
+}
+
+function ttsStop() {
+  ttsRunning = false;
+  ttsPaused = false;
+  ttsIndex = 0;
+  ttsParts = [];
+  speechSynthesis.cancel();
+}
+
+</script>
 <div class="hint info">
-  <p>📚 <strong>Die <a href="../../series/google/">Google Serie</a></strong><br>
+  <p>📚 <strong>Die <a href="../../series/google/">Google Serie</a></strong>
 Eine vertiefte Reihe darüber, welche Daten Google mit seinen Diensten sammelt und wie du sie kontrollieren kannst und welche Alternativen es gibt.</p>
-<p>🔍 <strong>Übergeordnet gehört diese Reihe zur Serie <a href="../../series/digitale-spurensuche/">Digitale Spurensuche</a></strong><br>
+<p>🔍 <strong>Übergeordnet gehört diese Reihe zur Serie <a href="../../series/digitale-spurensuche/">Digitale Spurensuche</a></strong>
 Hier zeigen wir, wie große Plattformen Daten sammeln – im Überblick.</p>
-<p>🧭 <strong>Ergänzend empfehlen wir die Serie <a href="../../series/digitale-souver%C3%A4nit%C3%A4t/">Digitale Souveränität</a></strong><br>
+<p>🧭 <strong>Ergänzend empfehlen wir die Serie <a href="../../series/digitale-souver%C3%A4nit%C3%A4t/">Digitale Souveränität</a></strong>
 Damit du aus diesen Erkenntnissen echte digitale Kontrolle entwickeln kannst.</p>
 
 </div>
@@ -122,23 +447,23 @@ Damit du aus diesen Erkenntnissen echte digitale Kontrolle entwickeln kannst.</p
 <h3 id="nachteile-von-google-chrome-nach-manifest-v3">Nachteile von Google Chrome nach Manifest V3</h3>
 <ol>
 <li>
-<p><strong>Einschränkungen für Werbeblocker</strong>
+<p><strong>Einschränkungen für Werbeblocker:</strong>
 Die Änderungen in Manifest V3 schränken die Art und Weise ein, wie Erweiterungen wie uBlock Origin und AdGuard funktionieren. Diese Blocker werden gezwungen, weniger leistungsfähige Filtermethoden zu verwenden, was ihre Effektivität gegen Werbung und Tracking verringert. Damit wird der Schutz vor unerwünschten Inhalten und Trackern deutlich eingeschränkt.</p>
 </li>
 <li>
-<p><strong>Fokus auf Unternehmensinteressen</strong>
+<p><strong>Fokus auf Unternehmensinteressen:</strong>
 Google ist stark auf Werbeeinnahmen angewiesen, da es ein Werbeunternehmen ist. Die Änderungen durch Manifest V3 scheinen die Werbeblockierung zu erschweren, was darauf hindeutet, dass Google hier seine eigenen wirtschaftlichen Interessen priorisiert.</p>
 </li>
 <li>
-<p><strong>Weniger Kontrolle für Nutzer</strong>
+<p><strong>Weniger Kontrolle für Nutzer:</strong>
 Viele datenschutzfreundliche Erweiterungen, die auf manuellen Blockierungsfunktionen oder API-Zugriffen basieren, werden in ihrer Funktionsweise eingeschränkt. Das bedeutet, dass Nutzer weniger Kontrolle darüber haben, welche Inhalte blockiert werden und welche Daten über sie gesammelt werden.</p>
 </li>
 <li>
-<p><strong>Datenverfolgung durch Google</strong>
+<p><strong>Datenverfolgung durch Google:</strong>
 Google Chrome selbst sammelt Nutzerdaten und ist stark in das Google-Ökosystem eingebunden. Selbst mit Erweiterungen kann der Browser durch integrierte Funktionen und Telemetrie viele Informationen über das Verhalten der Nutzer sammeln.</p>
 </li>
 <li>
-<p><strong>Alternative Browser bieten besseren Schutz</strong>
+<p><strong>Alternative Browser bieten besseren Schutz:</strong>
 Andere Browser wie Firefox, Brave oder LibreWolf bieten deutlich mehr Optionen, um sich gegen Tracking und Werbung zu schützen. Diese Browser unterstützen weiterhin leistungsfähige Erweiterungen oder haben sogar integrierte Funktionen, die Chrome nicht bietet.</p>
 </li>
 </ol>
