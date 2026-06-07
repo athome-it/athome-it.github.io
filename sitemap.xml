@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
+    <lastmod>2026-06-07T06:48:05+00:00</lastmod>
+  </url><url>
+    <loc>/tags/social-media-wochenr%C3%BCckblick/</loc>
+    <lastmod>2026-06-07T06:48:05+00:00</lastmod>
+  </url><url>
+    <loc>/weekly/2026-06-07-kw23-weekly-posts/</loc>
+    <lastmod>2026-06-07T06:48:05+00:00</lastmod>
+  </url><url>
+    <loc>/categories/social-media-posts/</loc>
+    <lastmod>2026-06-07T06:48:05+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-06-07T06:48:05+00:00</lastmod>
+  </url><url>
+    <loc>/weekly/</loc>
+    <lastmod>2026-06-07T06:48:05+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-06-07T06:48:05+00:00</lastmod>
+  </url><url>
+    <loc>/weekly/2026-06-07-kw23-weekly-shared-mastodon-posts/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/geteilte-beitr%C3%A4ge-und-empfehlungen/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/geteilte-beitr%C3%A4ge-und-empfehlungen/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
     <lastmod>2026-05-31T11:10:23+02:00</lastmod>
   </url><url>
     <loc>/tags/datenschutz/</loc>
@@ -32,37 +59,16 @@
     <loc>/categories/sicherheit/</loc>
     <lastmod>2026-05-31T11:10:23+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
-  </url><url>
     <loc>/tags/tracking/</loc>
     <lastmod>2026-05-31T11:10:23+02:00</lastmod>
   </url><url>
     <loc>/blog/2026-05-31-tracking-und-werbung/</loc>
     <lastmod>2026-05-31T11:10:23+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
-  </url><url>
-    <loc>/tags/social-media-wochenr%C3%BCckblick/</loc>
-    <lastmod>2026-05-31T09:03:07+00:00</lastmod>
-  </url><url>
     <loc>/weekly/2026-05-31-kw22-weekly-posts/</loc>
     <lastmod>2026-05-31T09:03:07+00:00</lastmod>
   </url><url>
-    <loc>/categories/social-media-posts/</loc>
-    <lastmod>2026-05-31T09:03:07+00:00</lastmod>
-  </url><url>
-    <loc>/weekly/</loc>
-    <lastmod>2026-05-31T09:03:07+00:00</lastmod>
-  </url><url>
     <loc>/weekly/2026-05-31-kw22-weekly-shared-mastodon-posts/</loc>
-    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/geteilte-beitr%C3%A4ge-und-empfehlungen/</loc>
-    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/geteilte-beitr%C3%A4ge-und-empfehlungen/</loc>
     <lastmod>2026-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/guides/</loc>
