@@ -2,8 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/backups/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2026-06-14T06:51:20+00:00</lastmod>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/cloud/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2026-06-15-cloud-fotos-und-backups/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/datenschutz/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/digitale-souver%C3%A4nit%C3%A4t/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/ki/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/privatsph%C3%A4re/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/series/privatsph%C3%A4re-im-alltag/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/categories/sicherheit/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
   </url><url>
     <loc>/tags/social-media-wochenr%C3%BCckblick/</loc>
     <lastmod>2026-06-14T06:51:20+00:00</lastmod>
@@ -14,13 +56,7 @@
     <loc>/categories/social-media-posts/</loc>
     <lastmod>2026-06-14T06:51:20+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-06-14T06:51:20+00:00</lastmod>
-  </url><url>
     <loc>/weekly/</loc>
-    <lastmod>2026-06-14T06:51:20+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2026-06-14T06:51:20+00:00</lastmod>
   </url><url>
     <loc>/weekly/2026-06-14-kw24-weekly-shared-mastodon-posts/</loc>
@@ -37,33 +73,6 @@
   </url><url>
     <loc>/weekly/2026-06-07-kw23-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
-  </url><url>
-    <loc>/tags/datenschutz/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
-  </url><url>
-    <loc>/categories/datenschutz/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
-  </url><url>
-    <loc>/tags/digitale-souver%C3%A4nit%C3%A4t/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
-  </url><url>
-    <loc>/tags/ki/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
-  </url><url>
-    <loc>/tags/privatsph%C3%A4re/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
-  </url><url>
-    <loc>/series/privatsph%C3%A4re-im-alltag/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
-  </url><url>
-    <loc>/categories/sicherheit/</loc>
-    <lastmod>2026-05-31T11:10:23+02:00</lastmod>
   </url><url>
     <loc>/tags/tracking/</loc>
     <lastmod>2026-05-31T11:10:23+02:00</lastmod>
@@ -478,9 +487,6 @@
   </url><url>
     <loc>/tags/smartmobility/</loc>
     <lastmod>2025-08-23T09:14:08+02:00</lastmod>
-  </url><url>
-    <loc>/tags/cloud/</loc>
-    <lastmod>2025-08-21T17:02:53+02:00</lastmod>
   </url><url>
     <loc>/blog/2025-08-21-daten-in-der-cloud/</loc>
     <lastmod>2025-08-21T17:02:53+02:00</lastmod>
