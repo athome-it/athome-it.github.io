@@ -2,31 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/weekly/2026-06-17-kw25-weekly-shared-mastodon-posts/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/geteilte-beitr%C3%A4ge-und-empfehlungen/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/geteilte-beitr%C3%A4ge-und-empfehlungen/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/weekly/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/backups/</loc>
     <lastmod>2026-06-15T08:50:00+02:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2026-06-15T08:50:00+02:00</lastmod>
   </url><url>
     <loc>/tags/cloud/</loc>
@@ -59,6 +41,12 @@
     <loc>/categories/sicherheit/</loc>
     <lastmod>2026-06-15T08:50:00+02:00</lastmod>
   </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-06-15T08:50:00+02:00</lastmod>
+  </url><url>
     <loc>/tags/social-media-wochenr%C3%BCckblick/</loc>
     <lastmod>2026-06-14T06:51:20+00:00</lastmod>
   </url><url>
@@ -68,7 +56,16 @@
     <loc>/categories/social-media-posts/</loc>
     <lastmod>2026-06-14T06:51:20+00:00</lastmod>
   </url><url>
+    <loc>/weekly/</loc>
+    <lastmod>2026-06-14T06:51:20+00:00</lastmod>
+  </url><url>
     <loc>/weekly/2026-06-14-kw24-weekly-shared-mastodon-posts/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/geteilte-beitr%C3%A4ge-und-empfehlungen/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/geteilte-beitr%C3%A4ge-und-empfehlungen/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/weekly/2026-06-07-kw23-weekly-posts/</loc>
