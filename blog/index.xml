@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 15 Jun 2026 08:50:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:55:47 +0200</lastBuildDate>
     <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KI &amp; Privatsphäre – was Systeme heute schon über uns verstehen</title>
+      <link>/blog/2026-07-14-privatsphaere-im-alltag/</link>
+      <pubDate>Tue, 14 Jul 2026 09:55:47 +0200</pubDate>
+      <guid>/blog/2026-07-14-privatsphaere-im-alltag/</guid>
+      <description>Künstliche Intelligenz analysiert längst nicht mehr nur einzelne Daten. Dieser Artikel zeigt verständlich, wie KI Muster erkennt, Verhalten interpretiert und warum das unsere Privatsphäre verändert.</description>
+    </item>
     <item>
       <title>Cloud, Fotos &amp; Backups, wem gehören meine Daten eigentlich?</title>
       <link>/blog/2026-06-15-cloud-fotos-und-backups/</link>
