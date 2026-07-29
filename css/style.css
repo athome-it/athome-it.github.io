@@ -1290,3 +1290,74 @@ th {
         margin: 15px 0;
     }
 }
+
+.reading-card {
+	border-left: 4px solid #7a7a7a;
+	background: #f7f7f7;
+    border-radius: 5px;
+    padding: 1rem 1.2rem;
+    margin: 1.5rem 0;
+}
+
+.reading-title {
+    font-weight: 600;
+    margin-bottom: .4rem;
+    line-height: 1.4;
+}
+
+.reading-title::before {
+    content: "🌐";
+    margin-right: .35rem;
+}
+
+.reading-title a {
+    text-decoration: none;
+}
+
+/* Die Farbe und Hover-Effekte kommen aus deinem normalen Link-CSS */
+
+.reading-title a:hover {
+    text-decoration: underline;
+}
+
+.reading-text {
+    color: #555;
+    line-height: 1.6;
+}
+
+.reading-text p:last-child {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width:768px){
+
+    .reading-card{
+        padding:.9rem 1rem;
+        margin:1rem 0;
+    }
+
+}
+
+.article-card {
+    background: #f8f8f8;
+    border-left: 4px solid #999;
+    border-radius: 5px;
+    padding: 1rem 1.2rem;
+    margin: 1.5rem 0;
+}
+
+.article-title {
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: .4rem;
+}
+
+.article-title::before {
+    content: "📖";
+    margin-right: .35rem;
+}
+
+.article-text {
+    color: #555;
+    line-height: 1.6;
+}
