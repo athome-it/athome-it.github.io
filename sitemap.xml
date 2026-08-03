@@ -2,8 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2026-08-02T06:42:38+00:00</lastmod>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/tags/datenschutz/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/tags/digitale-identit%C3%A4t/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/tags/digitale-souver%C3%A4nit%C3%A4t/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2026-08-03-passwords-identities-security/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/tags/privatsph%C3%A4re/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/series/privatsph%C3%A4re-im-alltag/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/tags/sicherheit/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/categories/sicherheit/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-08-03T10:25:46+02:00</lastmod>
   </url><url>
     <loc>/tags/social-media-wochenr%C3%BCckblick/</loc>
     <lastmod>2026-08-02T06:42:38+00:00</lastmod>
@@ -12,12 +51,6 @@
     <lastmod>2026-08-02T06:42:38+00:00</lastmod>
   </url><url>
     <loc>/categories/social-media-posts/</loc>
-    <lastmod>2026-08-02T06:42:38+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-08-02T06:42:38+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2026-08-02T06:42:38+00:00</lastmod>
   </url><url>
     <loc>/weekly/</loc>
@@ -44,34 +77,10 @@
     <loc>/weekly/2026-07-19-kw29-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2026-07-14T09:55:47+02:00</lastmod>
-  </url><url>
-    <loc>/tags/datenschutz/</loc>
-    <lastmod>2026-07-14T09:55:47+02:00</lastmod>
-  </url><url>
-    <loc>/categories/datenschutz/</loc>
-    <lastmod>2026-07-14T09:55:47+02:00</lastmod>
-  </url><url>
-    <loc>/tags/digitale-souver%C3%A4nit%C3%A4t/</loc>
-    <lastmod>2026-07-14T09:55:47+02:00</lastmod>
-  </url><url>
     <loc>/blog/2026-07-14-privatsphaere-im-alltag/</loc>
     <lastmod>2026-07-14T09:55:47+02:00</lastmod>
   </url><url>
     <loc>/tags/k%C3%BCnstliche-intelligenz/</loc>
-    <lastmod>2026-07-14T09:55:47+02:00</lastmod>
-  </url><url>
-    <loc>/tags/privatsph%C3%A4re/</loc>
-    <lastmod>2026-07-14T09:55:47+02:00</lastmod>
-  </url><url>
-    <loc>/series/privatsph%C3%A4re-im-alltag/</loc>
-    <lastmod>2026-07-14T09:55:47+02:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2026-07-14T09:55:47+02:00</lastmod>
-  </url><url>
-    <loc>/categories/sicherheit/</loc>
     <lastmod>2026-07-14T09:55:47+02:00</lastmod>
   </url><url>
     <loc>/tags/tracking/</loc>
@@ -246,9 +255,6 @@
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/2026-03-24-das-neue-ich/</loc>
-    <lastmod>2026-03-24T09:23:31+02:00</lastmod>
-  </url><url>
-    <loc>/tags/digitale-identit%C3%A4t/</loc>
     <lastmod>2026-03-24T09:23:31+02:00</lastmod>
   </url><url>
     <loc>/series/digitale-spurensuche/</loc>
