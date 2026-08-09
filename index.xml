@@ -6,14 +6,35 @@
     <description>Recent content in Willkommen bei athome-it on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 03 Aug 2026 10:25:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:35:09 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Media Wochenrückblick der KW 32, 2026</title>
+      <link>/weekly/2026-08-09-kw32-weekly-posts/</link>
+      <pubDate>Sun, 09 Aug 2026 06:35:09 +0000</pubDate>
+      <guid>/weekly/2026-08-09-kw32-weekly-posts/</guid>
+      <description>Social Media Wochenrückblick der KW 32, 2026</description>
+    </item>
+    <item>
+      <title>Geteilte Beiträge &amp; Empfehlungen der KW 32, 2026</title>
+      <link>/weekly/2026-08-09-kw32-weekly-shared-mastodon-posts/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/weekly/2026-08-09-kw32-weekly-shared-mastodon-posts/</guid>
+      <description>Geteilte Beiträge &amp;amp; Empfehlungen der KW 32, 2026</description>
+    </item>
     <item>
       <title>Passwörter, Identitäten &amp; Sicherheit, warum digitale Identität mehr ist als ein Login</title>
       <link>/blog/2026-08-03-passwords-identities-security/</link>
       <pubDate>Mon, 03 Aug 2026 10:25:46 +0200</pubDate>
       <guid>/blog/2026-08-03-passwords-identities-security/</guid>
       <description>Digitale Identität besteht aus weit mehr als Passwörtern. Dieser Artikel zeigt, wie Accounts, Authentifizierung und Sicherheit unseren digitalen Alltag prägen und warum Kontrolle darüber entscheidend ist.</description>
+    </item>
+    <item>
+      <title>Weiterführende Informationen zu Smart Glasses</title>
+      <link>/references/smart-glasses/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/references/smart-glasses/</guid>
+      <description>Diese Seite sammelt weiterführende Artikel, Quellen und Informationen rund um Smart Glasses, KI-Brillen, Datenschutz und gesellschaftliche Auswirkungen.&#xA;Neben den Artikeln auf athome-it, erscheinen regelmäßig interessante Beiträge anderer Autoren, Fachmedien und Organisationen. Auf dieser Seite sammle ich lesenswerte Artikel rund um Smart Glasses, Datenschutz, KI-Brillen und deren gesellschaftliche Auswirkungen.&#xA;Die Quellen werden regelmäßig ergänzt und sind nach Veröffentlichungsdatum sortiert. Die neuesten Beiträge stehen am Anfang der Liste.&#xD;Eigene Artikel Smart Glasses, Zwischen Science-Fiction, Komfort und digitaler Überwachung&#xD;Smart Glasses kommen in der Mitte der Gesellschaft an.</description>
     </item>
     <item>
       <title>Social Media Wochenrückblick der KW 31, 2026</title>
@@ -896,13 +917,6 @@
       <pubDate>Fri, 29 Nov 2024 12:39:22 +0200</pubDate>
       <guid>/news/2024-11-29-plattform-athome-it-startet/</guid>
       <description>Plattform athome-it startet</description>
-    </item>
-    <item>
-      <title>Willkommen bei athome-it</title>
-      <link>/_index---kopie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/_index---kopie/</guid>
-      <description>Ihre Plattform für News und Informationen rund um IT-Sicherheit, Datenschutz und Künstliche Intelligenz im privaten Umfeld.&#xA;In der heutigen digitalen Welt sind Themen wie IT-Sicherheit, Datenschutz und der Schutz der Privatsphäre wichtiger denn je. Egal, ob Sie täglich mit Technologie arbeiten oder einfach nur sicher durchs Netz navigieren möchten. athome-it bietet Ihnen fundiertes Wissen, verständlich erklärt und praxisnah aufbereitet.&#xA;Unsere Inhalte richten sich an alle, die sich mit digitaler Sicherheit auseinandersetzen wollen, ganz unabhängig vom technischen Vorwissen.</description>
     </item>
   </channel>
 </rss>
