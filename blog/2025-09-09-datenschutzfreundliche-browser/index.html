@@ -112,7 +112,7 @@
         <li><a href="#vergleich-firefoxlibrewolf-vs-chromium">Vergleich: Firefox/LibreWolf vs. Chromium</a></li>
         <li><a href="#die-besten-mobilen-browser">Die besten mobilen Browser</a></li>
         <li><a href="#wer-schützen-will-muss-wechseln">Wer schützen will, muss wechseln</a></li>
-        <li><a href="#und-was-ist-mit-suchmaschinen-datenschutz-hört-beim-browser-nicht-auf">Und was ist mit Suchmaschinen? Datenschutz hört beim Browser nicht auf</a></li>
+        <li><a href="#und-was-ist-mit-suchmaschinen-datenschutz-hört-nicht-beim-browser-auf">Und was ist mit Suchmaschinen? Datenschutz hört nicht beim Browser auf</a></li>
       </ul>
     </li>
   </ul>
@@ -128,8 +128,8 @@
 
 <p>Edge, obwohl technisch auf Chromium basierend, verschärft das Problem durch Telemetrie, Werbung für Microsoft-Dienste und schwachen Tracking-Schutz. Auch Opera ist durch Werbung und Integration mit Drittanbietern kein Datenschutzgewinn.</p>
 <h3 id="die-besten-alternativen-für-mehr-privatsphäre">Die besten Alternativen für mehr Privatsphäre</h3>
-<h4 id="firefox-die-flexible-lösung">Firefox die flexible Lösung</h4>
-<p>Firefox ist eine solide Wahl für datenschutzbewusstes Surfen vorausgesetzt, du nimmst ein paar Einstellungen vor:</p>
+<h4 id="firefox-die-flexible-lösung">Firefox, die flexible Lösung</h4>
+<p>Firefox ist eine solide Wahl für datenschutzbewusstes Surfen – vorausgesetzt, du nimmst ein paar Einstellungen vor:</p>
 <ul>
 <li><strong>Tracking-Schutz auf „Streng“ setzen</strong> → <code>about:preferences#privacy</code></li>
 <li><strong>Telemetrie &amp; Datensammlung deaktivieren</strong> → <code>about:preferences#privacy</code></li>
@@ -137,13 +137,35 @@
 <li><strong>Fingerprinting-Schutz aktivieren</strong> → <code>privacy.resistFingerprinting = true</code></li>
 <li><strong>Cookies automatisch löschen</strong> → Verhindert langfristiges Tracking</li>
 </ul>
-<p>Ergänzt durch Add-ons wie <strong>uBlock Origin</strong>, <strong>ClearURLs</strong> und <strong>Cookie AutoDelete</strong> wird Firefox zu einem mächtigen Schutzschild. Zusätzlichen Schutz bieten noch <strong>LocalCDN</strong>, verhindert Tracking durch externe Skripte und <strong>Privacy Badger</strong>, erkennt Tracker automatisch.</p>
+<p>Ergänzt durch Add-ons wie <strong>uBlock Origin</strong>, <strong>ClearURLs</strong> und <strong>Cookie AutoDelete</strong> wird Firefox zu einem mächtigen Schutzschild. Zusätzlichen Schutz bieten <strong>LocalCDN</strong>, das Tracking durch externe Skripte reduziert, und <strong>Privacy Badger</strong>, das Tracker automatisch erkennt.</p>
 <div class="hint tip">
-  <p>Mit der Erweiterung <strong>Firefox Multi-Account Containers</strong> kannst du Logins und Tracker voneinander isolieren, ideal wenn du gleichzeitig in mehreren Konten angemeldet bist.</p>
-<p>Die <strong>Installation der Firefox Multi-Account Containers findest du hier -&gt; <a href="https://addons.mozilla.org/de/firefox/addon/multi-account-containers/">Firefox Multi-Account Containers</a></strong></p>
+  <p><strong>Firefox hat seit Version 153 die Container inzwischen direkt integriert.</strong></p>
+<p>Mit den <strong>Firefox-Containern</strong> kannst du beispielsweise private, berufliche oder andere Aktivitäten voneinander trennen. Cookies und Website-Daten werden dabei zwischen den Containern getrennt, sodass du beispielsweise mehrere Konten derselben Website gleichzeitig nutzen kannst. Für die grundlegende Container-Funktion ist daher keine zusätzliche Erweiterung mehr notwendig.</p>
+<p>Wer darüber hinaus Funktionen wie <strong>Website-spezifische Container-Zuweisungen, Synchronisation oder die Integration mit Mozilla VPN</strong> nutzen möchte, kann weiterhin die <strong>Firefox Multi-Account Containers</strong>-Erweiterung verwenden.</p>
 
 </div>
 
+<div class="reading-card">
+
+    <div class="reading-title">
+        <a href="https://addons.mozilla.org/de/firefox/addon/multi-account-containers/"
+           target="_blank"
+           rel="noopener noreferrer">
+            Firefox Multi-Account Containers – Erweiterung
+        </a>
+    </div>
+
+    
+    <div class="reading-source">
+        Quelle: Mozilla Add-ons
+    </div>
+    
+
+    <div class="reading-text">
+        Mit Multi-Account Containers kannst du Webseiten bestimmten Containern zuweisen und dadurch beispielsweise private und berufliche Konten oder unterschiedliche Bereiche deines digitalen Alltags voneinander trennen.
+    </div>
+
+</div>
 <h4 id="librewolf-maximaler-schutz-ab-werk">LibreWolf maximaler Schutz ab Werk</h4>
 <p>LibreWolf basiert auf Firefox, ist aber komplett auf Datenschutz getrimmt. Schon nach der Installation ist:</p>
 <ul>
@@ -258,12 +280,21 @@
 Wähle einen Browser, der dich schützt, nicht verkauft.
 </div>
 
-<h3 id="und-was-ist-mit-suchmaschinen-datenschutz-hört-beim-browser-nicht-auf">Und was ist mit Suchmaschinen? Datenschutz hört beim Browser nicht auf</h3>
-<div class="hint info">
-  🔗 <strong>Weiterlesen:</strong> Browser sind ein wichtiger Schritt, aber auch deine Suchmaschine entscheidet, wie viele Daten über dich gesammelt werden.
-In unserem Artikel <a href="../../blog/2025-09-16-datenschutz-suchmaschienen"><strong>„Datenschutzfreundliche Suchmaschinen Alternativen zu Google“</strong></a> findest du die besten Optionen.
-</div>
+<h3 id="und-was-ist-mit-suchmaschinen-datenschutz-hört-nicht-beim-browser-auf">Und was ist mit Suchmaschinen? Datenschutz hört nicht beim Browser auf</h3>
+<p>In einer Welt, in der fast jede Websuche Spuren hinterlässt, ist der Wunsch nach digitaler Privatsphäre längst kein Nischenthema mehr. Wer auf Tracking, personalisierte Werbung oder Fingerprinting verzichten möchte, muss sich nicht nur von Google lösen, sondern auch verstehen, wie alternative Suchmaschinen wirklich arbeiten und welche Abstriche sie möglicherweise mit sich bringen.</p>
+<div class="article-card">
 
+    <div class="article-title">
+        <a href="../../blog/2025-09-16-datenschutz-suchmaschienen/">
+            Datenschutzfreundliche Suchmaschinen Alternativen zu Google
+        </a>
+    </div>
+
+    <div class="article-text">
+        In diesem Artikel findest du die besten Optionen.
+    </div>
+
+</div>
 
   
   
