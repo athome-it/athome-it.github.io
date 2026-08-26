@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/bluesky/</loc>
-    <lastmod>2026-08-26T09:02:50+02:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
     <lastmod>2026-08-26T09:02:50+02:00</lastmod>
   </url><url>
     <loc>/news/2026-08-26-sammelklage-gegen-schufa/</loc>
-    <lastmod>2026-08-26T09:02:50+02:00</lastmod>
-  </url><url>
-    <loc>/tags/mastodon/</loc>
     <lastmod>2026-08-26T09:02:50+02:00</lastmod>
   </url><url>
     <loc>/tags/news/</loc>
@@ -21,6 +15,9 @@
     <lastmod>2026-08-26T09:02:50+02:00</lastmod>
   </url><url>
     <loc>/news/</loc>
+    <lastmod>2026-08-26T09:02:50+02:00</lastmod>
+  </url><url>
+    <loc>/tags/schufa/</loc>
     <lastmod>2026-08-26T09:02:50+02:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
@@ -280,6 +277,9 @@
   </url><url>
     <loc>/weekly/2026-04-17-kw16-weekly-posts/</loc>
     <lastmod>2026-04-17T08:16:58+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mastodon/</loc>
+    <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/weekly/2026-04-17-kw16-weekly-shared-mastodon-posts/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
@@ -720,6 +720,9 @@
     <lastmod>2024-12-16T15:59:56+02:00</lastmod>
   </url><url>
     <loc>/guides/2024-12-16-anleitung-eroeffnung-eines-accounts-bei-bluesky/</loc>
+    <lastmod>2024-12-16T15:53:04+02:00</lastmod>
+  </url><url>
+    <loc>/tags/bluesky/</loc>
     <lastmod>2024-12-16T15:53:04+02:00</lastmod>
   </url><url>
     <loc>/blog/2024-12-16-mastodon-bluesky-alternativen-zu-twitter/</loc>
