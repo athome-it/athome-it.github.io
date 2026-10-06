@@ -2,8 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/ai-act/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2026-10-04T06:48:35+00:00</lastmod>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/tags/datenschutz/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/categories/datenschutz/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/tags/dsgvo/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/tags/ki/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/tags/privatsph%C3%A4re/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/categories/sicherheit/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/tags/smart-glasses/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/series/smart-glasses-die-unsichtbare-schnittstelle/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/blog/2026-10-06-smart-glasses-im-alltag/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/tags/tracking/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-10-06T09:52:54+02:00</lastmod>
   </url><url>
     <loc>/tags/social-media-wochenr%C3%BCckblick/</loc>
     <lastmod>2026-10-04T06:48:35+00:00</lastmod>
@@ -12,12 +57,6 @@
     <lastmod>2026-10-04T06:48:35+00:00</lastmod>
   </url><url>
     <loc>/categories/social-media-posts/</loc>
-    <lastmod>2026-10-04T06:48:35+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-10-04T06:48:35+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2026-10-04T06:48:35+00:00</lastmod>
   </url><url>
     <loc>/weekly/</loc>
@@ -71,43 +110,7 @@
     <loc>/tags/schufa/</loc>
     <lastmod>2026-08-26T09:02:50+02:00</lastmod>
   </url><url>
-    <loc>/tags/ai-act/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
-    <loc>/tags/datenschutz/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
-    <loc>/categories/datenschutz/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
-    <loc>/tags/dsgvo/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
-    <loc>/tags/ki/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
-    <loc>/tags/privatsph%C3%A4re/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
-    <loc>/categories/sicherheit/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
-    <loc>/tags/smart-glasses/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
-    <loc>/series/smart-glasses-die-unsichtbare-schnittstelle/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
     <loc>/blog/2026-08-25-smart-glasses-digitale-ueberwachung/</loc>
-    <lastmod>2026-08-25T09:22:09+02:00</lastmod>
-  </url><url>
-    <loc>/tags/tracking/</loc>
     <lastmod>2026-08-25T09:22:09+02:00</lastmod>
   </url><url>
     <loc>/weekly/2026-08-23-kw34-weekly-posts/</loc>
