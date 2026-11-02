@@ -6,8 +6,29 @@
     <description>Recent content in Tags on athome-it</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:11:39 +0100</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bluesky</title>
+      <link>/tags/bluesky/</link>
+      <pubDate>Mon, 02 Nov 2026 11:11:39 +0100</pubDate>
+      <guid>/tags/bluesky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mastodon</title>
+      <link>/tags/mastodon/</link>
+      <pubDate>Mon, 02 Nov 2026 11:11:39 +0100</pubDate>
+      <guid>/tags/mastodon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>/tags/news/</link>
+      <pubDate>Mon, 02 Nov 2026 11:11:39 +0100</pubDate>
+      <guid>/tags/news/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Geteilte Beiträge Und Empfehlungen</title>
       <link>/tags/geteilte-beitr%C3%A4ge-und-empfehlungen/</link>
@@ -69,13 +90,6 @@
       <link>/tags/chatgpt/</link>
       <pubDate>Tue, 27 Oct 2026 09:11:21 +0100</pubDate>
       <guid>/tags/chatgpt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>/tags/news/</link>
-      <pubDate>Tue, 27 Oct 2026 09:11:21 +0100</pubDate>
-      <guid>/tags/news/</guid>
       <description></description>
     </item>
     <item>
@@ -244,13 +258,6 @@
       <link>/tags/breitbandmessung/</link>
       <pubDate>Mon, 20 Apr 2026 10:32:43 +0200</pubDate>
       <guid>/tags/breitbandmessung/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mastodon</title>
-      <link>/tags/mastodon/</link>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/mastodon/</guid>
       <description></description>
     </item>
     <item>
@@ -559,13 +566,6 @@
       <link>/tags/microblogging/</link>
       <pubDate>Mon, 16 Dec 2024 15:59:56 +0200</pubDate>
       <guid>/tags/microblogging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bluesky</title>
-      <link>/tags/bluesky/</link>
-      <pubDate>Mon, 16 Dec 2024 15:53:04 +0200</pubDate>
-      <guid>/tags/bluesky/</guid>
       <description></description>
     </item>
     <item>
