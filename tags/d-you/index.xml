@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D-You on athome-it</title>
+    <link>/tags/d-you/</link>
+    <description>Recent content in D-You on athome-it</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Thu, 05 Nov 2026 07:57:35 +0100</lastBuildDate>
+    <atom:link href="/tags/d-you/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>d-you: Neue Website erklärt Deutschlands digitale Ausweis-App</title>
+      <link>/news/2026-11-05-d-you-erklaert/</link>
+      <pubDate>Thu, 05 Nov 2026 07:57:35 +0100</pubDate>
+      <guid>/news/2026-11-05-d-you-erklaert/</guid>
+      <description>Die Bundesregierung hat die neue Website zur digitalen Brieftasche d-you freigeschaltet. Dort findest du Informationen zu den geplanten Funktionen, zur Einrichtung und zum Datenschutz. Die App selbst soll am 2. Januar 2027 starten.</description>
+    </item>
+  </channel>
+</rss>
