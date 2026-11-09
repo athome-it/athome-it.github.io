@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on athome-it</title>
+    <link>/tags/open-source/</link>
+    <description>Recent content in Open Source on athome-it</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 09 Nov 2026 10:20:29 +0100</lastBuildDate>
+    <atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digitale Souveränität: Warum „Wechsele einfach zu Linux!“ zu kurz gedacht ist</title>
+      <link>/blog/2026-11-09-change-windows-to-linux/</link>
+      <pubDate>Mon, 09 Nov 2026 10:20:29 +0100</pubDate>
+      <guid>/blog/2026-11-09-change-windows-to-linux/</guid>
+      <description>Ein realistischer Blick darauf, was digitale Souveränität für Anwender bedeutet</description>
+    </item>
+  </channel>
+</rss>
